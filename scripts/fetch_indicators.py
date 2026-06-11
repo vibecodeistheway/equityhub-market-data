@@ -57,22 +57,30 @@ def fetch_multpl_value(url):
     return float(match.group(0).replace(",", ""))
 
 
-def fetch_shiller_pe_history(years=25):
-    """Monthly Shiller PE history from multpl's by-month table, oldest first."""
-    html = fetch("https://www.multpl.com/shiller-pe/table/by-month")
+def fetch_multpl_history(url, max_points):
+    """History from a multpl table page (newest first), returned oldest first."""
+    html = fetch(url)
     rows = re.findall(
         r"<td>([A-Z][a-z]{2} \d{1,2}, \d{4})</td>\s*<td>\s*&#x2002;\s*([\d.]+)",
         html,
     )
     if not rows:
-        raise ValueError("no rows parsed from shiller-pe by-month table")
+        raise ValueError(f"no rows parsed from {url}")
 
     history = []
-    for raw_date, raw_value in rows[: years * 12]:
+    for raw_date, raw_value in rows[:max_points]:
         parsed = datetime.strptime(raw_date, "%b %d, %Y")
         history.append({"d": parsed.strftime("%Y-%m-%d"), "v": float(raw_value)})
     history.reverse()
     return history
+
+
+# 25 years of context for the in-app charts
+HISTORY_SERIES = {
+    "shiller_pe_history": ("https://www.multpl.com/shiller-pe/table/by-month", 25 * 12),
+    "inflation_history": ("https://www.multpl.com/inflation/table/by-month", 25 * 12),
+    "us_gdp_history": ("https://www.multpl.com/us-gdp/table/by-quarter", 25 * 4),
+}
 
 
 def fetch_cpi_yoy_bls():
@@ -134,10 +142,11 @@ def main():
         except Exception as exc:  # noqa: BLE001
             errors.append(f"inflation_yoy (multpl fallback): {exc}")
 
-    try:
-        output["shiller_pe_history"] = fetch_shiller_pe_history()
-    except Exception as exc:  # noqa: BLE001
-        errors.append(f"shiller_pe_history: {exc}")
+    for key, (url, max_points) in HISTORY_SERIES.items():
+        try:
+            output[key] = fetch_multpl_history(url, max_points)
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"{key}: {exc}")
 
     try:
         output["fear_greed"] = fetch_fear_greed()
