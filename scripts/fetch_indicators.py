@@ -24,9 +24,13 @@ USER_AGENT = (
 
 MULTPL_PAGES = {
     "shiller_pe": "https://www.multpl.com/shiller-pe",
-    "inflation_yoy": "https://www.multpl.com/inflation",
     "us_gdp_trillions": "https://www.multpl.com/us-gdp",
 }
+
+# multpl's inflation page lags the BLS release by weeks; BLS is authoritative
+# and updates on release day (CPI-U, all items, not seasonally adjusted).
+MULTPL_INFLATION_FALLBACK = "https://www.multpl.com/inflation"
+BLS_CPI_URL = "https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0"
 
 FEAR_GREED_URL = "https://production.dataviz.cnn.io/index/fearandgreed/graphdata"
 
@@ -51,6 +55,26 @@ def fetch_multpl_value(url):
     if not match:
         raise ValueError(f"no numeric value found after marker on {url}")
     return float(match.group(0).replace(",", ""))
+
+
+def fetch_cpi_yoy_bls():
+    """Headline CPI YoY from the official BLS public API (no key needed)."""
+    from datetime import date
+
+    year = date.today().year
+    url = f"{BLS_CPI_URL}?startyear={year - 1}&endyear={year}"
+    data = json.loads(fetch(url))
+    if data.get("status") != "REQUEST_SUCCEEDED":
+        raise ValueError(f"BLS API status: {data.get('status')}")
+
+    entries = data["Results"]["series"][0]["data"]  # newest first
+    latest = entries[0]
+    prior = next(
+        e
+        for e in entries
+        if e["period"] == latest["period"] and int(e["year"]) == int(latest["year"]) - 1
+    )
+    return round((float(latest["value"]) / float(prior["value"]) - 1) * 100, 2)
 
 
 def fetch_fear_greed():
@@ -82,6 +106,15 @@ def main():
             output[key] = fetch_multpl_value(url)
         except Exception as exc:  # noqa: BLE001 - record and continue
             errors.append(f"{key}: {exc}")
+
+    try:
+        output["inflation_yoy"] = fetch_cpi_yoy_bls()
+    except Exception as bls_exc:  # noqa: BLE001
+        errors.append(f"inflation_yoy (BLS): {bls_exc}")
+        try:
+            output["inflation_yoy"] = fetch_multpl_value(MULTPL_INFLATION_FALLBACK)
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"inflation_yoy (multpl fallback): {exc}")
 
     try:
         output["fear_greed"] = fetch_fear_greed()

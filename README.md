@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/vibecodeistheway/equityhub-market-data/main/in
 | Field | Source |
 |---|---|
 | `shiller_pe` | [multpl.com/shiller-pe](https://www.multpl.com/shiller-pe) |
-| `inflation_yoy` | [multpl.com/inflation](https://www.multpl.com/inflation) |
+| `inflation_yoy` | BLS public API (official CPI-U YoY) — [multpl.com/inflation](https://www.multpl.com/inflation) fallback |
 | `us_gdp_trillions` | [multpl.com/us-gdp](https://www.multpl.com/us-gdp) |
 | `fear_greed` | CNN Fear & Greed Index |
 
