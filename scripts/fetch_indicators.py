@@ -57,6 +57,24 @@ def fetch_multpl_value(url):
     return float(match.group(0).replace(",", ""))
 
 
+def fetch_shiller_pe_history(years=25):
+    """Monthly Shiller PE history from multpl's by-month table, oldest first."""
+    html = fetch("https://www.multpl.com/shiller-pe/table/by-month")
+    rows = re.findall(
+        r"<td>([A-Z][a-z]{2} \d{1,2}, \d{4})</td>\s*<td>\s*&#x2002;\s*([\d.]+)",
+        html,
+    )
+    if not rows:
+        raise ValueError("no rows parsed from shiller-pe by-month table")
+
+    history = []
+    for raw_date, raw_value in rows[: years * 12]:
+        parsed = datetime.strptime(raw_date, "%b %d, %Y")
+        history.append({"d": parsed.strftime("%Y-%m-%d"), "v": float(raw_value)})
+    history.reverse()
+    return history
+
+
 def fetch_cpi_yoy_bls():
     """Headline CPI YoY from the official BLS public API (no key needed)."""
     from datetime import date
@@ -115,6 +133,11 @@ def main():
             output["inflation_yoy"] = fetch_multpl_value(MULTPL_INFLATION_FALLBACK)
         except Exception as exc:  # noqa: BLE001
             errors.append(f"inflation_yoy (multpl fallback): {exc}")
+
+    try:
+        output["shiller_pe_history"] = fetch_shiller_pe_history()
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"shiller_pe_history: {exc}")
 
     try:
         output["fear_greed"] = fetch_fear_greed()
