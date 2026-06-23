@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T02:00:02+00:00",
+  "updated_at": "2026-06-23T08:54:39+00:00",
   "shiller_pe": 41.58,
   "us_gdp_trillions": 31.82,
   "inflation_yoy": 4.25,
@@ -2810,11 +2810,11 @@
     }
   ],
   "fear_greed": {
-    "score": 34.7428571428571,
+    "score": 33.2439560439561,
     "rating": "fear",
-    "previous_close": 37.2571428571429,
-    "previous_1_week": 41.5714285714286,
+    "previous_close": 34.7428571428571,
+    "previous_1_week": 39.0857142857143,
     "previous_1_month": 58.9714285714286,
-    "previous_1_year": 54.51428571428573
+    "previous_1_year": 56.60000000000001
   }
 }
