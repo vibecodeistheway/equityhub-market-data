@@ -123,6 +123,145 @@ def fetch_fear_greed():
     }
 
 
+
+
+# --- Taiwan exports (Ministry of Finance trade statistics database) ---------
+#
+# web02.mof.gov.tw serves CSV exports of its statistical tables:
+#   i8121: total exports by month, million USD ("按美元計算(百萬美元)/ 總計")
+#   i8123: export share (%) by principal commodity group; the AI-relevant
+#          columns are "(1)電子零組件" (electronic components / chips) and
+#          "(4)資通與視聽產品" (ICT & AV products) under 16.機械及電機設備.
+# ICT export value = total × (chips share + ICT share) / 100. Dates use ROC
+# years ("115年 5月" = May 2026); year/aggregate rows are skipped.
+
+MOF_BASE = "https://web02.mof.gov.tw/njswww/webMain.aspx"
+TAIWAN_HISTORY_YEARS = 11  # 10y of YoY history needs 11y of raw values
+
+
+def _mof_csv(funid, ym, ymt, fldspc=None):
+    import csv
+    import io
+
+    url = (
+        f"{MOF_BASE}?sys=220&ym={ym}&ymt={ymt}&kind=21&type=1&funid={funid}"
+        "&cycle=41&outmode=12&compmode=00&outkind=1&utf=1"
+    )
+    if fldspc:
+        url += f"&fldspc={fldspc}"
+    raw = fetch(url)
+    if raw.startswith("\ufeff"):
+        raw = raw[1:]
+    return list(csv.reader(io.StringIO(raw)))
+
+
+def _parse_roc_month(label):
+    """"115年 5月" -> "2026-05-01"; returns None for year/aggregate rows."""
+    match = re.fullmatch(r"(\d{2,3})年 (\d{1,2})月", label.strip())
+    if not match:
+        return None
+    return f"{int(match.group(1)) + 1911:04d}-{int(match.group(2)):02d}-01"
+
+
+def fetch_taiwan_exports():
+    from datetime import date
+
+    today = date.today()
+    start_year = today.year - TAIWAN_HISTORY_YEARS
+    ym = f"{start_year - 1911}01"
+    ymt = f"{today.year - 1911}12"
+
+    totals_rows = _mof_csv("i8121", ym, ymt)
+    total_col = next(
+        i for i, h in enumerate(totals_rows[0]) if "百萬美元" in h and "總計" in h
+    )
+    totals = {}
+    for row in totals_rows[1:]:
+        if len(row) <= total_col:
+            continue
+        month = _parse_roc_month(row[0])
+        if month and row[total_col]:
+            totals[month] = float(row[total_col].replace(",", ""))
+
+    shares_rows = _mof_csv("i8123", ym, ymt, fldspc="0,60,")
+    header = shares_rows[0]
+    chip_col = next(i for i, h in enumerate(header) if "電子零組件" in h)
+    ict_col = next(i for i, h in enumerate(header) if "資通與視聽" in h)
+    ict_values = {}
+    for row in shares_rows[1:]:
+        if len(row) <= max(chip_col, ict_col):
+            continue
+        month = _parse_roc_month(row[0])
+        if month and month in totals and row[chip_col] and row[ict_col]:
+            share = float(row[chip_col]) + float(row[ict_col])
+            ict_values[month] = totals[month] * share / 100
+
+    def yoy_series(values):
+        months = sorted(values)
+        series = []
+        for month in months:
+            prior = f"{int(month[:4]) - 1}{month[4:]}"
+            if prior in values and values[prior] > 0:
+                series.append(
+                    {"d": month, "v": round((values[month] / values[prior] - 1) * 100, 2)}
+                )
+        return series
+
+    total_yoy = yoy_series(totals)
+    ict_yoy = yoy_series(ict_values)
+    if not total_yoy or not ict_yoy:
+        raise ValueError("no Taiwan YoY series computed")
+
+    return {
+        "taiwan_exports_yoy": total_yoy[-1]["v"],
+        "taiwan_ict_exports_yoy": ict_yoy[-1]["v"],
+        "taiwan_exports_history": total_yoy,
+        "taiwan_ict_exports_history": ict_yoy,
+    }
+
+
+# --- US presidential approval (VoteHub) --------------------------------------
+
+VOTEHUB_APPROVAL_URL = "https://api.votehub.com/polls?poll_type=approval&subject=Trump"
+
+
+def fetch_approval():
+    """Weekly 14-day-trailing average of approval polls over the last 2 years."""
+    from datetime import date, timedelta
+
+    polls = json.loads(fetch(VOTEHUB_APPROVAL_URL))
+    readings = []
+    for poll in polls:
+        approve = next(
+            (a["pct"] for a in poll.get("answers", []) if a.get("choice") == "Approve"),
+            None,
+        )
+        end = poll.get("end_date")
+        if approve is None or not end:
+            continue
+        readings.append((date.fromisoformat(end), float(approve)))
+
+    if not readings:
+        raise ValueError("no approval polls parsed")
+    readings.sort()
+
+    today = date.today()
+    start = max(readings[0][0], today - timedelta(days=2 * 365))
+    history = []
+    day = start + timedelta(days=13)
+    while day <= today:
+        window = [v for d, v in readings if day - timedelta(days=13) <= d <= day]
+        if window:
+            history.append(
+                {"d": day.isoformat(), "v": round(sum(window) / len(window), 1)}
+            )
+        day += timedelta(days=7)
+
+    if not history:
+        raise ValueError("no approval history computed")
+    return {"us_approval_rating": history[-1]["v"], "us_approval_history": history}
+
+
 def main():
     output = {"updated_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
     errors = []
@@ -152,6 +291,16 @@ def main():
         output["fear_greed"] = fetch_fear_greed()
     except Exception as exc:  # noqa: BLE001
         errors.append(f"fear_greed: {exc}")
+
+    try:
+        output.update(fetch_taiwan_exports())
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"taiwan_exports: {exc}")
+
+    try:
+        output.update(fetch_approval())
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"us_approval: {exc}")
 
     if errors:
         output["errors"] = errors
