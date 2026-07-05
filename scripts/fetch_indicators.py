@@ -220,6 +220,52 @@ def fetch_taiwan_exports():
     }
 
 
+# --- Truflation US inflation (daily YoY) --------------------------------------
+#
+# Truflation's official API needs a key, but its marketplace page is a Nuxt
+# site whose _payload.json is public. The payload is in Nuxt "devalue" format:
+# a flat JSON array where payload[2] is the root map of named entries and every
+# list element / dict value is an index back into the flat array. The entry
+# "indexData-us-inflation-rate-free-free-v1" holds parallel ref-lists of dates
+# ("index") and YoY values ("truflation_us_cpi_frozen_yoy").
+
+TRUFLATION_PAYLOAD_URL = (
+    "https://truflation.com/marketplace/us-inflation-rate/_payload.json"
+)
+TRUFLATION_HISTORY_DAYS = 2 * 365
+
+
+def fetch_truflation():
+    payload = json.loads(fetch(TRUFLATION_PAYLOAD_URL))
+    root = payload[2]
+    node_ref = next(
+        root[key]
+        for key in root
+        if key.startswith("indexData-us-inflation-rate")
+    )
+    node = payload[node_ref]
+    date_refs = payload[node["index"]]
+    value_refs = payload[node["truflation_us_cpi_frozen_yoy"]]
+    if not date_refs or len(date_refs) != len(value_refs):
+        raise ValueError(
+            f"date/value length mismatch: {len(date_refs)} vs {len(value_refs)}"
+        )
+
+    history = []
+    for date_ref, value_ref in zip(date_refs, value_refs):
+        day, value = payload[date_ref], payload[value_ref]
+        if isinstance(day, str) and isinstance(value, (int, float)):
+            history.append({"d": day, "v": round(float(value), 2)})
+    history = history[-TRUFLATION_HISTORY_DAYS:]
+    if not history:
+        raise ValueError("no Truflation points parsed")
+
+    return {
+        "truflation_yoy": history[-1]["v"],
+        "truflation_history": history,
+    }
+
+
 # --- US presidential approval (VoteHub) --------------------------------------
 
 VOTEHUB_APPROVAL_URL = "https://api.votehub.com/polls?poll_type=approval&subject=Trump"
@@ -296,6 +342,11 @@ def main():
         output.update(fetch_taiwan_exports())
     except Exception as exc:  # noqa: BLE001
         errors.append(f"taiwan_exports: {exc}")
+
+    try:
+        output.update(fetch_truflation())
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"truflation: {exc}")
 
     try:
         output.update(fetch_approval())
