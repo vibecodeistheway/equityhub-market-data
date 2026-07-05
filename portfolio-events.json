@@ -901,6 +901,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.0493,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-14",
+      "exDate": "2026-07-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-07-14",
+      "market": "US",
+      "paymentDate": "2026-07-14",
+      "recordDate": "2026-07-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
@@ -2731,6 +2746,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 5.0,
+      "companyName": "Stratus Properties Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-20",
+      "exDate": "2026-07-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STRS-2026-07-20",
+      "market": "US",
+      "paymentDate": "2026-07-20",
+      "recordDate": "2026-07-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "STRS",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.10417,
+      "companyName": "Thornburg Income Builder Opportunities Trust Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-20",
+      "exDate": "2026-07-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TBLD-2026-07-20",
+      "market": "US",
+      "paymentDate": "2026-07-20",
+      "recordDate": "2026-07-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "TBLD",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0493,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -3508,6 +3553,21 @@
       "recordDate": "2026-07-09",
       "source": "Nasdaq Calendar",
       "symbol": "RVSB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.09,
+      "companyName": "CF Bankshares Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-21",
+      "exDate": "2026-07-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CFBK-2026-07-21",
+      "market": "US",
+      "paymentDate": "2026-07-21",
+      "recordDate": "2026-07-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "CFBK",
       "type": "dividend"
     },
     {
@@ -10079,6 +10139,21 @@
       "source": "Alpha Vantage",
       "symbol": "WWD",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.0075,
+      "companyName": "U.S. Global Investors, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-27",
+      "exDate": "2026-07-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GROW-2026-07-27",
+      "market": "US",
+      "paymentDate": "2026-07-27",
+      "recordDate": "2026-07-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "GROW",
+      "type": "dividend"
     },
     {
       "amountPerShare": 1.5,
@@ -30766,5 +30841,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-05T02:00:13.952280+00:00"
+  "updated_at": "2026-07-05T08:37:53.372972+00:00"
 }
