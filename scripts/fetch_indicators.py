@@ -217,6 +217,11 @@ def fetch_taiwan_exports():
         "taiwan_ict_exports_yoy": ict_yoy[-1]["v"],
         "taiwan_exports_history": total_yoy,
         "taiwan_ict_exports_history": ict_yoy,
+        # Monthly export totals in millions USD (same source rows the YoY
+        # series is derived from), for the value-bars + YoY-line chart.
+        "taiwan_exports_value_history": [
+            {"d": month, "v": round(totals[month], 1)} for month in sorted(totals)
+        ],
     }
 
 
