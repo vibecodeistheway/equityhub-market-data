@@ -201,11 +201,12 @@ def sgx_dividend_events() -> list[dict[str, Any]]:
 def sg_earnings_events() -> list[dict[str, Any]]:
     """Upcoming SGX earnings dates from Beansprout's earnings calendar.
 
-    The page is server-rendered and each entry carries a data:text/calendar
-    (ICS) href with UID "<ticker>-<yyyymmdd>@beansprout.co", the company name
-    in SUMMARY, and the fiscal period in DESCRIPTION ("... earnings report for
-    H1 FY2026 on 22 July 2026 ..."). Only the current month is served, but the
-    feed regenerates every 6 hours so coverage rolls forward.
+    The server-rendered page embeds a SvelteKit data island with an
+    `earningsCalendar` JS array covering past and upcoming announcements
+    (beyond the rendered month), e.g.
+    `{companyName:"Keppel DC REIT",exchangeTicker:"AJBU.SI",displayTicker:
+    "AJBU",announcementDate:"2026-04-16",fiscalPeriod:"1Q"}`. Falls back to
+    the per-entry data:text/calendar (ICS) hrefs if the blob format changes.
     """
     events: list[dict[str, Any]] = []
     today = datetime.now(timezone.utc).date().isoformat()
@@ -217,34 +218,20 @@ def sg_earnings_events() -> list[dict[str, Any]]:
         return events
 
     seen: set[str] = set()
-    for match in re.finditer(r'href="data:text/calendar;charset=utf-8,([^"]+)"', html):
-        ics = urllib.parse.unquote(match.group(1))
 
-        uid = re.search(r"UID:([A-Z0-9]+)-(\d{8})@", ics)
-        summary = re.search(r"SUMMARY:(.+?)\s*Earnings Report", ics)
-        if not uid or not summary:
-            continue
-
-        ticker, raw_date = uid.groups()
-        event_date = f"{raw_date[:4]}-{raw_date[4:6]}-{raw_date[6:]}"
-        if event_date < today:
-            continue
-
+    def add(ticker: str, event_date: str, company: str, period: str | None) -> None:
         event_id = f"sg-earnings-{ticker}-{event_date}"
-        if event_id in seen:
-            continue
+        if event_date < today or event_id in seen:
+            return
         seen.add(event_id)
-
-        period = re.search(r"earnings report for (.+?) on ", ics)
-
         events.append({
             "id": event_id,
             "symbol": f"{ticker}.SI",
             "market": "SG",
-            "companyName": summary.group(1).strip(),
+            "companyName": company,
             "type": "earnings",
             "eventDate": event_date,
-            "fiscalPeriod": period.group(1).strip() if period else None,
+            "fiscalPeriod": period,
             "exDate": None,
             "recordDate": None,
             "paymentDate": None,
@@ -252,6 +239,27 @@ def sg_earnings_events() -> list[dict[str, Any]]:
             "currency": "SGD",
             "source": "Beansprout",
         })
+
+    for match in re.finditer(
+        r'companyName:"([^"]+)",exchangeTicker:"([A-Z0-9]+)\.SI",displayTicker:"[^"]*",'
+        r'announcementDate:"(\d{4}-\d{2}-\d{2})",fiscalPeriod:(?:"([^"]*)"|null)',
+        html,
+    ):
+        company, ticker, event_date, period = match.groups()
+        add(ticker, event_date, company, period or None)
+
+    if not events:
+        for match in re.finditer(r'href="data:text/calendar;charset=utf-8,([^"]+)"', html):
+            ics = urllib.parse.unquote(match.group(1))
+            uid = re.search(r"UID:([A-Z0-9]+)-(\d{8})@", ics)
+            summary = re.search(r"SUMMARY:(.+?)\s*Earnings Report", ics)
+            if not uid or not summary:
+                continue
+            ticker, raw_date = uid.groups()
+            event_date = f"{raw_date[:4]}-{raw_date[4:6]}-{raw_date[6:]}"
+            period = re.search(r"earnings report for (.+?) on ", ics)
+            add(ticker, event_date, summary.group(1).strip(),
+                period.group(1).strip() if period else None)
 
     return events
 
