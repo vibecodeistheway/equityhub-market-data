@@ -3,6 +3,7 @@
 
 Current free sources:
 - SGX public corporate actions API for Singapore dividend events.
+- Beansprout (growbeansprout.com) earnings calendar for SGX earnings dates.
 - Alpha Vantage CSV for US upcoming earnings.
 - Nasdaq calendar API for US upcoming dividends.
 - Macro release schedules: FOMC (federalreserve.gov), CPI + jobs report (BLS),
@@ -194,6 +195,63 @@ def sgx_dividend_events() -> list[dict[str, Any]]:
                 "source": "SGX Corporate Actions",
             }
         )
+
+    return events
+
+def sg_earnings_events() -> list[dict[str, Any]]:
+    """Upcoming SGX earnings dates from Beansprout's earnings calendar.
+
+    The page is server-rendered and each entry carries a data:text/calendar
+    (ICS) href with UID "<ticker>-<yyyymmdd>@beansprout.co", the company name
+    in SUMMARY, and the fiscal period in DESCRIPTION ("... earnings report for
+    H1 FY2026 on 22 July 2026 ..."). Only the current month is served, but the
+    feed regenerates every 6 hours so coverage rolls forward.
+    """
+    events: list[dict[str, Any]] = []
+    today = datetime.now(timezone.utc).date().isoformat()
+
+    try:
+        html = fetch_text("https://growbeansprout.com/earnings-calendar")
+    except Exception as e:
+        sys.stderr.write(f"Error fetching Beansprout earnings calendar: {e}\n")
+        return events
+
+    seen: set[str] = set()
+    for match in re.finditer(r'href="data:text/calendar;charset=utf-8,([^"]+)"', html):
+        ics = urllib.parse.unquote(match.group(1))
+
+        uid = re.search(r"UID:([A-Z0-9]+)-(\d{8})@", ics)
+        summary = re.search(r"SUMMARY:(.+?)\s*Earnings Report", ics)
+        if not uid or not summary:
+            continue
+
+        ticker, raw_date = uid.groups()
+        event_date = f"{raw_date[:4]}-{raw_date[4:6]}-{raw_date[6:]}"
+        if event_date < today:
+            continue
+
+        event_id = f"sg-earnings-{ticker}-{event_date}"
+        if event_id in seen:
+            continue
+        seen.add(event_id)
+
+        period = re.search(r"earnings report for (.+?) on ", ics)
+
+        events.append({
+            "id": event_id,
+            "symbol": f"{ticker}.SI",
+            "market": "SG",
+            "companyName": summary.group(1).strip(),
+            "type": "earnings",
+            "eventDate": event_date,
+            "fiscalPeriod": period.group(1).strip() if period else None,
+            "exDate": None,
+            "recordDate": None,
+            "paymentDate": None,
+            "amountPerShare": None,
+            "currency": "SGD",
+            "source": "Beansprout",
+        })
 
     return events
 
@@ -532,7 +590,7 @@ def main() -> int:
     us_earn = us_earnings_events()
     us_div = us_dividend_events()
     
-    all_events = sgx + us_earn + us_div + macro_events()
+    all_events = sgx + sg_earnings_events() + us_earn + us_div + macro_events()
     
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
