@@ -263,6 +263,83 @@ def sg_earnings_events() -> list[dict[str, Any]]:
 
     return events
 
+def sg_earnings_events_investingnote(skip_tickers: set[str]) -> list[dict[str, Any]]:
+    """Upcoming SGX result dates from InvestingNote's events calendar.
+
+    `/stock_events?start=&end=` returns FullCalendar JSON with titles like
+    "Keppel DC Reit (1H Result)" but no ticker; each event's small detail page
+    carries `href="/stocks/SGX:AJBU"`. Only "... Result" events are taken
+    (dividends come from SGX corporate actions). Tickers in `skip_tickers`
+    (already covered by Beansprout) are skipped.
+    """
+    events: list[dict[str, Any]] = []
+    today = datetime.now(timezone.utc).date()
+    start = today.isoformat()
+    end = (today + timedelta(days=90)).isoformat()
+
+    try:
+        request = urllib.request.Request(
+            f"https://www.investingnote.com/stock_events?start={start}&end={end}",
+            headers={
+                "User-Agent": "Mozilla/5.0",
+                "Accept": "application/json",
+                "X-Requested-With": "XMLHttpRequest",
+            },
+        )
+        with urllib.request.urlopen(request, timeout=30) as response:
+            calendar = json.load(response)
+    except Exception as e:
+        sys.stderr.write(f"Error fetching InvestingNote calendar: {e}\n")
+        return events
+
+    import time
+
+    for entry in calendar:
+        title = entry.get("title") or ""
+        match = re.fullmatch(r"(.+?)\s*\(([^)]*?)\s*Result\)", title)
+        if not match:
+            continue
+        company, period = match.groups()
+        event_date = (entry.get("start") or "")[:10]
+        if not event_date or event_date < start:
+            continue
+
+        event_url = entry.get("url") or ""
+        if not event_url.startswith("/stock_events/"):
+            continue
+
+        try:
+            time.sleep(0.2)
+            detail = fetch_text(f"https://www.investingnote.com{event_url}")
+        except Exception as e:
+            sys.stderr.write(f"Error fetching InvestingNote event {event_url}: {e}\n")
+            continue
+
+        ticker_match = re.search(r'href="/stocks/SGX:([A-Z0-9]+)"', detail)
+        if not ticker_match:
+            continue
+        ticker = ticker_match.group(1)
+        if ticker in skip_tickers:
+            continue
+
+        events.append({
+            "id": f"sg-earnings-{ticker}-{event_date}",
+            "symbol": f"{ticker}.SI",
+            "market": "SG",
+            "companyName": company.strip(),
+            "type": "earnings",
+            "eventDate": event_date,
+            "fiscalPeriod": period.strip() or None,
+            "exDate": None,
+            "recordDate": None,
+            "paymentDate": None,
+            "amountPerShare": None,
+            "currency": "SGD",
+            "source": "InvestingNote",
+        })
+
+    return events
+
 def us_earnings_events() -> list[dict[str, Any]]:
     """Fetch upcoming US stock earnings using Alpha Vantage's free demo endpoint."""
     events: list[dict[str, Any]] = []
@@ -598,7 +675,11 @@ def main() -> int:
     us_earn = us_earnings_events()
     us_div = us_dividend_events()
     
-    all_events = sgx + sg_earnings_events() + us_earn + us_div + macro_events()
+    sg_earn = sg_earnings_events()
+    sg_earn += sg_earnings_events_investingnote(
+        skip_tickers={event["symbol"].removesuffix(".SI") for event in sg_earn}
+    )
+    all_events = sgx + sg_earn + us_earn + us_div + macro_events()
     
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),

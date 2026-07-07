@@ -2762,6 +2762,66 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "HPH Trust SGD",
+      "currency": "SGD",
+      "eventDate": "2026-07-21",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-P7VU-2026-07-21",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "P7VU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "HPH Trust SGD",
+      "currency": "SGD",
+      "eventDate": "2026-07-21",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-P7VU-2026-07-21",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "P7VU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "HPH Trust USD",
+      "currency": "SGD",
+      "eventDate": "2026-07-21",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-NS8U-2026-07-21",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "NS8U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "HPH Trust USD",
+      "currency": "SGD",
+      "eventDate": "2026-07-21",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-NS8U-2026-07-21",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "NS8U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ALBERTSONS COMPANIES INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-07-21",
@@ -5762,6 +5822,36 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Mapletree Ind Tr",
+      "currency": "SGD",
+      "eventDate": "2026-07-23",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-ME8U-2026-07-23",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "ME8U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Alpha Integrated REIT",
+      "currency": "SGD",
+      "eventDate": "2026-07-23",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-M1GU-2026-07-23",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "M1GU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "AMERICAN AIRLINES GROUP INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-07-23",
@@ -8402,6 +8492,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Qian Hu",
+      "currency": "SGD",
+      "eventDate": "2026-07-24",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-BCV-2026-07-24",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "BCV.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "AFFINITY BANCSHARES INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-07-24",
@@ -10318,6 +10423,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "HMN.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "SIA",
+      "currency": "SGD",
+      "eventDate": "2026-07-28",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-C6L-2026-07-28",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "C6L.SI",
       "type": "earnings"
     },
     {
@@ -16202,6 +16322,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Keppel Ltd.",
+      "currency": "SGD",
+      "eventDate": "2026-07-30",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-BN4-2026-07-30",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "BN4.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ACADIAN ASSET MANAGEMENT INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-07-30",
@@ -20848,6 +20983,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "5E2.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Great Eastern",
+      "currency": "SGD",
+      "eventDate": "2026-07-31",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-G07-2026-07-31",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "G07.SI",
       "type": "earnings"
     },
     {
@@ -30643,6 +30793,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "UD1U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "IREIT Global EUR",
+      "currency": "SGD",
+      "eventDate": "2026-08-05",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-8U7U-2026-08-05",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "8U7U.SI",
       "type": "earnings"
     },
     {
@@ -45991,5 +46156,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-07T01:25:02.965454+00:00"
+  "updated_at": "2026-07-07T01:43:53.794050+00:00"
 }
