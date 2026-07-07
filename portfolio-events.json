@@ -2701,6 +2701,36 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.23,
+      "companyName": "Farmers & Merchants Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-20",
+      "exDate": "2026-07-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FMAO-2026-07-20",
+      "market": "US",
+      "paymentDate": "2026-07-20",
+      "recordDate": "2026-07-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "FMAO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.48,
+      "companyName": "Bank OZK Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-20",
+      "exDate": "2026-07-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OZK-2026-07-20",
+      "market": "US",
+      "paymentDate": "2026-07-20",
+      "recordDate": "2026-07-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "OZK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 5.0,
       "companyName": "Stratus Properties Inc. Common Stock",
       "currency": "USD",
@@ -3586,6 +3616,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.1,
+      "companyName": "Calamos Convertible and High Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-21",
+      "exDate": "2026-07-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHY-2026-07-21",
+      "market": "US",
+      "paymentDate": "2026-07-21",
+      "recordDate": "2026-07-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHY",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.095,
+      "companyName": "Calamos Convertible Opportunities and Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-21",
+      "exDate": "2026-07-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHI-2026-07-21",
+      "market": "US",
+      "paymentDate": "2026-07-21",
+      "recordDate": "2026-07-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.195,
       "companyName": "Calamos Dynamic Convertible & Income Fund Common Stock",
       "currency": "USD",
@@ -3598,6 +3658,66 @@
       "recordDate": "2026-07-14",
       "source": "Nasdaq Calendar",
       "symbol": "CCD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.06,
+      "companyName": "Calamos Global Dynamic Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-21",
+      "exDate": "2026-07-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHW-2026-07-21",
+      "market": "US",
+      "paymentDate": "2026-07-21",
+      "recordDate": "2026-07-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHW",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.09,
+      "companyName": "Calamos Global Total Return Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-21",
+      "exDate": "2026-07-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CGO-2026-07-21",
+      "market": "US",
+      "paymentDate": "2026-07-21",
+      "recordDate": "2026-07-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CGO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.14,
+      "companyName": "Calamos Long/Short Equity & Dynamic Income Trust Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-21",
+      "exDate": "2026-07-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CPZ-2026-07-21",
+      "market": "US",
+      "paymentDate": "2026-07-21",
+      "recordDate": "2026-07-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CPZ",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.135,
+      "companyName": "Calamos Strategic Total Return Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-21",
+      "exDate": "2026-07-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CSQ-2026-07-21",
+      "market": "US",
+      "paymentDate": "2026-07-21",
+      "recordDate": "2026-07-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CSQ",
       "type": "dividend"
     },
     {
@@ -10438,6 +10558,21 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "C6L.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Aztech Gbl",
+      "currency": "SGD",
+      "eventDate": "2026-07-28",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-8AZ-2026-07-28",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "8AZ.SI",
       "type": "earnings"
     },
     {
@@ -20941,6 +21076,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5,
+      "companyName": "Mount Logan Capital Inc. 8.00% Notes Due 2031",
+      "currency": "USD",
+      "eventDate": "2026-07-30",
+      "exDate": "2026-07-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MLCIL-2026-07-30",
+      "market": "US",
+      "paymentDate": "2026-07-30",
+      "recordDate": "2026-07-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "MLCIL",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.33,
       "companyName": "Johnson Outdoors Inc. Class A Common Stock",
       "currency": "USD",
@@ -21556,6 +21706,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.02533,
+      "companyName": "Global Water Resources, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-31",
+      "exDate": "2026-07-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GWRS-2026-07-31",
+      "market": "US",
+      "paymentDate": "2026-07-31",
+      "recordDate": "2026-07-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "GWRS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.17,
       "companyName": "Herzfeld Credit Income Fund, Inc. Common Stock",
       "currency": "USD",
@@ -21673,6 +21838,21 @@
       "recordDate": "2026-07-17",
       "source": "Nasdaq Calendar",
       "symbol": "WDFC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.075,
+      "companyName": "Immersion Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-31",
+      "exDate": "2026-07-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-IMMR-2026-07-31",
+      "market": "US",
+      "paymentDate": "2026-07-31",
+      "recordDate": "2026-07-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "IMMR",
       "type": "dividend"
     },
     {
@@ -45572,21 +45752,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-08-07",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-08-07",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "ELITE UK REIT",
       "currency": "SGD",
       "eventDate": "2026-08-10",
@@ -45628,6 +45793,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "C38U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Hong Leong Asia",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-H22-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "H22.SI",
       "type": "earnings"
     },
     {
@@ -45856,21 +46036,6 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-09-04",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-09-04",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
       "amountPerShare": 0.00037,
       "companyName": "CSC HOLDINGS LTD",
       "currency": "SGD",
@@ -45992,21 +46157,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-10-02",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-10-02",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
       "eventDate": "2026-10-14",
@@ -46052,21 +46202,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-11-06",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-11-06",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
       "eventDate": "2026-11-10",
@@ -46093,21 +46228,6 @@
       "recordDate": null,
       "source": "BEA",
       "symbol": "PCE",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-12-04",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-12-04",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
       "type": "macro"
     },
     {
@@ -46156,5 +46276,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-07T09:21:43.922874+00:00"
+  "updated_at": "2026-07-07T14:03:17.155175+00:00"
 }
