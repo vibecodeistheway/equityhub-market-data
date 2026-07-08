@@ -10321,6 +10321,51 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 2.0995,
+      "companyName": "Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN",
+      "currency": "USD",
+      "eventDate": "2026-07-27",
+      "exDate": "2026-07-22",
+      "fiscalPeriod": null,
+      "id": "us-dividend-USOI-2026-07-27",
+      "market": "US",
+      "paymentDate": "2026-07-27",
+      "recordDate": "2026-07-22",
+      "source": "Nasdaq Calendar",
+      "symbol": "USOI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 1.5878,
+      "companyName": "Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",
+      "currency": "USD",
+      "eventDate": "2026-07-27",
+      "exDate": "2026-07-22",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GLDI-2026-07-27",
+      "market": "US",
+      "paymentDate": "2026-07-27",
+      "recordDate": "2026-07-22",
+      "source": "Nasdaq Calendar",
+      "symbol": "GLDI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 2.0041,
+      "companyName": "Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",
+      "currency": "USD",
+      "eventDate": "2026-07-27",
+      "exDate": "2026-07-22",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SLVO-2026-07-27",
+      "market": "US",
+      "paymentDate": "2026-07-27",
+      "recordDate": "2026-07-22",
+      "source": "Nasdaq Calendar",
+      "symbol": "SLVO",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "ESR REIT",
       "currency": "SGD",
@@ -16307,6 +16352,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Far East HTrust",
+      "currency": "SGD",
+      "eventDate": "2026-07-30",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-Q5T-2026-07-30",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "Q5T.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Keppel Ltd.",
       "currency": "SGD",
       "eventDate": "2026-07-30",
@@ -20923,6 +20983,21 @@
       "recordDate": "2026-07-10",
       "source": "Nasdaq Calendar",
       "symbol": "MRVL",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 3.25,
+      "companyName": "National Beverage Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-30",
+      "exDate": "2026-07-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FIZZ-2026-07-30",
+      "market": "US",
+      "paymentDate": "2026-07-30",
+      "recordDate": "2026-07-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "FIZZ",
       "type": "dividend"
     },
     {
@@ -37547,6 +37622,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "SGX",
+      "currency": "SGD",
+      "eventDate": "2026-08-06",
+      "exDate": null,
+      "fiscalPeriod": "FY",
+      "id": "sg-earnings-S68-2026-08-06",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "S68.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "APPLIED OPTOELECTRONICS INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-08-06",
@@ -46366,6 +46456,36 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": null,
+      "companyName": "Genting Sing",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-G13-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "G13.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Mewah Intl",
+      "currency": "SGD",
+      "eventDate": "2026-08-14",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-MV4-2026-08-14",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "MV4.SI",
+      "type": "earnings"
+    },
+    {
       "amountPerShare": 0.09,
       "companyName": "Horizon Technology Finance Corporation Common Stock",
       "currency": "USD",
@@ -46861,5 +46981,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-08T08:05:52.831252+00:00"
+  "updated_at": "2026-07-08T13:26:33.540662+00:00"
 }
