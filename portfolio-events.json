@@ -20941,6 +20941,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.075,
+      "companyName": "National Healthcare Properties, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-30",
+      "exDate": "2026-07-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-NHP-2026-07-30",
+      "market": "US",
+      "paymentDate": "2026-07-30",
+      "recordDate": "2026-07-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "NHP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.33,
       "companyName": "Johnson Outdoors Inc. Class A Common Stock",
       "currency": "USD",
@@ -46846,5 +46861,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-08T01:24:52.291257+00:00"
+  "updated_at": "2026-07-08T08:05:52.831252+00:00"
 }
