@@ -1,96 +1,6 @@
 {
   "events": [
     {
-      "amountPerShare": null,
-      "companyName": "AZZ INCORPORATED",
-      "currency": "USD",
-      "eventDate": "2026-07-08",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-AZZ-2026-07-08",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "AZZ",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "HELEN OF TROY LIMITED",
-      "currency": "USD",
-      "eventDate": "2026-07-08",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-HELE-2026-07-08",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "HELE",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "LEVI STRAUSS & COMPANY",
-      "currency": "USD",
-      "eventDate": "2026-07-08",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-LEVI-2026-07-08",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "LEVI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "NURIX THERAPEUTICS INCORPORATED",
-      "currency": "USD",
-      "eventDate": "2026-07-08",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-NRIX-2026-07-08",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "NRIX",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "PURE CYCLE CORPORATION",
-      "currency": "USD",
-      "eventDate": "2026-07-08",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-PCYO-2026-07-08",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "PCYO",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "PRICESMART INCORPORATED",
-      "currency": "USD",
-      "eventDate": "2026-07-08",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-PSMT-2026-07-08",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "PSMT",
-      "type": "earnings"
-    },
-    {
       "amountPerShare": 2.34,
       "companyName": "TIANJIN PHARM DA REN TANG GRP",
       "currency": "CNY",
@@ -269,21 +179,6 @@
       "source": "Alpha Vantage",
       "symbol": "WDFC",
       "type": "earnings"
-    },
-    {
-      "amountPerShare": 0.0493,
-      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
-      "currency": "USD",
-      "eventDate": "2026-07-09",
-      "exDate": "2026-07-08",
-      "fiscalPeriod": null,
-      "id": "us-dividend-SATA-2026-07-09",
-      "market": "US",
-      "paymentDate": "2026-07-09",
-      "recordDate": "2026-07-08",
-      "source": "Nasdaq Calendar",
-      "symbol": "SATA",
-      "type": "dividend"
     },
     {
       "amountPerShare": null,
@@ -1244,36 +1139,6 @@
       "source": "Alpha Vantage",
       "symbol": "UROY",
       "type": "earnings"
-    },
-    {
-      "amountPerShare": 0.11,
-      "companyName": "Manhattan Bridge Capital, Inc",
-      "currency": "USD",
-      "eventDate": "2026-07-15",
-      "exDate": "2026-07-08",
-      "fiscalPeriod": null,
-      "id": "us-dividend-LOAN-2026-07-15",
-      "market": "US",
-      "paymentDate": "2026-07-15",
-      "recordDate": "2026-07-08",
-      "source": "Nasdaq Calendar",
-      "symbol": "LOAN",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.75,
-      "companyName": "Millicom International Cellular S.A. Common Stock",
-      "currency": "USD",
-      "eventDate": "2026-07-15",
-      "exDate": "2026-07-08",
-      "fiscalPeriod": null,
-      "id": "us-dividend-TIGO-2026-07-15",
-      "market": "US",
-      "paymentDate": "2026-07-15",
-      "recordDate": "2026-07-08",
-      "source": "Nasdaq Calendar",
-      "symbol": "TIGO",
-      "type": "dividend"
     },
     {
       "amountPerShare": 0.5390625,
@@ -5611,51 +5476,6 @@
       "type": "earnings"
     },
     {
-      "amountPerShare": 0.12,
-      "companyName": "Gentex Corporation Common Stock",
-      "currency": "USD",
-      "eventDate": "2026-07-22",
-      "exDate": "2026-07-08",
-      "fiscalPeriod": null,
-      "id": "us-dividend-GNTX-2026-07-22",
-      "market": "US",
-      "paymentDate": "2026-07-22",
-      "recordDate": "2026-07-08",
-      "source": "Nasdaq Calendar",
-      "symbol": "GNTX",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.7,
-      "companyName": "InterDigital, Inc. Common Stock",
-      "currency": "USD",
-      "eventDate": "2026-07-22",
-      "exDate": "2026-07-08",
-      "fiscalPeriod": null,
-      "id": "us-dividend-IDCC-2026-07-22",
-      "market": "US",
-      "paymentDate": "2026-07-22",
-      "recordDate": "2026-07-08",
-      "source": "Nasdaq Calendar",
-      "symbol": "IDCC",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.91,
-      "companyName": "Roper Technologies, Inc. Common Stock",
-      "currency": "USD",
-      "eventDate": "2026-07-22",
-      "exDate": "2026-07-08",
-      "fiscalPeriod": null,
-      "id": "us-dividend-ROP-2026-07-22",
-      "market": "US",
-      "paymentDate": "2026-07-22",
-      "recordDate": "2026-07-08",
-      "source": "Nasdaq Calendar",
-      "symbol": "ROP",
-      "type": "dividend"
-    },
-    {
       "amountPerShare": 0.0493,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -5702,6 +5522,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "First REIT",
+      "currency": "SGD",
+      "eventDate": "2026-07-23",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-AW9U-2026-07-23",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "AW9U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Mapletree Logistics Trust",
       "currency": "SGD",
       "eventDate": "2026-07-23",
@@ -5713,21 +5548,6 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "M44U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "Suntec REIT",
-      "currency": "SGD",
-      "eventDate": "2026-07-23",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-T82U-2026-07-23",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "T82U.SI",
       "type": "earnings"
     },
     {
@@ -5747,17 +5567,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "First REIT",
+      "companyName": "Suntec REIT",
       "currency": "SGD",
       "eventDate": "2026-07-23",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-AW9U-2026-07-23",
+      "id": "sg-earnings-T82U-2026-07-23",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "AW9U.SI",
+      "symbol": "T82U.SI",
       "type": "earnings"
     },
     {
@@ -9106,6 +8926,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.0493,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-24",
+      "exDate": "2026-07-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-07-24",
+      "market": "US",
+      "paymentDate": "2026-07-24",
+      "recordDate": "2026-07-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.003,
       "companyName": "CONCORD NEW ENERGY GROUP",
       "currency": "HKD",
@@ -9137,21 +8972,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Raffles Medical Group Ltd",
-      "currency": "SGD",
-      "eventDate": "2026-07-27",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-BSL-2026-07-27",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "BSL.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Toku Ltd.",
       "currency": "SGD",
       "eventDate": "2026-07-27",
@@ -9163,6 +8983,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "TKU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Raffles Medical Group Ltd",
+      "currency": "SGD",
+      "eventDate": "2026-07-27",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-BSL-2026-07-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "BSL.SI",
       "type": "earnings"
     },
     {
@@ -10352,36 +10187,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "ESR REIT",
-      "currency": "SGD",
-      "eventDate": "2026-07-28",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-9A4U-2026-07-28",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "9A4U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "SIA Engineering Company Limited",
-      "currency": "SGD",
-      "eventDate": "2026-07-28",
-      "exDate": null,
-      "fiscalPeriod": "1Q",
-      "id": "sg-earnings-S59-2026-07-28",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "S59.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Keppel Pacific Oak US REIT",
       "currency": "SGD",
       "eventDate": "2026-07-28",
@@ -10393,21 +10198,6 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "CMOU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "CapitaLand Ascott Trust",
-      "currency": "SGD",
-      "eventDate": "2026-07-28",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-HMN-2026-07-28",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "HMN.SI",
       "type": "earnings"
     },
     {
@@ -10427,6 +10217,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "ESR REIT",
+      "currency": "SGD",
+      "eventDate": "2026-07-28",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-9A4U-2026-07-28",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "9A4U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "AZTECH GLOBAL LTD.",
       "currency": "SGD",
       "eventDate": "2026-07-28",
@@ -10438,6 +10243,36 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "8AZ.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "SIA Engineering Company Limited",
+      "currency": "SGD",
+      "eventDate": "2026-07-28",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-S59-2026-07-28",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "S59.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "CapitaLand Ascott Trust",
+      "currency": "SGD",
+      "eventDate": "2026-07-28",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-HMN-2026-07-28",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "HMN.SI",
       "type": "earnings"
     },
     {
@@ -11927,17 +11762,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Keppel REIT",
+      "companyName": "Digital Core REIT",
       "currency": "SGD",
       "eventDate": "2026-07-29",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-K71U-2026-07-29",
+      "id": "sg-earnings-DCRU-2026-07-29",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "K71U.SI",
+      "symbol": "DCRU.SI",
       "type": "earnings"
     },
     {
@@ -11957,17 +11792,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Digital Core REIT",
+      "companyName": "Keppel REIT",
       "currency": "SGD",
       "eventDate": "2026-07-29",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-DCRU-2026-07-29",
+      "id": "sg-earnings-K71U-2026-07-29",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "DCRU.SI",
+      "symbol": "K71U.SI",
       "type": "earnings"
     },
     {
@@ -16292,21 +16127,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CDL Hospitality Trusts",
-      "currency": "SGD",
-      "eventDate": "2026-07-30",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-J85-2026-07-30",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "J85.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Keppel REIT",
       "currency": "SGD",
       "eventDate": "2026-07-30",
@@ -16318,6 +16138,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "K71U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Far East Hospitality Trust",
+      "currency": "SGD",
+      "eventDate": "2026-07-30",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-Q5T-2026-07-30",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "Q5T.SI",
       "type": "earnings"
     },
     {
@@ -16337,17 +16172,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Far East HTrust",
+      "companyName": "CDL Hospitality Trusts",
       "currency": "SGD",
       "eventDate": "2026-07-30",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-Q5T-2026-07-30",
+      "id": "sg-earnings-J85-2026-07-30",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
-      "symbol": "Q5T.SI",
+      "source": "Beansprout",
+      "symbol": "J85.SI",
       "type": "earnings"
     },
     {
@@ -23849,21 +23684,6 @@
       "source": "Alpha Vantage",
       "symbol": "ZEPP",
       "type": "earnings"
-    },
-    {
-      "amountPerShare": 0.17,
-      "companyName": "Waterstone Financial, Inc. Common Stock (MD)",
-      "currency": "USD",
-      "eventDate": "2026-08-03",
-      "exDate": "2026-07-08",
-      "fiscalPeriod": null,
-      "id": "us-dividend-WSBF-2026-08-03",
-      "market": "US",
-      "paymentDate": "2026-08-03",
-      "recordDate": "2026-07-08",
-      "source": "Nasdaq Calendar",
-      "symbol": "WSBF",
-      "type": "dividend"
     },
     {
       "amountPerShare": 0.32,
@@ -37607,7 +37427,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "SGX",
+      "companyName": "SGX: Singapore Exchange Limited",
       "currency": "SGD",
       "eventDate": "2026-08-06",
       "exDate": null,
@@ -37616,7 +37436,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "S68.SI",
       "type": "earnings"
     },
@@ -46442,7 +46262,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Genting Sing",
+      "companyName": "Genting Singapore Limited",
       "currency": "SGD",
       "eventDate": "2026-08-13",
       "exDate": null,
@@ -46451,7 +46271,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "G13.SI",
       "type": "earnings"
     },
@@ -46981,5 +46801,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-08T19:04:27.709527+00:00"
+  "updated_at": "2026-07-09T01:46:21.710702+00:00"
 }
