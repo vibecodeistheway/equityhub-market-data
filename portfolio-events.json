@@ -16187,6 +16187,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Aims Apac Reit",
+      "currency": "SGD",
+      "eventDate": "2026-07-30",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-O5RU-2026-07-30",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "O5RU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Keppel Ltd.",
       "currency": "SGD",
       "eventDate": "2026-07-30",
@@ -45467,6 +45482,36 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "ELITE UK REIT",
+      "currency": "SGD",
+      "eventDate": "2026-08-07",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-MXNU-2026-08-07",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "MXNU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "EliteUKREIT SGD",
+      "currency": "SGD",
+      "eventDate": "2026-08-07",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-MENU-2026-08-07",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "MENU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ARBOR REALTY TRUST",
       "currency": "USD",
       "eventDate": "2026-08-07",
@@ -46127,21 +46172,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-08-07",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-08-07",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "ELITE UK REIT",
       "currency": "SGD",
       "eventDate": "2026-08-10",
@@ -46273,6 +46303,36 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "G13.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Stoneweg EUTrust EUR",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-SET-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "SET.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Stoneweg EUTrust SGD",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-SEB-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "SEB.SI",
       "type": "earnings"
     },
     {
@@ -46501,21 +46561,6 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-09-04",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-09-04",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
       "amountPerShare": 0.00037,
       "companyName": "CSC HOLDINGS LTD",
       "currency": "SGD",
@@ -46637,21 +46682,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-10-02",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-10-02",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
       "eventDate": "2026-10-14",
@@ -46697,21 +46727,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-11-06",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-11-06",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
       "eventDate": "2026-11-10",
@@ -46738,21 +46753,6 @@
       "recordDate": null,
       "source": "BEA",
       "symbol": "PCE",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-12-04",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-12-04",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
       "type": "macro"
     },
     {
@@ -46801,5 +46801,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-09T09:02:47.115975+00:00"
+  "updated_at": "2026-07-09T14:27:08.132437+00:00"
 }
