@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T01:45:00+00:00",
+  "updated_at": "2026-07-09T09:01:15+00:00",
   "shiller_pe": 41.64,
   "us_gdp_trillions": 31.82,
   "inflation_yoy": 4.25,
@@ -2810,15 +2810,15 @@
     }
   ],
   "fear_greed": {
-    "score": 42.2285714285714,
+    "score": 41.5428571428572,
     "rating": "fear",
-    "previous_close": 43.0,
-    "previous_1_week": 30.4571428571429,
-    "previous_1_month": 39.8857142857143,
-    "previous_1_year": 74.62857142857142
+    "previous_close": 42.3428571428571,
+    "previous_1_week": 37.4857142857143,
+    "previous_1_month": 32.4857142857143,
+    "previous_1_year": 75.91428571428571
   },
-  "taiwan_exports_yoy": 51.68,
-  "taiwan_ict_exports_yoy": 66.26,
+  "taiwan_exports_yoy": 40.33,
+  "taiwan_ict_exports_yoy": 52.84,
   "taiwan_exports_history": [
     {
       "d": "2016-01-01",
@@ -3319,6 +3319,10 @@
     {
       "d": "2026-05-01",
       "v": 51.68
+    },
+    {
+      "d": "2026-06-01",
+      "v": 40.33
     }
   ],
   "taiwan_ict_exports_history": [
@@ -3821,6 +3825,10 @@
     {
       "d": "2026-05-01",
       "v": 66.26
+    },
+    {
+      "d": "2026-06-01",
+      "v": 52.84
     }
   ],
   "taiwan_exports_value_history": [
@@ -4371,6 +4379,10 @@
     {
       "d": "2026-05-01",
       "v": 78478.6
+    },
+    {
+      "d": "2026-06-01",
+      "v": 74830.4
     }
   ],
   "truflation_yoy": 1.89,
