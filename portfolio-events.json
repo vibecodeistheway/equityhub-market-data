@@ -8747,6 +8747,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Lippo Malls Tr",
+      "currency": "SGD",
+      "eventDate": "2026-07-27",
+      "exDate": null,
+      "fiscalPeriod": "2Q",
+      "id": "sg-earnings-D5IU-2026-07-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "D5IU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "AMKOR TECHNOLOGY INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-07-27",
@@ -21043,6 +21058,21 @@
       "recordDate": "2026-07-10",
       "source": "Nasdaq Calendar",
       "symbol": "MORN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0176,
+      "companyName": "VersaBank Common Shares",
+      "currency": "USD",
+      "eventDate": "2026-07-31",
+      "exDate": "2026-07-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-VBNK-2026-07-31",
+      "market": "US",
+      "paymentDate": "2026-07-31",
+      "recordDate": "2026-07-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "VBNK",
       "type": "dividend"
     },
     {
@@ -45946,6 +45976,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 1.47,
+      "companyName": "Costco Wholesale Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-07",
+      "exDate": "2026-07-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-COST-2026-08-07",
+      "market": "US",
+      "paymentDate": "2026-08-07",
+      "recordDate": "2026-07-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "COST",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US Jobs Report (Nonfarm Payrolls)",
       "currency": null,
@@ -46018,6 +46063,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "H22.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Nippecraft^",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-N32-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "N32.SI",
       "type": "earnings"
     },
     {
@@ -46124,6 +46184,66 @@
       "source": "InvestingNote",
       "symbol": "SEB.SI",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "FoundationHealth",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-FHH-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "FHH.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.05,
+      "companyName": "Service Properties Trust Common Shares of Beneficial Interest",
+      "currency": "USD",
+      "eventDate": "2026-08-13",
+      "exDate": "2026-07-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SVC-2026-08-13",
+      "market": "US",
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-07-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "SVC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.28,
+      "companyName": "Seven Hills Realty Trust Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-13",
+      "exDate": "2026-07-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SEVN-2026-08-13",
+      "market": "US",
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-07-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "SEVN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.45,
+      "companyName": "The RMR Group Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-13",
+      "exDate": "2026-07-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RMR-2026-08-13",
+      "market": "US",
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-07-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "RMR",
+      "type": "dividend"
     },
     {
       "amountPerShare": null,
@@ -46666,5 +46786,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-10T08:58:40.312864+00:00"
+  "updated_at": "2026-07-10T13:53:42.077046+00:00"
 }
