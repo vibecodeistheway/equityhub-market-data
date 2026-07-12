@@ -5312,21 +5312,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Alpha Integrated REIT",
-      "currency": "SGD",
-      "eventDate": "2026-07-23",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-M1GU-2026-07-23",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "InvestingNote",
-      "symbol": "M1GU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "AMERICAN AIRLINES GROUP INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-07-23",
@@ -46097,6 +46082,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "US Jobs Report (Nonfarm Payrolls)",
+      "currency": null,
+      "eventDate": "2026-08-07",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "macro-NFP-2026-08-07",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "BLS",
+      "symbol": "NFP",
+      "type": "macro"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ELITE UK REIT",
       "currency": "SGD",
       "eventDate": "2026-08-10",
@@ -53056,6 +53056,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": null,
+      "companyName": "US Jobs Report (Nonfarm Payrolls)",
+      "currency": null,
+      "eventDate": "2026-09-04",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "macro-NFP-2026-09-04",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "BLS",
+      "symbol": "NFP",
+      "type": "macro"
+    },
+    {
       "amountPerShare": 0.00037,
       "companyName": "CSC HOLDINGS LTD",
       "currency": "SGD",
@@ -53147,6 +53162,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "US Jobs Report (Nonfarm Payrolls)",
+      "currency": null,
+      "eventDate": "2026-10-02",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "macro-NFP-2026-10-02",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "BLS",
+      "symbol": "NFP",
+      "type": "macro"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
       "eventDate": "2026-10-14",
@@ -53192,6 +53222,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "US Jobs Report (Nonfarm Payrolls)",
+      "currency": null,
+      "eventDate": "2026-11-06",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "macro-NFP-2026-11-06",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "BLS",
+      "symbol": "NFP",
+      "type": "macro"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
       "eventDate": "2026-11-10",
@@ -53218,6 +53263,21 @@
       "recordDate": null,
       "source": "BEA",
       "symbol": "PCE",
+      "type": "macro"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "US Jobs Report (Nonfarm Payrolls)",
+      "currency": null,
+      "eventDate": "2026-12-04",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "macro-NFP-2026-12-04",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "BLS",
+      "symbol": "NFP",
       "type": "macro"
     },
     {
@@ -53266,5 +53326,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-12T12:51:26.596954+00:00"
+  "updated_at": "2026-07-12T18:48:03.791145+00:00"
 }
