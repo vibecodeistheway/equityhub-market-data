@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-14T07:43:14+00:00",
+  "updated_at": "2026-07-14T13:01:45+00:00",
   "shiller_pe": 41.85,
   "us_gdp_trillions": 31.82,
-  "inflation_yoy": 4.25,
+  "inflation_yoy": 3.53,
   "shiller_pe_history": [
     {
       "d": "2001-08-01",
@@ -4385,12 +4385,8 @@
       "v": 74830.4
     }
   ],
-  "truflation_yoy": 1.93,
+  "truflation_yoy": 1.92,
   "truflation_history": [
-    {
-      "d": "2025-07-13",
-      "v": 1.74
-    },
     {
       "d": "2025-07-14",
       "v": 1.71
@@ -5850,6 +5846,10 @@
     {
       "d": "2026-07-13",
       "v": 1.93
+    },
+    {
+      "d": "2026-07-14",
+      "v": 1.92
     }
   ],
   "us_approval_rating": 40.0,

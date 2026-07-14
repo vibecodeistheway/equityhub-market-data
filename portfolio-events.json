@@ -8357,6 +8357,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "UIBREIT",
+      "currency": "SGD",
+      "eventDate": "2026-07-27",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-UIBU-2026-07-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "UIBU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "AMKOR TECHNOLOGY INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-07-27",
@@ -20788,6 +20803,21 @@
       "recordDate": "2026-07-16",
       "source": "Nasdaq Calendar",
       "symbol": "JOUT",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0675,
+      "companyName": "Medalist Diversified, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-30",
+      "exDate": "2026-07-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MDRR-2026-07-30",
+      "market": "US",
+      "paymentDate": "2026-07-30",
+      "recordDate": "2026-07-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "MDRR",
       "type": "dividend"
     },
     {
@@ -52502,6 +52532,36 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "ULTRAGREEN AI USD",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-ULG-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "ULG.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "ULTRAGREEN AI SGD",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-UGS-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "UGS.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "AARDVARK THERAPEUTICS INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-08-12",
@@ -56218,6 +56278,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "G92.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Thakral",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-AWI-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "AWI.SI",
       "type": "earnings"
     },
     {
@@ -61801,6 +61876,36 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.01,
+      "companyName": "Diversified Healthcare Trust Common Shares of Beneficial Interest",
+      "currency": "USD",
+      "eventDate": "2026-08-13",
+      "exDate": "2026-07-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-DHC-2026-08-13",
+      "market": "US",
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-07-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "DHC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.1,
+      "companyName": "Industrial Logistics Properties Trust Common Shares of Beneficial Interest",
+      "currency": "USD",
+      "eventDate": "2026-08-13",
+      "exDate": "2026-07-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ILPT-2026-08-13",
+      "market": "US",
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-07-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "ILPT",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.05,
       "companyName": "Service Properties Trust Common Shares of Beneficial Interest",
       "currency": "USD",
@@ -62083,6 +62188,21 @@
       "recordDate": "2026-07-22",
       "source": "Nasdaq Calendar",
       "symbol": "APA",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.26,
+      "companyName": "Fastenal Company Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-25",
+      "exDate": "2026-07-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FAST-2026-08-25",
+      "market": "US",
+      "paymentDate": "2026-08-25",
+      "recordDate": "2026-07-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "FAST",
       "type": "dividend"
     },
     {
@@ -62461,5 +62581,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-14T07:45:03.119836+00:00"
+  "updated_at": "2026-07-14T13:03:51.011505+00:00"
 }
