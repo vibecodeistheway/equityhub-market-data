@@ -5042,32 +5042,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Keppel DC REIT",
+      "companyName": "Mapletree Logistics Trust",
       "currency": "SGD",
       "eventDate": "2026-07-23",
       "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-AJBU-2026-07-23",
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-M44U-2026-07-23",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "AJBU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "Suntec REIT",
-      "currency": "SGD",
-      "eventDate": "2026-07-23",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-T82U-2026-07-23",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "T82U.SI",
+      "symbol": "M44U.SI",
       "type": "earnings"
     },
     {
@@ -5087,17 +5072,32 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Mapletree Logistics Trust",
+      "companyName": "Suntec REIT",
       "currency": "SGD",
       "eventDate": "2026-07-23",
       "exDate": null,
-      "fiscalPeriod": "1Q",
-      "id": "sg-earnings-M44U-2026-07-23",
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-T82U-2026-07-23",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "M44U.SI",
+      "symbol": "T82U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Keppel DC REIT",
+      "currency": "SGD",
+      "eventDate": "2026-07-23",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-AJBU-2026-07-23",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "AJBU.SI",
       "type": "earnings"
     },
     {
@@ -8282,21 +8282,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Lippo Malls Indonesia Retail Trust",
-      "currency": "SGD",
-      "eventDate": "2026-07-27",
-      "exDate": null,
-      "fiscalPeriod": "2Q",
-      "id": "sg-earnings-D5IU-2026-07-27",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "D5IU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Raffles Medical Group Ltd",
       "currency": "SGD",
       "eventDate": "2026-07-27",
@@ -8323,6 +8308,36 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "TKU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Lippo Malls Indonesia Retail Trust",
+      "currency": "SGD",
+      "eventDate": "2026-07-27",
+      "exDate": null,
+      "fiscalPeriod": "2Q",
+      "id": "sg-earnings-D5IU-2026-07-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "D5IU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Frasers Logistics & Commercial Trust",
+      "currency": "SGD",
+      "eventDate": "2026-07-27",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-BUOU-2026-07-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "BUOU.SI",
       "type": "earnings"
     },
     {
@@ -9527,21 +9542,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "SIA Engineering Company Limited",
-      "currency": "SGD",
-      "eventDate": "2026-07-28",
-      "exDate": null,
-      "fiscalPeriod": "1Q",
-      "id": "sg-earnings-S59-2026-07-28",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "S59.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "CapitaLand Ascott Trust",
       "currency": "SGD",
       "eventDate": "2026-07-28",
@@ -9553,6 +9553,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "HMN.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "SIA Engineering Company Limited",
+      "currency": "SGD",
+      "eventDate": "2026-07-28",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-S59-2026-07-28",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "S59.SI",
       "type": "earnings"
     },
     {
@@ -9572,17 +9587,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "AZTECH GLOBAL LTD.",
+      "companyName": "Keppel Pacific Oak US REIT",
       "currency": "SGD",
       "eventDate": "2026-07-28",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-8AZ-2026-07-28",
+      "id": "sg-earnings-CMOU-2026-07-28",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "8AZ.SI",
+      "symbol": "CMOU.SI",
       "type": "earnings"
     },
     {
@@ -9602,17 +9617,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Keppel Pacific Oak US REIT",
+      "companyName": "AZTECH GLOBAL LTD.",
       "currency": "SGD",
       "eventDate": "2026-07-28",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-CMOU-2026-07-28",
+      "id": "sg-earnings-8AZ-2026-07-28",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "CMOU.SI",
+      "symbol": "8AZ.SI",
       "type": "earnings"
     },
     {
@@ -11488,6 +11503,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "K71U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "First REIT",
+      "currency": "SGD",
+      "eventDate": "2026-07-29",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-AW9U-2026-07-29",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "AW9U.SI",
       "type": "earnings"
     },
     {
@@ -15842,21 +15872,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "AIMS APAC REIT",
-      "currency": "SGD",
-      "eventDate": "2026-07-30",
-      "exDate": null,
-      "fiscalPeriod": "1Q",
-      "id": "sg-earnings-O5RU-2026-07-30",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "O5RU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "CDL Hospitality Trusts",
       "currency": "SGD",
       "eventDate": "2026-07-30",
@@ -15887,6 +15902,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Keppel REIT",
+      "currency": "SGD",
+      "eventDate": "2026-07-30",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-K71U-2026-07-30",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "K71U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Far East Hospitality Trust",
       "currency": "SGD",
       "eventDate": "2026-07-30",
@@ -15902,17 +15932,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Keppel REIT",
+      "companyName": "AIMS APAC REIT",
       "currency": "SGD",
       "eventDate": "2026-07-30",
       "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-K71U-2026-07-30",
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-O5RU-2026-07-30",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "K71U.SI",
+      "symbol": "O5RU.SI",
       "type": "earnings"
     },
     {
@@ -30362,21 +30392,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "IREIT Global",
-      "currency": "SGD",
-      "eventDate": "2026-08-05",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-UD1U-2026-08-05",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "UD1U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "CapitaLand China Trust",
       "currency": "SGD",
       "eventDate": "2026-08-05",
@@ -30388,6 +30403,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "AU8U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "IREIT Global",
+      "currency": "SGD",
+      "eventDate": "2026-08-05",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-UD1U-2026-08-05",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "UD1U.SI",
       "type": "earnings"
     },
     {
@@ -45167,21 +45197,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Elite UK REIT",
-      "currency": "SGD",
-      "eventDate": "2026-08-07",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-MXNU-2026-08-07",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "MXNU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "OCBC: Oversea-Chinese Banking Corporation Limited",
       "currency": "SGD",
       "eventDate": "2026-08-07",
@@ -45193,6 +45208,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "O39.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Elite UK REIT",
+      "currency": "SGD",
+      "eventDate": "2026-08-07",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-MXNU-2026-08-07",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "MXNU.SI",
       "type": "earnings"
     },
     {
@@ -52397,21 +52427,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Wilmar International Limited",
-      "currency": "SGD",
-      "eventDate": "2026-08-12",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-F34-2026-08-12",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "F34.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "CICT: CapitaLand Integrated Commercial Trust",
       "currency": "SGD",
       "eventDate": "2026-08-12",
@@ -52423,6 +52438,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "C38U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Wilmar International Limited",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-F34-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "F34.SI",
       "type": "earnings"
     },
     {
@@ -52442,6 +52472,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "UOL Group Limited",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-U14-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "U14.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Nippecraft^",
       "currency": "SGD",
       "eventDate": "2026-08-12",
@@ -52453,21 +52498,6 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "N32.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "UOL",
-      "currency": "SGD",
-      "eventDate": "2026-08-12",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-U14-2026-08-12",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "InvestingNote",
-      "symbol": "U14.SI",
       "type": "earnings"
     },
     {
@@ -56147,22 +56177,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "China Aviation",
-      "currency": "SGD",
-      "eventDate": "2026-08-13",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-G92-2026-08-13",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "InvestingNote",
-      "symbol": "G92.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "Sembcorp Ind",
+      "companyName": "Sembcorp Industries Ltd",
       "currency": "SGD",
       "eventDate": "2026-08-13",
       "exDate": null,
@@ -56171,13 +56186,13 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "U96.SI",
       "type": "earnings"
     },
     {
       "amountPerShare": null,
-      "companyName": "StarHub",
+      "companyName": "StarHub Ltd",
       "currency": "SGD",
       "eventDate": "2026-08-13",
       "exDate": null,
@@ -56186,8 +56201,23 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "CC3.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "China Aviation Oil (Singapore)",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-G92-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "G92.SI",
       "type": "earnings"
     },
     {
@@ -62431,5 +62461,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-14T01:17:19.635439+00:00"
+  "updated_at": "2026-07-14T07:45:03.119836+00:00"
 }
