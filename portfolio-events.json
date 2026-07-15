@@ -52082,6 +52082,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "ULTRAGREEN.AI LIMITED",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-ULG-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "ULG.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Nippecraft^",
       "currency": "SGD",
       "eventDate": "2026-08-12",
@@ -52093,21 +52108,6 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "N32.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "ULTRAGREEN AI USD",
-      "currency": "SGD",
-      "eventDate": "2026-08-12",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-ULG-2026-08-12",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "InvestingNote",
-      "symbol": "ULG.SI",
       "type": "earnings"
     },
     {
@@ -63541,5 +63541,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-15T01:14:10.910371+00:00"
+  "updated_at": "2026-07-15T07:48:45.423706+00:00"
 }
