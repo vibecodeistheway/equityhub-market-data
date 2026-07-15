@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T18:58:31+00:00",
-  "shiller_pe": 41.85,
+  "updated_at": "2026-07-15T01:12:18+00:00",
+  "shiller_pe": 42.0,
   "us_gdp_trillions": 31.82,
   "inflation_yoy": 3.53,
   "shiller_pe_history": [
@@ -1201,8 +1201,8 @@
       "v": 41.32
     },
     {
-      "d": "2026-07-13",
-      "v": 41.85
+      "d": "2026-07-14",
+      "v": 42.0
     }
   ],
   "inflation_history": [
@@ -2810,7 +2810,7 @@
     }
   ],
   "fear_greed": {
-    "score": 43.4285714285714,
+    "score": 43.1428571428572,
     "rating": "fear",
     "previous_close": 43.7142857142857,
     "previous_1_week": 43.7142857142857,
