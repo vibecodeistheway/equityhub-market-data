@@ -9091,7 +9091,7 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 2.0041,
+      "amountPerShare": 2.004,
       "companyName": "Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",
       "currency": "USD",
       "eventDate": "2026-07-27",
@@ -44822,6 +44822,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "AvePoint",
+      "currency": "SGD",
+      "eventDate": "2026-08-07",
+      "exDate": null,
+      "fiscalPeriod": "2Q",
+      "id": "sg-earnings-AVP-2026-08-07",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "AVP.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "EliteUKREIT SGD",
       "currency": "SGD",
       "eventDate": "2026-08-07",
@@ -45538,6 +45553,21 @@
       "recordDate": "2026-07-17",
       "source": "Nasdaq Calendar",
       "symbol": "PBHC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.25,
+      "companyName": "Coca-Cola Consolidated, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-07",
+      "exDate": "2026-07-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-COKE-2026-08-07",
+      "market": "US",
+      "paymentDate": "2026-08-07",
+      "recordDate": "2026-07-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "COKE",
       "type": "dividend"
     },
     {
@@ -55847,6 +55877,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "ST Engineering",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-S63-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "S63.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Thakral",
       "currency": "SGD",
       "eventDate": "2026-08-13",
@@ -62941,6 +62986,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.77,
+      "companyName": "Kaiser Aluminum Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-07-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KALU-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-07-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "KALU",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.005,
       "companyName": "CHEMICAL INDUSTRIES (F.E.) LTD",
       "currency": "SGD",
@@ -63541,5 +63601,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-15T07:48:45.423706+00:00"
+  "updated_at": "2026-07-15T13:06:59.164157+00:00"
 }
