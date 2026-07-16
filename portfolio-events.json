@@ -10682,6 +10682,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "StarhillGbl Reit",
+      "currency": "SGD",
+      "eventDate": "2026-07-29",
+      "exDate": null,
+      "fiscalPeriod": "FY",
+      "id": "sg-earnings-P40U-2026-07-29",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "P40U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ACRES COMMERCIAL REALTY CORPORATION",
       "currency": "USD",
       "eventDate": "2026-07-29",
@@ -15088,6 +15103,21 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "BN4.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Frasers L&I Tr  AUD",
+      "currency": "SGD",
+      "eventDate": "2026-07-30",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-BWQU-2026-07-30",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "BWQU.SI",
       "type": "earnings"
     },
     {
@@ -20608,6 +20638,21 @@
       "recordDate": "2026-07-20",
       "source": "Nasdaq Calendar",
       "symbol": "IMMR",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.26,
+      "companyName": "First Busey Corporation Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-31",
+      "exDate": "2026-07-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BUSE-2026-07-31",
+      "market": "US",
+      "paymentDate": "2026-07-31",
+      "recordDate": "2026-07-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "BUSE",
       "type": "dividend"
     },
     {
@@ -36136,6 +36181,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.52,
+      "companyName": "Lakeland Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-05",
+      "exDate": "2026-07-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LKFN-2026-08-05",
+      "market": "US",
+      "paymentDate": "2026-08-05",
+      "recordDate": "2026-07-25",
+      "source": "Nasdaq Calendar",
+      "symbol": "LKFN",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "Venture Corporation Limited",
       "currency": "SGD",
@@ -44116,6 +44176,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.36,
+      "companyName": "Union Bankshares, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-06",
+      "exDate": "2026-07-27",
+      "fiscalPeriod": null,
+      "id": "us-dividend-UNB-2026-08-06",
+      "market": "US",
+      "paymentDate": "2026-08-06",
+      "recordDate": "2026-07-27",
+      "source": "Nasdaq Calendar",
+      "symbol": "UNB",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "OCBC: Oversea-Chinese Banking Corporation Limited",
       "currency": "SGD",
@@ -47564,6 +47639,21 @@
       "source": "Alpha Vantage",
       "symbol": "ZIP",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.25,
+      "companyName": "Ohio Valley Banc Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-10",
+      "exDate": "2026-07-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OVBC-2026-08-10",
+      "market": "US",
+      "paymentDate": "2026-08-10",
+      "recordDate": "2026-07-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "OVBC",
+      "type": "dividend"
     },
     {
       "amountPerShare": null,
@@ -62326,6 +62416,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.4688,
+      "companyName": "First Merchants Corporation Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-07-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FRMEP-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-07-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "FRMEP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.005,
       "companyName": "CHEMICAL INDUSTRIES (F.E.) LTD",
       "currency": "SGD",
@@ -62443,6 +62548,21 @@
       "recordDate": "2026-08-05",
       "source": "SGX Corporate Actions",
       "symbol": "1T88.SI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.1,
+      "companyName": "Entegris, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-19",
+      "exDate": "2026-07-29",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ENTG-2026-08-19",
+      "market": "US",
+      "paymentDate": "2026-08-19",
+      "recordDate": "2026-07-29",
+      "source": "Nasdaq Calendar",
+      "symbol": "ENTG",
       "type": "dividend"
     },
     {
@@ -62926,5 +63046,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-16T07:54:08.828434+00:00"
+  "updated_at": "2026-07-16T13:15:57.427693+00:00"
 }
