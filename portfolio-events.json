@@ -8777,6 +8777,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Mapletree Logistics Trust",
+      "currency": "SGD",
+      "eventDate": "2026-07-28",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-M44U-2026-07-28",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "M44U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "SIA",
       "currency": "SGD",
       "eventDate": "2026-07-28",
@@ -44132,7 +44147,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "AvePoint",
+      "companyName": "AvePoint, Inc.",
       "currency": "SGD",
       "eventDate": "2026-08-07",
       "exDate": null,
@@ -44141,7 +44156,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "AVP.SI",
       "type": "earnings"
     },
@@ -55187,7 +55202,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "ST Engineering",
+      "companyName": "ST Engineering: Singapore Technologies Engineering Ltd",
       "currency": "SGD",
       "eventDate": "2026-08-13",
       "exDate": null,
@@ -55196,7 +55211,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "S63.SI",
       "type": "earnings"
     },
@@ -62911,5 +62926,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-16T01:23:28.932299+00:00"
+  "updated_at": "2026-07-16T07:54:08.828434+00:00"
 }
