@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T18:42:58+00:00",
+  "updated_at": "2026-07-19T01:22:58+00:00",
   "shiller_pe": 41.52,
   "us_gdp_trillions": 31.82,
   "inflation_yoy": 3.53,
@@ -3252,6 +3252,6 @@
     }
   ],
   "errors": [
-    "taiwan_exports: The read operation timed out"
+    "taiwan_exports: HTTP Error 503: Service Unavailable"
   ]
 }
