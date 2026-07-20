@@ -28547,6 +28547,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Daiwa Hse Log Tr",
+      "currency": "SGD",
+      "eventDate": "2026-08-05",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-DHLU-2026-08-05",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "DHLU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ATA CREATIVITY GLOBAL",
       "currency": "USD",
       "eventDate": "2026-08-05",
@@ -44446,6 +44461,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.29,
+      "companyName": "MetroCity Bankshares, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-07",
+      "exDate": "2026-07-29",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MCBS-2026-08-07",
+      "market": "US",
+      "paymentDate": "2026-08-07",
+      "recordDate": "2026-07-29",
+      "source": "Nasdaq Calendar",
+      "symbol": "MCBS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US Jobs Report (Nonfarm Payrolls)",
       "currency": null,
@@ -47128,6 +47158,21 @@
       "recordDate": "2026-07-24",
       "source": "Nasdaq Calendar",
       "symbol": "OVBC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.18,
+      "companyName": "South Plains Financial, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-10",
+      "exDate": "2026-07-27",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SPFI-2026-08-10",
+      "market": "US",
+      "paymentDate": "2026-08-10",
+      "recordDate": "2026-07-27",
+      "source": "Nasdaq Calendar",
+      "symbol": "SPFI",
       "type": "dividend"
     },
     {
@@ -51016,6 +51061,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 1.42,
+      "companyName": "Texas Instruments Incorporated Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-11",
+      "exDate": "2026-07-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TXN-2026-08-11",
+      "market": "US",
+      "paymentDate": "2026-08-11",
+      "recordDate": "2026-07-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "TXN",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "CICT: CapitaLand Integrated Commercial Trust",
       "currency": "SGD",
@@ -54599,6 +54659,21 @@
       "source": "Alpha Vantage",
       "symbol": "ZEO",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.1,
+      "companyName": "Smart Sand, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-12",
+      "exDate": "2026-07-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SND-2026-08-12",
+      "market": "US",
+      "paymentDate": "2026-08-12",
+      "recordDate": "2026-07-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "SND",
+      "type": "dividend"
     },
     {
       "amountPerShare": null,
@@ -62461,6 +62536,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.33,
+      "companyName": "Plumas Bancorp",
+      "currency": "USD",
+      "eventDate": "2026-08-17",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PLBC-2026-08-17",
+      "market": "US",
+      "paymentDate": "2026-08-17",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "PLBC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "SENMIAO TECHNOLOGY LIMITED",
       "currency": "USD",
@@ -63347,6 +63437,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "SATS",
+      "currency": "SGD",
+      "eventDate": "2026-08-19",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-S58-2026-08-19",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "S58.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ANALOG DEVICES INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-08-19",
@@ -64021,6 +64126,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 1.19,
+      "companyName": "Paychex, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-07-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PAYX-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-07-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "PAYX",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.01,
       "companyName": "YONGMAO HOLDINGS LIMITED",
       "currency": "SGD",
@@ -64336,5 +64456,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-20T08:36:55.739810+00:00"
+  "updated_at": "2026-07-20T13:45:45.596335+00:00"
 }
