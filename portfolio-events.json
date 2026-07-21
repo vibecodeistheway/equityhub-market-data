@@ -2582,7 +2582,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "TELEDYNE TECHNOLOGIES INCORPORATED",
+      "companyName": "TELEDYNE TECHNOLOGIES INC",
       "currency": "USD",
       "eventDate": "2026-07-22",
       "exDate": null,
@@ -19816,6 +19816,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.225,
+      "companyName": "First Trust Senior Loan Fund",
+      "currency": "USD",
+      "eventDate": "2026-07-31",
+      "exDate": "2026-07-21",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FTSL-2026-07-31",
+      "market": "US",
+      "paymentDate": "2026-07-31",
+      "recordDate": "2026-07-21",
+      "source": "Nasdaq Calendar",
+      "symbol": "FTSL",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.15,
       "companyName": "ArrowMark Financial Corp. Common Stock",
       "currency": "USD",
@@ -35147,6 +35162,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "JustCo",
+      "currency": "SGD",
+      "eventDate": "2026-08-06",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-JCO-2026-08-06",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "JCO.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "APPLIED OPTOELECTRONICS INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-08-06",
@@ -46681,6 +46711,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.15,
+      "companyName": "Home Federal Bancorp, Inc. of Louisiana Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-10",
+      "exDate": "2026-07-27",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HFBL-2026-08-10",
+      "market": "US",
+      "paymentDate": "2026-08-10",
+      "recordDate": "2026-07-27",
+      "source": "Nasdaq Calendar",
+      "symbol": "HFBL",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.18,
       "companyName": "South Plains Financial, Inc. Common Stock",
       "currency": "USD",
@@ -46693,6 +46738,21 @@
       "recordDate": "2026-07-27",
       "source": "Nasdaq Calendar",
       "symbol": "SPFI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.25,
+      "companyName": "Five Star Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-10",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FSBC-2026-08-10",
+      "market": "US",
+      "paymentDate": "2026-08-10",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "FSBC",
       "type": "dividend"
     },
     {
@@ -50566,6 +50626,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.35,
+      "companyName": "Value Line, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-11",
+      "exDate": "2026-07-27",
+      "fiscalPeriod": null,
+      "id": "us-dividend-VALU-2026-08-11",
+      "market": "US",
+      "paymentDate": "2026-08-11",
+      "recordDate": "2026-07-27",
+      "source": "Nasdaq Calendar",
+      "symbol": "VALU",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.12,
       "companyName": "AGNC Investment Corp. Common Stock",
       "currency": "USD",
@@ -50578,6 +50653,21 @@
       "recordDate": "2026-07-31",
       "source": "Nasdaq Calendar",
       "symbol": "AGNC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.16,
+      "companyName": "RBB Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-11",
+      "exDate": "2026-07-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RBB-2026-08-11",
+      "market": "US",
+      "paymentDate": "2026-08-11",
+      "recordDate": "2026-07-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "RBB",
       "type": "dividend"
     },
     {
@@ -50683,6 +50773,21 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "N32.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "NTT DC REIT USD",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-NTDU-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "NTDU.SI",
       "type": "earnings"
     },
     {
@@ -54193,6 +54298,21 @@
       "recordDate": "2026-07-28",
       "source": "Nasdaq Calendar",
       "symbol": "SND",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.63,
+      "companyName": "Hingham Institution for Savings Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-12",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HIFS-2026-08-12",
+      "market": "US",
+      "paymentDate": "2026-08-12",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "HIFS",
       "type": "dividend"
     },
     {
@@ -61351,6 +61471,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.1925,
+      "companyName": "Donegal Group, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-07-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-DGICA-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-07-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "DGICA",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.175,
+      "companyName": "Donegal Group, Inc. Class B Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-07-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-DGICB-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-07-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "DGICB",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0425,
       "companyName": "Lifetime Brands, Inc. Common Stock",
       "currency": "USD",
@@ -61363,6 +61513,21 @@
       "recordDate": "2026-07-31",
       "source": "Nasdaq Calendar",
       "symbol": "LCUT",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.125,
+      "companyName": "Park-Ohio Holdings Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-07-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PKOH-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-07-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "PKOH",
       "type": "dividend"
     },
     {
@@ -61964,6 +62129,21 @@
       "source": "Alpha Vantage",
       "symbol": "XYF",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.07,
+      "companyName": "FVCBankcorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-17",
+      "exDate": "2026-07-27",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FVCB-2026-08-17",
+      "market": "US",
+      "paymentDate": "2026-08-17",
+      "recordDate": "2026-07-27",
+      "source": "Nasdaq Calendar",
+      "symbol": "FVCB",
+      "type": "dividend"
     },
     {
       "amountPerShare": 0.28906,
@@ -64366,5 +64546,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-21T08:06:07.209369+00:00"
+  "updated_at": "2026-07-21T13:13:29.622896+00:00"
 }
