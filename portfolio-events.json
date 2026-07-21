@@ -2,21 +2,6 @@
   "events": [
     {
       "amountPerShare": null,
-      "companyName": "Phillip SGD Money Market Fund",
-      "currency": "SGD",
-      "eventDate": "2026-07-21",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-0P00006OHQ-2026-07-21",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "0P00006OHQ.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "AAR CORPORATION",
       "currency": "USD",
       "eventDate": "2026-07-21",
@@ -28052,6 +28037,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Daiwa House Logistics Trust",
+      "currency": "SGD",
+      "eventDate": "2026-08-05",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-DHLU-2026-08-05",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "DHLU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "IREIT Global EUR",
       "currency": "SGD",
       "eventDate": "2026-08-05",
@@ -28063,21 +28063,6 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "8U7U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "Daiwa Hse Log Tr",
-      "currency": "SGD",
-      "eventDate": "2026-08-05",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-DHLU-2026-08-05",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "InvestingNote",
-      "symbol": "DHLU.SI",
       "type": "earnings"
     },
     {
@@ -62897,7 +62882,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "SATS",
+      "companyName": "SATS Ltd",
       "currency": "SGD",
       "eventDate": "2026-08-19",
       "exDate": null,
@@ -62906,7 +62891,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "S58.SI",
       "type": "earnings"
     },
@@ -64381,5 +64366,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-21T01:24:19.611316+00:00"
+  "updated_at": "2026-07-21T08:06:07.209369+00:00"
 }
