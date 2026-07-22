@@ -21242,6 +21242,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "ParkwayLife Reit",
+      "currency": "SGD",
+      "eventDate": "2026-08-04",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-C2PU-2026-08-04",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "C2PU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ACADIA PHARMACEUTICALS INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-08-04",
@@ -27208,6 +27223,21 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "8U7U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Cent Accom REIT",
+      "currency": "SGD",
+      "eventDate": "2026-08-05",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-8C8U-2026-08-05",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "8C8U.SI",
       "type": "earnings"
     },
     {
@@ -34288,6 +34318,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "BTOU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Acro HTrust USD",
+      "currency": "SGD",
+      "eventDate": "2026-08-06",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-XZL-2026-08-06",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "XZL.SI",
       "type": "earnings"
     },
     {
@@ -42433,6 +42478,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "U11.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "NetLink NBN Tr",
+      "currency": "SGD",
+      "eventDate": "2026-08-07",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-CJLU-2026-08-07",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "CJLU.SI",
       "type": "earnings"
     },
     {
@@ -61306,6 +61366,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.535,
+      "companyName": "Alliant Energy Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-17",
+      "exDate": "2026-07-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LNT-2026-08-17",
+      "market": "US",
+      "paymentDate": "2026-08-17",
+      "recordDate": "2026-07-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "LNT",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.28906,
       "companyName": "Bank OZK 4.625% Series A Non-Cumulative Perpetual Preferred Stock",
       "currency": "USD",
@@ -64291,5 +64366,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-22T08:07:51.245727+00:00"
+  "updated_at": "2026-07-22T13:19:09.317763+00:00"
 }
