@@ -32,66 +32,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Mapletree Logistics Trust",
-      "currency": "SGD",
-      "eventDate": "2026-07-23",
-      "exDate": null,
-      "fiscalPeriod": "1Q",
-      "id": "sg-earnings-M44U-2026-07-23",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "M44U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "First REIT",
-      "currency": "SGD",
-      "eventDate": "2026-07-23",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-AW9U-2026-07-23",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "AW9U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "Suntec REIT",
-      "currency": "SGD",
-      "eventDate": "2026-07-23",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-T82U-2026-07-23",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "T82U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "Keppel DC REIT",
-      "currency": "SGD",
-      "eventDate": "2026-07-23",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-AJBU-2026-07-23",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "AJBU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "AMERICAN AIRLINES GROUP INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-07-23",
@@ -2474,6 +2414,21 @@
       "source": "Alpha Vantage",
       "symbol": "WTBA",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.40242,
+      "companyName": "VYNE Therapeutics Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-07-23",
+      "exDate": "2026-07-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-VYNE-2026-07-23",
+      "market": "US",
+      "paymentDate": "2026-07-23",
+      "recordDate": "2026-07-22",
+      "source": "Nasdaq Calendar",
+      "symbol": "VYNE",
+      "type": "dividend"
     },
     {
       "amountPerShare": null,
@@ -19172,7 +19127,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "ParkwayLife Reit",
+      "companyName": "Parkway Life REIT",
       "currency": "SGD",
       "eventDate": "2026-08-04",
       "exDate": null,
@@ -19181,7 +19136,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "C2PU.SI",
       "type": "earnings"
     },
@@ -25142,6 +25097,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Centurion Accommodation REIT",
+      "currency": "SGD",
+      "eventDate": "2026-08-05",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-8C8U-2026-08-05",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "8C8U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "IREIT Global EUR",
       "currency": "SGD",
       "eventDate": "2026-08-05",
@@ -25153,21 +25123,6 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "8U7U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "Cent Accom REIT",
-      "currency": "SGD",
-      "eventDate": "2026-08-05",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-8C8U-2026-08-05",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "InvestingNote",
-      "symbol": "8C8U.SI",
       "type": "earnings"
     },
     {
@@ -40412,7 +40367,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "NetLink NBN Tr",
+      "companyName": "NetLink NBN Trust",
       "currency": "SGD",
       "eventDate": "2026-08-07",
       "exDate": null,
@@ -40421,7 +40376,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "CJLU.SI",
       "type": "earnings"
     },
@@ -62371,5 +62326,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-23T01:30:51.447614+00:00"
+  "updated_at": "2026-07-23T08:09:20.249074+00:00"
 }
