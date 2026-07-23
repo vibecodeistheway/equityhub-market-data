@@ -3452,7 +3452,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "COASTALSOUTH BANCSHARES INCORPORATED",
+      "companyName": "COASTALSOUTH BANCSHARES INC",
       "currency": "USD",
       "eventDate": "2026-07-27",
       "exDate": null,
@@ -4487,7 +4487,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "AMERICA MOVIL, SOCIEDAD AN\u00d3NIMAB. DE C.V.",
+      "companyName": "AMERICA MOVIL S.A.B.DE C.V.",
       "currency": "USD",
       "eventDate": "2026-07-28",
       "exDate": null,
@@ -4547,7 +4547,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "AMERISERV FINANCIAL INCORPORATED",
+      "companyName": "AMERISERV FINANCIAL INC",
       "currency": "USD",
       "eventDate": "2026-07-28",
       "exDate": null,
@@ -4667,7 +4667,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "BAR HARBOR BANKSHARES INCORPORATED",
+      "companyName": "BAR HARBOR BANKSHARES INC",
       "currency": "USD",
       "eventDate": "2026-07-28",
       "exDate": null,
@@ -5252,7 +5252,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "FS BANCORP INCORPORATED",
+      "companyName": "FS BANCORP INC",
       "currency": "USD",
       "eventDate": "2026-07-28",
       "exDate": null,
@@ -5687,7 +5687,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "MUELLER INDUSTRIES INCORPORATED",
+      "companyName": "MUELLER INDUSTRIES INC",
       "currency": "USD",
       "eventDate": "2026-07-28",
       "exDate": null,
@@ -43846,6 +43846,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.07,
+      "companyName": "Old Second Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-10",
+      "exDate": "2026-07-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OSBC-2026-08-10",
+      "market": "US",
+      "paymentDate": "2026-08-10",
+      "recordDate": "2026-07-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "OSBC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.25,
       "companyName": "Five Star Bancorp Common Stock",
       "currency": "USD",
@@ -47791,6 +47806,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.1,
+      "companyName": "MainStreet Bancshares, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-11",
+      "exDate": "2026-08-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MNSB-2026-08-11",
+      "market": "US",
+      "paymentDate": "2026-08-11",
+      "recordDate": "2026-08-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "MNSB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3,
+      "companyName": "Orrstown Financial Services, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-11",
+      "exDate": "2026-08-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ORRF-2026-08-11",
+      "market": "US",
+      "paymentDate": "2026-08-11",
+      "recordDate": "2026-08-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "ORRF",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.04,
       "companyName": "THE HOUR GLASS LIMITED",
       "currency": "SGD",
@@ -47908,6 +47953,21 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "N32.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Prime US ReitUSD",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-OXMU-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "OXMU.SI",
       "type": "earnings"
     },
     {
@@ -58681,6 +58741,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.32,
+      "companyName": "Home Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HBCP-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "HBCP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.28,
+      "companyName": "Independent Bank Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-IBCP-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "IBCP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.5,
       "companyName": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
       "currency": "USD",
@@ -59293,6 +59383,36 @@
       "recordDate": "2026-08-03",
       "source": "Nasdaq Calendar",
       "symbol": "OZKAP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.8,
+      "companyName": "East West Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-17",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-EWBC-2026-08-17",
+      "market": "US",
+      "paymentDate": "2026-08-17",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "EWBC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.42,
+      "companyName": "Peoples Bancorp Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-17",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PEBO-2026-08-17",
+      "market": "US",
+      "paymentDate": "2026-08-17",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "PEBO",
       "type": "dividend"
     },
     {
@@ -60164,6 +60284,21 @@
       "source": "Alpha Vantage",
       "symbol": "ZTO",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.17,
+      "companyName": "First Community Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-18",
+      "exDate": "2026-08-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FCCO-2026-08-18",
+      "market": "US",
+      "paymentDate": "2026-08-18",
+      "recordDate": "2026-08-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "FCCO",
+      "type": "dividend"
     },
     {
       "amountPerShare": 0.18,
@@ -61861,6 +61996,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.1,
+      "companyName": "John Marshall Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-26",
+      "exDate": "2026-08-05",
+      "fiscalPeriod": null,
+      "id": "us-dividend-JMSB-2026-08-26",
+      "market": "US",
+      "paymentDate": "2026-08-26",
+      "recordDate": "2026-08-05",
+      "source": "Nasdaq Calendar",
+      "symbol": "JMSB",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US Core PCE Release",
       "currency": null,
@@ -62038,6 +62188,21 @@
       "recordDate": "2026-08-19",
       "source": "SGX Corporate Actions",
       "symbol": "OTX.SI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.275,
+      "companyName": "Weatherford International plc Ordinary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-03",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WFRD-2026-09-03",
+      "market": "US",
+      "paymentDate": "2026-09-03",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "WFRD",
       "type": "dividend"
     },
     {
@@ -62326,5 +62491,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-23T08:09:20.249074+00:00"
+  "updated_at": "2026-07-23T13:21:16.359670+00:00"
 }
