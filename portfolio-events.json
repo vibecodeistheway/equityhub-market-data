@@ -29717,6 +29717,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "DBS",
+      "currency": "SGD",
+      "eventDate": "2026-08-06",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-D05-2026-08-06",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "D05.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Acro HTrust USD",
       "currency": "SGD",
       "eventDate": "2026-08-06",
@@ -37888,6 +37903,36 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "CJLU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Hong Leong Fin",
+      "currency": "SGD",
+      "eventDate": "2026-08-07",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-S41-2026-08-07",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "S41.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "BHG Retail Reit",
+      "currency": "SGD",
+      "eventDate": "2026-08-07",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-BMGU-2026-08-07",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "BMGU.SI",
       "type": "earnings"
     },
     {
@@ -57437,7 +57482,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "MEDTRONIC PLC",
+      "companyName": "MEDTRONIC PUBLIC LIMITED COMPANY",
       "currency": "USD",
       "eventDate": "2026-08-18",
       "exDate": null,
@@ -59626,6 +59671,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.33,
+      "companyName": "First Community Bankshares, Inc. (VA) Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FCBC-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "FCBC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.29,
       "companyName": "FS Bancorp, Inc. Common Stock",
       "currency": "USD",
@@ -59698,6 +59758,36 @@
       "recordDate": "2026-08-05",
       "source": "Nasdaq Calendar",
       "symbol": "JMSB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.34,
+      "companyName": "Franklin Financial Services Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-26",
+      "exDate": "2026-08-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FRAF-2026-08-26",
+      "market": "US",
+      "paymentDate": "2026-08-26",
+      "recordDate": "2026-08-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "FRAF",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.06,
+      "companyName": "Richardson Electronics, Ltd. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-26",
+      "exDate": "2026-08-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RELL-2026-08-26",
+      "market": "US",
+      "paymentDate": "2026-08-26",
+      "recordDate": "2026-08-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "RELL",
       "type": "dividend"
     },
     {
@@ -59789,6 +59879,21 @@
       "source": "SGX Corporate Actions",
       "symbol": "5PF.SI",
       "type": "dividend"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "ASL Marine",
+      "currency": "SGD",
+      "eventDate": "2026-08-27",
+      "exDate": null,
+      "fiscalPeriod": "FY",
+      "id": "sg-earnings-A04-2026-08-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "A04.SI",
+      "type": "earnings"
     },
     {
       "amountPerShare": 1.19,
@@ -60211,5 +60316,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-24T08:05:30.276696+00:00"
+  "updated_at": "2026-07-24T13:15:55.633349+00:00"
 }
