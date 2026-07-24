@@ -54781,6 +54781,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.04,
+      "companyName": "TriMas Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-13",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TRS-2026-08-13",
+      "market": "US",
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "TRS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "Sasseur REIT",
       "currency": "SGD",
@@ -56281,6 +56296,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.52,
+      "companyName": "Banner Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BANR-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "BANR",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.28,
       "companyName": "Independent Bank Corporation Common Stock",
       "currency": "USD",
@@ -56293,6 +56323,36 @@
       "recordDate": "2026-08-04",
       "source": "Nasdaq Calendar",
       "symbol": "IBCP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.6,
+      "companyName": "Alphabet Inc. Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-15",
+      "exDate": "2026-07-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GOOGM-2026-08-15",
+      "market": "US",
+      "paymentDate": "2026-08-15",
+      "recordDate": "2026-08-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "GOOGM",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.6,
+      "companyName": "Alphabet Inc. Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-15",
+      "exDate": "2026-07-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GOOGN-2026-08-15",
+      "market": "US",
+      "paymentDate": "2026-08-15",
+      "recordDate": "2026-08-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "GOOGN",
       "type": "dividend"
     },
     {
@@ -56893,6 +56953,21 @@
       "recordDate": "2026-07-31",
       "source": "Nasdaq Calendar",
       "symbol": "LNT",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.03,
+      "companyName": "AmeriServ Financial Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-17",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ASRV-2026-08-17",
+      "market": "US",
+      "paymentDate": "2026-08-17",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "ASRV",
       "type": "dividend"
     },
     {
@@ -57811,6 +57886,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.18,
+      "companyName": "Civista Bancshares, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-18",
+      "exDate": "2026-08-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CIVB-2026-08-18",
+      "market": "US",
+      "paymentDate": "2026-08-18",
+      "recordDate": "2026-08-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "CIVB",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.17,
       "companyName": "First Community Corporation Common Stock",
       "currency": "USD",
@@ -58381,6 +58471,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.23,
+      "companyName": "Univest Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-19",
+      "exDate": "2026-08-05",
+      "fiscalPeriod": null,
+      "id": "us-dividend-UVSP-2026-08-19",
+      "market": "US",
+      "paymentDate": "2026-08-19",
+      "recordDate": "2026-08-05",
+      "source": "Nasdaq Calendar",
+      "symbol": "UVSP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.26,
+      "companyName": "West Bancorporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-19",
+      "exDate": "2026-08-05",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WTBA-2026-08-19",
+      "market": "US",
+      "paymentDate": "2026-08-19",
+      "recordDate": "2026-08-05",
+      "source": "Nasdaq Calendar",
+      "symbol": "WTBA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0175,
       "companyName": "GP INDUSTRIES LIMITED",
       "currency": "SGD",
@@ -58918,6 +59038,21 @@
       "recordDate": "2026-07-29",
       "source": "Nasdaq Calendar",
       "symbol": "PSEC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.17,
+      "companyName": "Amalgamated Financial Corp. Common Stock (DE)",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-AMAL-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-08-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "AMAL",
       "type": "dividend"
     },
     {
@@ -60076,5 +60211,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-24T01:26:27.792357+00:00"
+  "updated_at": "2026-07-24T08:05:30.276696+00:00"
 }
