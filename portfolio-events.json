@@ -8792,7 +8792,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "BV FINANCIAL INCORPORATED",
+      "companyName": "BV FINANCIAL INC",
       "currency": "USD",
       "eventDate": "2026-07-30",
       "exDate": null,
@@ -38147,21 +38147,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-08-07",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-08-07",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "AAON INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-08-10",
@@ -40876,19 +40861,34 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 0.0516,
-      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "amountPerShare": 0.27,
+      "companyName": "Sierra Bancorp Common Stock",
       "currency": "USD",
       "eventDate": "2026-08-10",
-      "exDate": "2026-08-07",
+      "exDate": "2026-08-03",
       "fiscalPeriod": null,
-      "id": "us-dividend-SATA-2026-08-10",
+      "id": "us-dividend-BSRR-2026-08-10",
       "market": "US",
       "paymentDate": "2026-08-10",
-      "recordDate": "2026-08-07",
+      "recordDate": "2026-08-03",
       "source": "Nasdaq Calendar",
-      "symbol": "SATA",
+      "symbol": "BSRR",
       "type": "dividend"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Hotel Royal",
+      "currency": "SGD",
+      "eventDate": "2026-08-11",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-H12-2026-08-11",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "H12.SI",
+      "type": "earnings"
     },
     {
       "amountPerShare": null,
@@ -40918,6 +40918,21 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "U13.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "World Precision",
+      "currency": "SGD",
+      "eventDate": "2026-08-11",
+      "exDate": null,
+      "fiscalPeriod": "2Q",
+      "id": "sg-earnings-B49-2026-08-11",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "B49.SI",
       "type": "earnings"
     },
     {
@@ -48541,6 +48556,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.09,
+      "companyName": "Lake Shore Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-12",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LSBK-2026-08-12",
+      "market": "US",
+      "paymentDate": "2026-08-12",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "LSBK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
@@ -54226,6 +54256,51 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 1.272943,
+      "companyName": "Dorchester Minerals, L.P. Common Units Representing Limited Partnership Interests",
+      "currency": "USD",
+      "eventDate": "2026-08-13",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-DMLP-2026-08-13",
+      "market": "US",
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "DMLP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.15,
+      "companyName": "Capital Clean Energy Carriers Corp. Common Share",
+      "currency": "USD",
+      "eventDate": "2026-08-13",
+      "exDate": "2026-08-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CCEC-2026-08-13",
+      "market": "US",
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-08-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "CCEC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.1,
+      "companyName": "Hanover Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-13",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HNVR-2026-08-13",
+      "market": "US",
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "HNVR",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.04,
       "companyName": "TriMas Corporation Common Stock",
       "currency": "USD",
@@ -54572,7 +54647,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CITIZENS & NORTHERN CORPORATION",
+      "companyName": "CITIZENS & NORTHERN CORP",
       "currency": "USD",
       "eventDate": "2026-08-14",
       "exDate": null,
@@ -55516,6 +55591,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.28,
+      "companyName": "Citizens & Northern Corp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CZNC-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "CZNC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.31,
+      "companyName": "Eagle Financial Services Inc Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-EFSI-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "EFSI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.32,
       "companyName": "Home Bancorp, Inc. Common Stock",
       "currency": "USD",
@@ -55531,6 +55636,66 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.23,
+      "companyName": "Mid Penn Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MPB-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "MPB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.375,
+      "companyName": "Oak Valley Bancorp (CA) Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OVLY-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "OVLY",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.48,
+      "companyName": "Westamerica Bancorporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WABC-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "WABC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.45,
+      "companyName": "1st Source Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SRCE-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "SRCE",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.52,
       "companyName": "Banner Corporation Common Stock",
       "currency": "USD",
@@ -55543,6 +55708,21 @@
       "recordDate": "2026-08-04",
       "source": "Nasdaq Calendar",
       "symbol": "BANR",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.47,
+      "companyName": "First Interstate BancSystem, Inc. Common Stock (DE)",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FIBK-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "FIBK",
       "type": "dividend"
     },
     {
@@ -56263,6 +56443,21 @@
       "recordDate": "2026-08-03",
       "source": "Nasdaq Calendar",
       "symbol": "PLBC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.01,
+      "companyName": "Eagle Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-17",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-EGBN-2026-08-17",
+      "market": "US",
+      "paymentDate": "2026-08-17",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "EGBN",
       "type": "dividend"
     },
     {
@@ -57691,6 +57886,51 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.28,
+      "companyName": "Hanmi Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-19",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HAFC-2026-08-19",
+      "market": "US",
+      "paymentDate": "2026-08-19",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "HAFC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.25,
+      "companyName": "Heritage Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-19",
+      "exDate": "2026-08-05",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HFWA-2026-08-19",
+      "market": "US",
+      "paymentDate": "2026-08-19",
+      "recordDate": "2026-08-05",
+      "source": "Nasdaq Calendar",
+      "symbol": "HFWA",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.07,
+      "companyName": "NB Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-19",
+      "exDate": "2026-08-05",
+      "fiscalPeriod": null,
+      "id": "us-dividend-NBBK-2026-08-19",
+      "market": "US",
+      "paymentDate": "2026-08-19",
+      "recordDate": "2026-08-05",
+      "source": "Nasdaq Calendar",
+      "symbol": "NBBK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.23,
       "companyName": "Univest Financial Corporation Common Stock",
       "currency": "USD",
@@ -58321,6 +58561,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.1,
+      "companyName": "Magyar Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MGYR-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "MGYR",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.14,
+      "companyName": "OP Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OPBK-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "OPBK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.5,
       "companyName": "Silicon Motion Technology Corporation American Depositary Shares",
       "currency": "USD",
@@ -58333,6 +58603,21 @@
       "recordDate": "2026-08-06",
       "source": "Nasdaq Calendar",
       "symbol": "SIMO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.55,
+      "companyName": "Wintrust Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WTFC-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "WTFC",
       "type": "dividend"
     },
     {
@@ -58861,33 +59146,18 @@
       "type": "earnings"
     },
     {
-      "amountPerShare": 0.33,
-      "companyName": "First Community Bankshares, Inc. (VA) Common Stock",
+      "amountPerShare": 0.2,
+      "companyName": "Bankwell Financial Group, Inc. Common Stock",
       "currency": "USD",
       "eventDate": "2026-08-21",
-      "exDate": "2026-08-07",
+      "exDate": "2026-08-10",
       "fiscalPeriod": null,
-      "id": "us-dividend-FCBC-2026-08-21",
+      "id": "us-dividend-BWFG-2026-08-21",
       "market": "US",
       "paymentDate": "2026-08-21",
-      "recordDate": "2026-08-07",
+      "recordDate": "2026-08-10",
       "source": "Nasdaq Calendar",
-      "symbol": "FCBC",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.29,
-      "companyName": "FS Bancorp, Inc. Common Stock",
-      "currency": "USD",
-      "eventDate": "2026-08-21",
-      "exDate": "2026-08-07",
-      "fiscalPeriod": null,
-      "id": "us-dividend-FSBW-2026-08-21",
-      "market": "US",
-      "paymentDate": "2026-08-21",
-      "recordDate": "2026-08-07",
-      "source": "Nasdaq Calendar",
-      "symbol": "FSBW",
+      "symbol": "BWFG",
       "type": "dividend"
     },
     {
@@ -60061,36 +60331,6 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 0.34,
-      "companyName": "Franklin Financial Services Corporation Common Stock",
-      "currency": "USD",
-      "eventDate": "2026-08-26",
-      "exDate": "2026-08-07",
-      "fiscalPeriod": null,
-      "id": "us-dividend-FRAF-2026-08-26",
-      "market": "US",
-      "paymentDate": "2026-08-26",
-      "recordDate": "2026-08-07",
-      "source": "Nasdaq Calendar",
-      "symbol": "FRAF",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.06,
-      "companyName": "Richardson Electronics, Ltd. Common Stock",
-      "currency": "USD",
-      "eventDate": "2026-08-26",
-      "exDate": "2026-08-07",
-      "fiscalPeriod": null,
-      "id": "us-dividend-RELL-2026-08-26",
-      "market": "US",
-      "paymentDate": "2026-08-26",
-      "recordDate": "2026-08-07",
-      "source": "Nasdaq Calendar",
-      "symbol": "RELL",
-      "type": "dividend"
-    },
-    {
       "amountPerShare": 0.27,
       "companyName": "SiriusXM Holdings Inc. Common Stock",
       "currency": "USD",
@@ -60241,6 +60481,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": null,
+      "companyName": "Karin Tech",
+      "currency": "SGD",
+      "eventDate": "2026-08-27",
+      "exDate": null,
+      "fiscalPeriod": "FY",
+      "id": "sg-earnings-K29-2026-08-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "K29.SI",
+      "type": "earnings"
+    },
+    {
       "amountPerShare": 1.19,
       "companyName": "Paychex, Inc. Common Stock",
       "currency": "USD",
@@ -60253,6 +60508,36 @@
       "recordDate": "2026-07-28",
       "source": "Nasdaq Calendar",
       "symbol": "PAYX",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.35,
+      "companyName": "Princeton Bancorp, Inc. Common Stock (PA)",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-05",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BPRN-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-05",
+      "source": "Nasdaq Calendar",
+      "symbol": "BPRN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 1.0,
+      "companyName": "NVE Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-31",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-NVEC-2026-08-31",
+      "market": "US",
+      "paymentDate": "2026-08-31",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "NVEC",
       "type": "dividend"
     },
     {
@@ -60344,21 +60629,6 @@
       "source": "Nasdaq Calendar",
       "symbol": "WFRD",
       "type": "dividend"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-09-04",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-09-04",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
     },
     {
       "amountPerShare": null,
@@ -60542,21 +60812,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-10-02",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-10-02",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
       "eventDate": "2026-10-14",
@@ -60602,21 +60857,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-11-06",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-11-06",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
       "eventDate": "2026-11-10",
@@ -60643,21 +60883,6 @@
       "recordDate": null,
       "source": "BEA",
       "symbol": "PCE",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-12-04",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-12-04",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
       "type": "macro"
     },
     {
@@ -60706,5 +60931,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-27T09:25:10.366789+00:00"
+  "updated_at": "2026-07-27T14:08:07.089433+00:00"
 }
