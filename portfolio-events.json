@@ -50761,6 +50761,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.25,
+      "companyName": "Bank of Marin Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-13",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BMRC-2026-08-13",
+      "market": "US",
+      "paymentDate": "2026-08-13",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "BMRC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.1,
       "companyName": "Hanover Bancorp, Inc. Common Stock",
       "currency": "USD",
@@ -52258,6 +52273,21 @@
       "recordDate": "2026-08-04",
       "source": "Nasdaq Calendar",
       "symbol": "IBCP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.6,
+      "companyName": "Alliance Resource Partners, L.P. Common Units representing Limited Partners Interests",
+      "currency": "USD",
+      "eventDate": "2026-08-14",
+      "exDate": "2026-08-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ARLP-2026-08-14",
+      "market": "US",
+      "paymentDate": "2026-08-14",
+      "recordDate": "2026-08-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "ARLP",
       "type": "dividend"
     },
     {
@@ -53851,6 +53881,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.2,
+      "companyName": "Northwest Bancshares, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-18",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-NWBI-2026-08-18",
+      "market": "US",
+      "paymentDate": "2026-08-18",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "NWBI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.25,
+      "companyName": "HBT Financial, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-18",
+      "exDate": "2026-08-11",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HBT-2026-08-18",
+      "market": "US",
+      "paymentDate": "2026-08-18",
+      "recordDate": "2026-08-11",
+      "source": "Nasdaq Calendar",
+      "symbol": "HBT",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.03,
       "companyName": "IFAST CORPORATION LTD.",
       "currency": "SGD",
@@ -55111,6 +55171,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.28,
+      "companyName": "Franklin Electric Co., Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FELE-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "FELE",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.14,
+      "companyName": "Hope Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HOPE-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-08-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "HOPE",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.1,
       "companyName": "Magyar Bancorp, Inc. Common Stock",
       "currency": "USD",
@@ -55168,6 +55258,21 @@
       "recordDate": "2026-08-06",
       "source": "Nasdaq Calendar",
       "symbol": "WTFC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.31,
+      "companyName": "German American Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GABC-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-08-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "GABC",
       "type": "dividend"
     },
     {
@@ -55708,6 +55813,36 @@
       "recordDate": "2026-08-07",
       "source": "Nasdaq Calendar",
       "symbol": "ARCB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.085,
+      "companyName": "Capitol Federal Financial, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CFFN-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "CFFN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.105,
+      "companyName": "Citizens Community Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CZWI-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "CZWI",
       "type": "dividend"
     },
     {
@@ -57061,6 +57196,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.14,
+      "companyName": "Capital Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-26",
+      "exDate": "2026-08-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CBNK-2026-08-26",
+      "market": "US",
+      "paymentDate": "2026-08-26",
+      "recordDate": "2026-08-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "CBNK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.27,
       "companyName": "SiriusXM Holdings Inc. Common Stock",
       "currency": "USD",
@@ -58096,6 +58246,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.13,
+      "companyName": "Astec Industries, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ASTE-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "ASTE",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 1.0,
       "companyName": "NVE Corporation Common Stock",
       "currency": "USD",
@@ -58696,5 +58861,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-29T08:16:48.100047+00:00"
+  "updated_at": "2026-07-29T13:42:46.216857+00:00"
 }
