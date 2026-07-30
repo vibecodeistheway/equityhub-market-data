@@ -4712,21 +4712,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Core PCE Release",
-      "currency": null,
-      "eventDate": "2026-07-30",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-PCE-2026-07-30",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BEA",
-      "symbol": "PCE",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Seatrium Limited",
       "currency": "SGD",
       "eventDate": "2026-07-31",
@@ -7648,6 +7633,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "C2PU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "FSL Trust^",
+      "currency": "SGD",
+      "eventDate": "2026-08-04",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-D8DU-2026-08-04",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "D8DU.SI",
       "type": "earnings"
     },
     {
@@ -10592,7 +10592,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "KINIKSA PHARMACEUTICALS INTERNATIONAL PUBLIC LIMITED COMPANY",
+      "companyName": "KINIKSA PHARMACEUTICALS INTERNATIONAL PLC. - CLASS A",
       "currency": "USD",
       "eventDate": "2026-08-04",
       "exDate": null,
@@ -29402,6 +29402,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Ho Bee Land",
+      "currency": "SGD",
+      "eventDate": "2026-08-07",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-H13-2026-08-07",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "H13.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "EliteUKREIT SGD",
       "currency": "SGD",
       "eventDate": "2026-08-07",
@@ -37037,6 +37052,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "AP Oil",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-5AU-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "5AU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Nippecraft^",
       "currency": "SGD",
       "eventDate": "2026-08-12",
@@ -40888,6 +40918,21 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "AWI.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "EC World Reit",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-BWCU-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "BWCU.SI",
       "type": "earnings"
     },
     {
@@ -46472,6 +46517,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Golden Agri-Res",
+      "currency": "SGD",
+      "eventDate": "2026-08-14",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-E5H-2026-08-14",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "E5H.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Mewah Intl",
       "currency": "SGD",
       "eventDate": "2026-08-14",
@@ -51541,6 +51601,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.21,
+      "companyName": "Sound Financial Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SFBC-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "SFBC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.2,
       "companyName": "WSFS Financial Corporation Common Stock",
       "currency": "USD",
@@ -51706,6 +51781,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.1,
+      "companyName": "Carter Bankshares, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-24",
+      "exDate": "2026-08-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CARE-2026-08-24",
+      "market": "US",
+      "paymentDate": "2026-08-24",
+      "recordDate": "2026-08-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "CARE",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.01,
       "companyName": "Northeast Bank Common Stock",
       "currency": "USD",
@@ -51718,6 +51808,21 @@
       "recordDate": "2026-08-10",
       "source": "Nasdaq Calendar",
       "symbol": "NBN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3,
+      "companyName": "Timberland Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-24",
+      "exDate": "2026-08-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TSBK-2026-08-24",
+      "market": "US",
+      "paymentDate": "2026-08-24",
+      "recordDate": "2026-08-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "TSBK",
       "type": "dividend"
     },
     {
@@ -52891,6 +52996,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.07,
+      "companyName": "Western New England Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-26",
+      "exDate": "2026-08-12",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WNEB-2026-08-26",
+      "market": "US",
+      "paymentDate": "2026-08-26",
+      "recordDate": "2026-08-12",
+      "source": "Nasdaq Calendar",
+      "symbol": "WNEB",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US Core PCE Release",
       "currency": null,
@@ -53926,6 +54046,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.44,
+      "companyName": "H2O America Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HTO-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "HTO",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 1.02,
       "companyName": "Winmark Corporation Common Stock",
       "currency": "USD",
@@ -54043,6 +54178,21 @@
       "recordDate": "2026-08-06",
       "source": "Nasdaq Calendar",
       "symbol": "WFRD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.575,
+      "companyName": "Expand Energy Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-03",
+      "exDate": "2026-08-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-EXE-2026-09-03",
+      "market": "US",
+      "paymentDate": "2026-09-03",
+      "recordDate": "2026-08-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "EXE",
       "type": "dividend"
     },
     {
@@ -54346,6 +54496,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.05,
+      "companyName": "Highway Holdings Limited Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-22",
+      "exDate": "2026-08-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HIHO-2026-09-22",
+      "market": "US",
+      "paymentDate": "2026-09-22",
+      "recordDate": "2026-08-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "HIHO",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "DIGITAL CORE REIT",
       "currency": "SGD",
@@ -54616,5 +54781,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-30T08:05:10.662602+00:00"
+  "updated_at": "2026-07-30T13:23:45.884272+00:00"
 }
