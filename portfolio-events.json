@@ -47101,6 +47101,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.255,
+      "companyName": "Matthews International Corporation Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-24",
+      "exDate": "2026-08-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MATW-2026-08-24",
+      "market": "US",
+      "paymentDate": "2026-08-24",
+      "recordDate": "2026-08-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "MATW",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.01,
       "companyName": "Northeast Bank Common Stock",
       "currency": "USD",
@@ -50656,5 +50671,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-31T01:30:37.590231+00:00"
+  "updated_at": "2026-07-31T08:30:51.705441+00:00"
 }
