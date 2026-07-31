@@ -6302,7 +6302,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "MERCK & COMPANY INCORPORATED",
+      "companyName": "MERCK & CO INC",
       "currency": "USD",
       "eventDate": "2026-08-04",
       "exDate": null,
@@ -32312,6 +32312,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "ChinaSunsine",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-QES-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "QES.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Nippecraft^",
       "currency": "SGD",
       "eventDate": "2026-08-12",
@@ -36167,6 +36182,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Global Inv",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-B73-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "B73.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Thakral",
       "currency": "SGD",
       "eventDate": "2026-08-13",
@@ -39032,7 +39062,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "KB FINANCIAL GROUP INCORPORATED",
+      "companyName": "KB FINANCIAL GROUP INC",
       "currency": "USD",
       "eventDate": "2026-08-13",
       "exDate": null,
@@ -41803,6 +41833,21 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "MV4.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Straco",
+      "currency": "SGD",
+      "eventDate": "2026-08-14",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-S85-2026-08-14",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "S85.SI",
       "type": "earnings"
     },
     {
@@ -46951,6 +46996,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.133,
+      "companyName": "Willis Lease Finance Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-11",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WLFC-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-11",
+      "source": "Nasdaq Calendar",
+      "symbol": "WLFC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "STEALTHGAS INCORPORATED",
       "currency": "USD",
@@ -47143,6 +47203,21 @@
       "recordDate": "2026-08-10",
       "source": "Nasdaq Calendar",
       "symbol": "TSBK",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.5,
+      "companyName": "FTAI Aviation Ltd. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-24",
+      "exDate": "2026-08-12",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FTAI-2026-08-24",
+      "market": "US",
+      "paymentDate": "2026-08-24",
+      "recordDate": "2026-08-12",
+      "source": "Nasdaq Calendar",
+      "symbol": "FTAI",
       "type": "dividend"
     },
     {
@@ -47593,6 +47668,21 @@
       "recordDate": "2026-08-11",
       "source": "Nasdaq Calendar",
       "symbol": "AROW",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3,
+      "companyName": "Cheesecake Factory Incorporated (The) Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-25",
+      "exDate": "2026-08-11",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CAKE-2026-08-25",
+      "market": "US",
+      "paymentDate": "2026-08-25",
+      "recordDate": "2026-08-11",
+      "source": "Nasdaq Calendar",
+      "symbol": "CAKE",
       "type": "dividend"
     },
     {
@@ -49246,6 +49336,66 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.21,
+      "companyName": "Landmark Bancorp Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-27",
+      "exDate": "2026-08-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LARK-2026-08-27",
+      "market": "US",
+      "paymentDate": "2026-08-27",
+      "recordDate": "2026-08-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "LARK",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.09,
+      "companyName": "Leonardo DRS, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-27",
+      "exDate": "2026-08-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-DRS-2026-08-27",
+      "market": "US",
+      "paymentDate": "2026-08-27",
+      "recordDate": "2026-08-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "DRS",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 1.3,
+      "companyName": "Pool Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-27",
+      "exDate": "2026-08-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-POOL-2026-08-27",
+      "market": "US",
+      "paymentDate": "2026-08-27",
+      "recordDate": "2026-08-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "POOL",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.072,
+      "companyName": "Tetra Tech, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-27",
+      "exDate": "2026-08-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TTEK-2026-08-27",
+      "market": "US",
+      "paymentDate": "2026-08-27",
+      "recordDate": "2026-08-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "TTEK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "BUCKLE INCORPORATED (THE)",
       "currency": "USD",
@@ -49382,6 +49532,21 @@
     },
     {
       "amountPerShare": 0.2,
+      "companyName": "PC Connection, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-11",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CNXN-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-11",
+      "source": "Nasdaq Calendar",
+      "symbol": "CNXN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.2,
       "companyName": "Bassett Furniture Industries, Incorporated Common Stock",
       "currency": "USD",
       "eventDate": "2026-08-28",
@@ -49423,6 +49588,36 @@
       "recordDate": "2026-08-14",
       "source": "Nasdaq Calendar",
       "symbol": "FCFS",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.2,
+      "companyName": "Hawkins, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HWKN-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "HWKN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.12,
+      "companyName": "MGP Ingredients, Inc.",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MGPI-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "MGPI",
       "type": "dividend"
     },
     {
@@ -50176,6 +50371,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.52,
+      "companyName": "Cintas Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CTAS-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CTAS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.11,
       "companyName": "Eastern Company (The) Common Stock",
       "currency": "USD",
@@ -50671,5 +50881,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-07-31T08:30:51.705441+00:00"
+  "updated_at": "2026-07-31T13:27:56.007232+00:00"
 }
