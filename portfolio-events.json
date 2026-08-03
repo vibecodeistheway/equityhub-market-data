@@ -14716,6 +14716,36 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.32,
+      "companyName": "PIMCO Inflation PLUS Active Exchange-Traded Fund",
+      "currency": "USD",
+      "eventDate": "2026-08-05",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PCPI-2026-08-05",
+      "market": "US",
+      "paymentDate": "2026-08-05",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "PCPI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.18,
+      "companyName": "PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund",
+      "currency": "USD",
+      "eventDate": "2026-08-05",
+      "exDate": "2026-08-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PMBS-2026-08-05",
+      "market": "US",
+      "paymentDate": "2026-08-05",
+      "recordDate": "2026-08-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "PMBS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0516,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -50656,5 +50686,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-03T01:29:21.916656+00:00"
+  "updated_at": "2026-08-03T08:59:31.300556+00:00"
 }
