@@ -33332,6 +33332,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Asian Pay Tv Tr",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "2Q",
+      "id": "sg-earnings-S7OU-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "S7OU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Global Inv",
       "currency": "SGD",
       "eventDate": "2026-08-13",
@@ -39103,6 +39118,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "CRPU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Haw Par",
+      "currency": "SGD",
+      "eventDate": "2026-08-14",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-H02-2026-08-14",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "H02.SI",
       "type": "earnings"
     },
     {
@@ -49411,5 +49441,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-04T08:16:06.777922+00:00"
+  "updated_at": "2026-08-04T13:43:10.443687+00:00"
 }
