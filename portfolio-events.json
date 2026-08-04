@@ -2,21 +2,6 @@
   "events": [
     {
       "amountPerShare": null,
-      "companyName": "Parkway Life REIT",
-      "currency": "SGD",
-      "eventDate": "2026-08-04",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-C2PU-2026-08-04",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "C2PU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "ACADIA PHARMACEUTICALS INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-08-04",
@@ -5282,21 +5267,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CapitaLand Ascendas REIT",
-      "currency": "SGD",
-      "eventDate": "2026-08-05",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-A17U-2026-08-05",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "A17U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Daiwa House Logistics Trust",
       "currency": "SGD",
       "eventDate": "2026-08-05",
@@ -5308,6 +5278,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "DHLU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "CapitaLand China Trust",
+      "currency": "SGD",
+      "eventDate": "2026-08-05",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-AU8U-2026-08-05",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "AU8U.SI",
       "type": "earnings"
     },
     {
@@ -5342,17 +5327,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CapitaLand China Trust",
+      "companyName": "CapitaLand Ascendas REIT",
       "currency": "SGD",
       "eventDate": "2026-08-05",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-AU8U-2026-08-05",
+      "id": "sg-earnings-A17U-2026-08-05",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "AU8U.SI",
+      "symbol": "A17U.SI",
       "type": "earnings"
     },
     {
@@ -12722,6 +12707,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Manulife US REIT",
+      "currency": "SGD",
+      "eventDate": "2026-08-06",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-BTOU-2026-08-06",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "BTOU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Venture Corporation Limited",
       "currency": "SGD",
       "eventDate": "2026-08-06",
@@ -12752,17 +12752,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Manulife US REIT",
+      "companyName": "DBS Group Holdings Ltd",
       "currency": "SGD",
       "eventDate": "2026-08-06",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-BTOU-2026-08-06",
+      "id": "sg-earnings-D05-2026-08-06",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "BTOU.SI",
+      "symbol": "D05.SI",
       "type": "earnings"
     },
     {
@@ -12778,21 +12778,6 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "JCO.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "DBS Group Holdings Ltd",
-      "currency": "SGD",
-      "eventDate": "2026-08-06",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-D05-2026-08-06",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "D05.SI",
       "type": "earnings"
     },
     {
@@ -21377,17 +21362,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "OCBC: Oversea-Chinese Banking Corporation Limited",
+      "companyName": "Elite UK REIT",
       "currency": "SGD",
       "eventDate": "2026-08-07",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-O39-2026-08-07",
+      "id": "sg-earnings-MXNU-2026-08-07",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "O39.SI",
+      "symbol": "MXNU.SI",
       "type": "earnings"
     },
     {
@@ -21467,17 +21452,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Elite UK REIT",
+      "companyName": "OCBC: Oversea-Chinese Banking Corporation Limited",
       "currency": "SGD",
       "eventDate": "2026-08-07",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-MXNU-2026-08-07",
+      "id": "sg-earnings-O39-2026-08-07",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "MXNU.SI",
+      "symbol": "O39.SI",
       "type": "earnings"
     },
     {
@@ -29162,17 +29147,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CENTURION CORPORATION LIMITED",
+      "companyName": "Hong Leong Asia Ltd",
       "currency": "SGD",
       "eventDate": "2026-08-12",
       "exDate": null,
       "fiscalPeriod": "1H",
-      "id": "sg-earnings-OU8-2026-08-12",
+      "id": "sg-earnings-H22-2026-08-12",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "OU8.SI",
+      "symbol": "H22.SI",
       "type": "earnings"
     },
     {
@@ -29192,6 +29177,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "CENTURION CORPORATION LIMITED",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-OU8-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "OU8.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "CHINA SUNSINE CHEM HLDGS LTD",
       "currency": "SGD",
       "eventDate": "2026-08-12",
@@ -29203,21 +29203,6 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "QES.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "Hong Leong Asia Ltd",
-      "currency": "SGD",
-      "eventDate": "2026-08-12",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-H22-2026-08-12",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "H22.SI",
       "type": "earnings"
     },
     {
@@ -33152,6 +33137,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "CSE Global Limited",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-544-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "544.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "IREIT Global",
       "currency": "SGD",
       "eventDate": "2026-08-13",
@@ -33328,21 +33328,6 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "ODBU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "CSE Global",
-      "currency": "SGD",
-      "eventDate": "2026-08-13",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-544-2026-08-13",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "InvestingNote",
-      "symbol": "544.SI",
       "type": "earnings"
     },
     {
@@ -48601,6 +48586,21 @@
       "type": "macro"
     },
     {
+      "amountPerShare": 0.33,
+      "companyName": "Wingstop Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-05",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WING-2026-09-05",
+      "market": "US",
+      "paymentDate": "2026-09-05",
+      "recordDate": "2026-08-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "WING",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "MAPLETREE INDUSTRIAL TRUST",
       "currency": "SGD",
@@ -49411,5 +49411,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-04T01:19:09.273095+00:00"
+  "updated_at": "2026-08-04T08:16:06.777922+00:00"
 }
