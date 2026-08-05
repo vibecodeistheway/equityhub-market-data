@@ -19877,6 +19877,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "OKP",
+      "currency": "SGD",
+      "eventDate": "2026-08-11",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-5CF-2026-08-11",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "5CF.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "SingaporeLandGrp",
       "currency": "SGD",
       "eventDate": "2026-08-11",
@@ -33722,6 +33737,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "CNMC Goldmine",
+      "currency": "SGD",
+      "eventDate": "2026-08-14",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-5TP-2026-08-14",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "5TP.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Mewah Intl",
       "currency": "SGD",
       "eventDate": "2026-08-14",
@@ -35293,6 +35323,21 @@
       "recordDate": "2026-08-07",
       "source": "Nasdaq Calendar",
       "symbol": "BKR",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.07,
+      "companyName": "Columbus McKinnon Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-17",
+      "exDate": "2026-08-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CMCO-2026-08-17",
+      "market": "US",
+      "paymentDate": "2026-08-17",
+      "recordDate": "2026-08-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "CMCO",
       "type": "dividend"
     },
     {
@@ -37558,6 +37603,51 @@
       "recordDate": "2026-08-10",
       "source": "Nasdaq Calendar",
       "symbol": "GABC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 1.1,
+      "companyName": "Diamondback Energy, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FANG-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-08-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "FANG",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.10417,
+      "companyName": "Thornburg Income Builder Opportunities Trust Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TBLD-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-08-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "TBLD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.67,
+      "companyName": "Viper Energy, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-VNOM-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-08-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "VNOM",
       "type": "dividend"
     },
     {
@@ -41311,6 +41401,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.035,
+      "companyName": "HealthStream, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HSTM-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "HSTM",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0171,
       "companyName": "CDL HOSPITALITY TRUSTS",
       "currency": "SGD",
@@ -41458,6 +41563,21 @@
       "recordDate": "2026-08-14",
       "source": "Nasdaq Calendar",
       "symbol": "SMBC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.02533,
+      "companyName": "Global Water Resources, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-31",
+      "exDate": "2026-08-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GWRS-2026-08-31",
+      "market": "US",
+      "paymentDate": "2026-08-31",
+      "recordDate": "2026-08-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "GWRS",
       "type": "dividend"
     },
     {
@@ -44596,5 +44716,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-05T08:14:19.418401+00:00"
+  "updated_at": "2026-08-05T13:32:14.117570+00:00"
 }
