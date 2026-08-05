@@ -38296,6 +38296,111 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.1,
+      "companyName": "Calamos Convertible and High Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHY-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHY",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.095,
+      "companyName": "Calamos Convertible Opportunities and Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHI-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.195,
+      "companyName": "Calamos Dynamic Convertible & Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CCD-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CCD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.06,
+      "companyName": "Calamos Global Dynamic Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHW-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHW",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.09,
+      "companyName": "Calamos Global Total Return Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CGO-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CGO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.14,
+      "companyName": "Calamos Long/Short Equity & Dynamic Income Trust Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CPZ-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CPZ",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.135,
+      "companyName": "Calamos Strategic Total Return Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CSQ-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CSQ",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "STEALTHGAS INCORPORATED",
       "currency": "USD",
@@ -41026,6 +41131,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.73,
+      "companyName": "International Bancshares Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-IBOC-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "IBOC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.2,
       "companyName": "iRadimed Corporation Common Stock",
       "currency": "USD",
@@ -41071,6 +41191,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 1.86,
+      "companyName": "Nexstar Media Group, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-NXST-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "NXST",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.16,
       "companyName": "SB Financial Group, Inc. Common Stock",
       "currency": "USD",
@@ -41113,6 +41248,36 @@
       "recordDate": "2026-08-14",
       "source": "Nasdaq Calendar",
       "symbol": "SBUX",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.14,
+      "companyName": "Superior Group of Companies, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SGC-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "SGC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.59,
+      "companyName": "TPG Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TPG-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "TPG",
       "type": "dividend"
     },
     {
@@ -41263,6 +41428,21 @@
       "recordDate": "2026-08-14",
       "source": "Nasdaq Calendar",
       "symbol": "OCCI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3,
+      "companyName": "Sabra Health Care REIT, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-31",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SBRA-2026-08-31",
+      "market": "US",
+      "paymentDate": "2026-08-31",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "SBRA",
       "type": "dividend"
     },
     {
@@ -41788,6 +41968,21 @@
       "recordDate": "2026-08-14",
       "source": "Nasdaq Calendar",
       "symbol": "BWBBP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 3.9844,
+      "companyName": "Bruker Corporation 6.375% Mandatory Convertible Preferred Stock, Series A",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BRKRP-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "BRKRP",
       "type": "dividend"
     },
     {
@@ -43681,6 +43876,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5775,
+      "companyName": "Otter Tail Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-10",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OTTR-2026-09-10",
+      "market": "US",
+      "paymentDate": "2026-09-10",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "OTTR",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.235,
       "companyName": "Royalty Pharma plc Class A Ordinary Shares ",
       "currency": "USD",
@@ -44386,5 +44596,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-05T01:23:31.327557+00:00"
+  "updated_at": "2026-08-05T08:14:19.418401+00:00"
 }
