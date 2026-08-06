@@ -30916,6 +30916,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.33,
+      "companyName": "Midland States Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-21",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MSBI-2026-08-21",
+      "market": "US",
+      "paymentDate": "2026-08-21",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "MSBI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0516,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -33616,6 +33631,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.05,
+      "companyName": "AGNT, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-AGNT-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "AGNT",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.2,
       "companyName": "Bassett Furniture Industries, Incorporated Common Stock",
       "currency": "USD",
@@ -33838,6 +33868,21 @@
       "recordDate": "2026-08-14",
       "source": "Nasdaq Calendar",
       "symbol": "VABK",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.25,
+      "companyName": "Wynn Resorts, Limited Common stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WYNN-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "WYNN",
       "type": "dividend"
     },
     {
@@ -34636,6 +34681,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.421875,
+      "companyName": "First Guaranty Bancshares, Inc. 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FGBIP-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "FGBIP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.35625,
       "companyName": "Huntington Bancshares Incorporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock",
       "currency": "USD",
@@ -35101,6 +35161,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.075,
+      "companyName": "International General Insurance Holdings Ltd. Ordinary Share",
+      "currency": "USD",
+      "eventDate": "2026-09-02",
+      "exDate": "2026-08-18",
+      "fiscalPeriod": null,
+      "id": "us-dividend-IGIC-2026-09-02",
+      "market": "US",
+      "paymentDate": "2026-09-02",
+      "recordDate": "2026-08-18",
+      "source": "Nasdaq Calendar",
+      "symbol": "IGIC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.02,
       "companyName": "BGC Group, Inc. Class A Common Stock",
       "currency": "USD",
@@ -35158,6 +35233,21 @@
       "recordDate": "2026-08-19",
       "source": "Nasdaq Calendar",
       "symbol": "OSW",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.45,
+      "companyName": "Palomar Holdings, Inc. Common stock",
+      "currency": "USD",
+      "eventDate": "2026-09-02",
+      "exDate": "2026-08-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PLMR-2026-09-02",
+      "market": "US",
+      "paymentDate": "2026-09-02",
+      "recordDate": "2026-08-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "PLMR",
       "type": "dividend"
     },
     {
@@ -35881,6 +35971,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.47,
+      "companyName": "G. Willi-Food International,  Ltd. Ordinary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-03",
+      "exDate": "2026-08-18",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WILC-2026-09-03",
+      "market": "US",
+      "paymentDate": "2026-09-03",
+      "recordDate": "2026-08-18",
+      "source": "Nasdaq Calendar",
+      "symbol": "WILC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.2,
+      "companyName": "AudioCodes Ltd. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-03",
+      "exDate": "2026-08-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-AUDC-2026-09-03",
+      "market": "US",
+      "paymentDate": "2026-09-03",
+      "recordDate": "2026-08-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "AUDC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.3,
       "companyName": "Columbia Sportswear Company Common Stock",
       "currency": "USD",
@@ -35893,6 +36013,21 @@
       "recordDate": "2026-08-20",
       "source": "Nasdaq Calendar",
       "symbol": "COLM",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.25,
+      "companyName": "LeMaitre Vascular, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-03",
+      "exDate": "2026-08-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LMAT-2026-09-03",
+      "market": "US",
+      "paymentDate": "2026-09-03",
+      "recordDate": "2026-08-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "LMAT",
       "type": "dividend"
     },
     {
@@ -36286,6 +36421,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.13,
+      "companyName": "OneSpan Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-04",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OSPN-2026-09-04",
+      "market": "US",
+      "paymentDate": "2026-09-04",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "OSPN",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.125,
       "companyName": "USCB Financial Holdings, Inc. Class A Common Stock",
       "currency": "USD",
@@ -36298,6 +36448,21 @@
       "recordDate": "2026-08-17",
       "source": "Nasdaq Calendar",
       "symbol": "USCB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.4265,
+      "companyName": "Constellation Energy Corporation Common Stock ",
+      "currency": "USD",
+      "eventDate": "2026-09-04",
+      "exDate": "2026-08-18",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CEG-2026-09-04",
+      "market": "US",
+      "paymentDate": "2026-09-04",
+      "recordDate": "2026-08-18",
+      "source": "Nasdaq Calendar",
+      "symbol": "CEG",
       "type": "dividend"
     },
     {
@@ -36586,6 +36751,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.655,
+      "companyName": "Thomson Reuters Corporation Common Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-10",
+      "exDate": "2026-08-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TRI-2026-09-10",
+      "market": "US",
+      "paymentDate": "2026-09-10",
+      "recordDate": "2026-08-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "TRI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.53,
       "companyName": "Applied Materials, Inc. Common Stock",
       "currency": "USD",
@@ -36613,6 +36793,21 @@
       "recordDate": "2026-08-20",
       "source": "Nasdaq Calendar",
       "symbol": "MSFT",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.03,
+      "companyName": "SSR Mining Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-11",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SSRM-2026-09-11",
+      "market": "US",
+      "paymentDate": "2026-09-11",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "SSRM",
       "type": "dividend"
     },
     {
@@ -36841,6 +37036,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.09,
+      "companyName": "Powell Industries, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-16",
+      "exDate": "2026-08-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-POWL-2026-09-16",
+      "market": "US",
+      "paymentDate": "2026-09-16",
+      "recordDate": "2026-08-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "POWL",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "FOMC Rate Decision",
       "currency": null,
@@ -36898,6 +37108,21 @@
       "recordDate": "2026-07-28",
       "source": "SGX Corporate Actions",
       "symbol": "2D00.SI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.24,
+      "companyName": "Enact Holdings, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-17",
+      "exDate": "2026-08-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ACT-2026-09-17",
+      "market": "US",
+      "paymentDate": "2026-09-17",
+      "recordDate": "2026-08-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "ACT",
       "type": "dividend"
     },
     {
@@ -37066,6 +37291,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5,
+      "companyName": "Icahn Enterprises, L.P. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-23",
+      "exDate": "2026-08-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-IEP-2026-09-23",
+      "market": "US",
+      "paymentDate": "2026-09-23",
+      "recordDate": "2026-08-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "IEP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.011,
       "companyName": "FIRST SPONSOR GROUP LIMITED",
       "currency": "SGD",
@@ -37171,6 +37411,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5067,
+      "companyName": "First Internet Bancorp 6.0% Fixed-to-Floating Rate Subordinated Notes Due 2029",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-INBKZ-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-08-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "INBKZ",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.04,
       "companyName": "Wetouch Technology Inc. Common Stock",
       "currency": "USD",
@@ -37183,6 +37438,21 @@
       "recordDate": "2026-08-17",
       "source": "Nasdaq Calendar",
       "symbol": "WETH",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.28,
+      "companyName": "Weyco Group, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-08-18",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WEYS-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-08-18",
+      "source": "Nasdaq Calendar",
+      "symbol": "WEYS",
       "type": "dividend"
     },
     {
@@ -37411,5 +37681,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-06T08:12:48.285908+00:00"
+  "updated_at": "2026-08-06T13:31:00.378837+00:00"
 }
