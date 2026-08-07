@@ -767,21 +767,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-08-07",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-08-07",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "AAON INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-08-10",
@@ -11822,6 +11807,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Frencken",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-E28-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "E28.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Global Inv",
       "currency": "SGD",
       "eventDate": "2026-08-13",
@@ -11833,6 +11833,36 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "B73.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "MegaChem",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-5DS-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "5DS.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "TeleChoice Intl",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-T41-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "T41.SI",
       "type": "earnings"
     },
     {
@@ -14807,7 +14837,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "LG DISPLAY COMPANY LIMITED",
+      "companyName": "LG DISPLAY CO LTD",
       "currency": "USD",
       "eventDate": "2026-08-13",
       "exDate": null,
@@ -22801,6 +22831,51 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 2.7001,
+      "companyName": "Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN",
+      "currency": "USD",
+      "eventDate": "2026-08-25",
+      "exDate": "2026-08-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-USOI-2026-08-25",
+      "market": "US",
+      "paymentDate": "2026-08-25",
+      "recordDate": "2026-08-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "USOI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 1.8496,
+      "companyName": "Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",
+      "currency": "USD",
+      "eventDate": "2026-08-25",
+      "exDate": "2026-08-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GLDI-2026-08-25",
+      "market": "US",
+      "paymentDate": "2026-08-25",
+      "recordDate": "2026-08-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "GLDI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 1.3177,
+      "companyName": "Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",
+      "currency": "USD",
+      "eventDate": "2026-08-25",
+      "exDate": "2026-08-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SLVO-2026-08-25",
+      "market": "US",
+      "paymentDate": "2026-08-25",
+      "recordDate": "2026-08-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "SLVO",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.067,
       "companyName": "SS SPDR STI ETF",
       "currency": "SGD",
@@ -23608,6 +23683,36 @@
       "recordDate": "2026-08-12",
       "source": "Nasdaq Calendar",
       "symbol": "WNEB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.025,
+      "companyName": "Clarus Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-26",
+      "exDate": "2026-08-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CLAR-2026-08-26",
+      "market": "US",
+      "paymentDate": "2026-08-26",
+      "recordDate": "2026-08-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "CLAR",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.35,
+      "companyName": "The Carlyle Group Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-26",
+      "exDate": "2026-08-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CG-2026-08-26",
+      "market": "US",
+      "paymentDate": "2026-08-26",
+      "recordDate": "2026-08-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "CG",
       "type": "dividend"
     },
     {
@@ -24646,6 +24751,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.37,
+      "companyName": "S&T Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-27",
+      "exDate": "2026-08-18",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STBA-2026-08-27",
+      "market": "US",
+      "paymentDate": "2026-08-27",
+      "recordDate": "2026-08-18",
+      "source": "Nasdaq Calendar",
+      "symbol": "STBA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.81,
       "companyName": "VeriSign, Inc. Common Stock",
       "currency": "USD",
@@ -24901,6 +25021,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.3,
+      "companyName": "LPL Financial Holdings Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LPLA-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "LPLA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.12,
       "companyName": "MGP Ingredients, Inc.",
       "currency": "USD",
@@ -25081,6 +25216,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.72,
+      "companyName": "Aura Minerals Inc. Common Shares",
+      "currency": "USD",
+      "eventDate": "2026-08-28",
+      "exDate": "2026-08-18",
+      "fiscalPeriod": null,
+      "id": "us-dividend-AUGO-2026-08-28",
+      "market": "US",
+      "paymentDate": "2026-08-28",
+      "recordDate": "2026-08-18",
+      "source": "Nasdaq Calendar",
+      "symbol": "AUGO",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.47,
       "companyName": "Karat Packaging Inc. Common Stock",
       "currency": "USD",
@@ -25246,6 +25396,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5,
+      "companyName": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-31",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STRC-2026-08-31",
+      "market": "US",
+      "paymentDate": "2026-08-31",
+      "recordDate": "2026-08-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "STRC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.02533,
       "companyName": "Global Water Resources, Inc. Common Stock",
       "currency": "USD",
@@ -25393,6 +25558,21 @@
       "recordDate": "2026-08-17",
       "source": "Nasdaq Calendar",
       "symbol": "REYN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.33,
+      "companyName": "Runway Growth Finance Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-31",
+      "exDate": "2026-08-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RWAY-2026-08-31",
+      "market": "US",
+      "paymentDate": "2026-08-31",
+      "recordDate": "2026-08-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "RWAY",
       "type": "dividend"
     },
     {
@@ -25891,6 +26071,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.73889,
+      "companyName": "Super Micro Computer, Inc. Depositary Shares representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SMCIP-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "SMCIP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.36,
       "companyName": "Middlesex Water Company Common Stock",
       "currency": "USD",
@@ -25948,6 +26143,21 @@
       "recordDate": "2026-08-18",
       "source": "Nasdaq Calendar",
       "symbol": "FMBH",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.2,
+      "companyName": "Warner Music Group Corp. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WMG-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "WMG",
       "type": "dividend"
     },
     {
@@ -26371,6 +26581,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.04,
+      "companyName": "Allient Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-02",
+      "exDate": "2026-08-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ALNT-2026-09-02",
+      "market": "US",
+      "paymentDate": "2026-09-02",
+      "recordDate": "2026-08-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "ALNT",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.02,
       "companyName": "BGC Group, Inc. Class A Common Stock",
       "currency": "USD",
@@ -26386,6 +26611,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.63,
+      "companyName": "BOK Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-02",
+      "exDate": "2026-08-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BOKF-2026-09-02",
+      "market": "US",
+      "paymentDate": "2026-09-02",
+      "recordDate": "2026-08-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "BOKF",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.7,
       "companyName": "Hasbro, Inc. Common Stock",
       "currency": "USD",
@@ -26398,6 +26638,36 @@
       "recordDate": "2026-08-19",
       "source": "Nasdaq Calendar",
       "symbol": "HAS",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.075,
+      "companyName": "Kelly Services, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-02",
+      "exDate": "2026-08-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KELYA-2026-09-02",
+      "market": "US",
+      "paymentDate": "2026-09-02",
+      "recordDate": "2026-08-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "KELYA",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.075,
+      "companyName": "Kelly Services, Inc. Class B Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-02",
+      "exDate": "2026-08-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KELYB-2026-09-02",
+      "market": "US",
+      "paymentDate": "2026-09-02",
+      "recordDate": "2026-08-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "KELYB",
       "type": "dividend"
     },
     {
@@ -27181,6 +27451,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.085,
+      "companyName": "Cognex Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-03",
+      "exDate": "2026-08-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CGNX-2026-09-03",
+      "market": "US",
+      "paymentDate": "2026-09-03",
+      "recordDate": "2026-08-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "CGNX",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.3,
       "companyName": "Columbia Sportswear Company Common Stock",
       "currency": "USD",
@@ -27253,6 +27538,21 @@
       "recordDate": "2026-08-20",
       "source": "Nasdaq Calendar",
       "symbol": "WWD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.9,
+      "companyName": "Star Bulk Carriers Corp. Common Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-03",
+      "exDate": "2026-08-21",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SBLK-2026-09-03",
+      "market": "US",
+      "paymentDate": "2026-09-03",
+      "recordDate": "2026-08-21",
+      "source": "Nasdaq Calendar",
+      "symbol": "SBLK",
       "type": "dividend"
     },
     {
@@ -27661,19 +27961,19 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
+      "amountPerShare": 0.08,
+      "companyName": "Barrett Business Services, Inc. Common Stock",
+      "currency": "USD",
       "eventDate": "2026-09-04",
-      "exDate": null,
+      "exDate": "2026-08-21",
       "fiscalPeriod": null,
-      "id": "macro-NFP-2026-09-04",
+      "id": "us-dividend-BBSI-2026-09-04",
       "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
+      "paymentDate": "2026-09-04",
+      "recordDate": "2026-08-21",
+      "source": "Nasdaq Calendar",
+      "symbol": "BBSI",
+      "type": "dividend"
     },
     {
       "amountPerShare": 0.33,
@@ -28786,21 +29086,6 @@
       "type": "macro"
     },
     {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-10-02",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-10-02",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
       "amountPerShare": 0.28,
       "companyName": "JARDINE CYCLE & CARRIAGE LTD",
       "currency": "USD",
@@ -28873,21 +29158,6 @@
       "recordDate": null,
       "source": "BEA",
       "symbol": "PCE",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-11-06",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-11-06",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
       "type": "macro"
     },
     {
@@ -28967,21 +29237,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-12-04",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-12-04",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "FOMC Rate Decision",
       "currency": null,
       "eventDate": "2026-12-09",
@@ -29026,5 +29281,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-07T06:58:21.656462+00:00"
+  "updated_at": "2026-08-07T12:37:16.189633+00:00"
 }
