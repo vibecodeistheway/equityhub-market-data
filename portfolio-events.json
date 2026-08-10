@@ -25711,6 +25711,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.127604,
+      "companyName": "Popular, Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BPOPM-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "BPOPM",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.73889,
       "companyName": "Super Micro Computer, Inc. Depositary Shares representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
       "currency": "USD",
@@ -25723,6 +25738,21 @@
       "recordDate": "2026-08-15",
       "source": "Nasdaq Calendar",
       "symbol": "SMCIP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.23,
+      "companyName": "KLA Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KLAC-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "KLAC",
       "type": "dividend"
     },
     {
@@ -25753,6 +25783,21 @@
       "recordDate": "2026-08-17",
       "source": "Nasdaq Calendar",
       "symbol": "NWE",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.1083,
+      "companyName": "Phillips Edison & Company, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PECO-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "PECO",
       "type": "dividend"
     },
     {
@@ -27691,6 +27736,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.1,
+      "companyName": "Advanced Energy Industries, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-04",
+      "exDate": "2026-08-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-AEIS-2026-09-04",
+      "market": "US",
+      "paymentDate": "2026-09-04",
+      "recordDate": "2026-08-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "AEIS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US Jobs Report (Nonfarm Payrolls)",
       "currency": null,
@@ -29521,6 +29581,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.45,
+      "companyName": "MarketWise, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-08-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MKTW-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-08-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "MKTW",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.73,
+      "companyName": "Marriott International Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-08-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MAR-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-08-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "MAR",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US Core PCE Release",
       "currency": null,
@@ -29836,5 +29926,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-10T07:06:31.721506+00:00"
+  "updated_at": "2026-08-10T12:41:13.442073+00:00"
 }
