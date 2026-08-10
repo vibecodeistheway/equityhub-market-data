@@ -7217,21 +7217,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "UOL Group Limited",
-      "currency": "SGD",
-      "eventDate": "2026-08-12",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-U14-2026-08-12",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "U14.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "CHINA SUNSINE CHEM HLDGS LTD",
       "currency": "SGD",
       "eventDate": "2026-08-12",
@@ -7243,6 +7228,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "QES.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "UOL Group Limited",
+      "currency": "SGD",
+      "eventDate": "2026-08-12",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-U14-2026-08-12",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "U14.SI",
       "type": "earnings"
     },
     {
@@ -11327,21 +11327,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Stoneweg Europe Stapled Trust",
-      "currency": "SGD",
-      "eventDate": "2026-08-13",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-SET-2026-08-13",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "SET.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Asian Pay Television Trust",
       "currency": "SGD",
       "eventDate": "2026-08-13",
@@ -11353,6 +11338,36 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "S7OU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Frencken Group Limited",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-E28-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "E28.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Stoneweg Europe Stapled Trust",
+      "currency": "SGD",
+      "eventDate": "2026-08-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-SET-2026-08-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "SET.SI",
       "type": "earnings"
     },
     {
@@ -11488,21 +11503,6 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "9CI.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "Frencken",
-      "currency": "SGD",
-      "eventDate": "2026-08-13",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-E28-2026-08-13",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "InvestingNote",
-      "symbol": "E28.SI",
       "type": "earnings"
     },
     {
@@ -29836,5 +29836,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-10T00:49:43.379860+00:00"
+  "updated_at": "2026-08-10T07:06:31.721506+00:00"
 }
