@@ -9616,6 +9616,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.31,
+      "companyName": "Smartbird, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-20",
+      "exDate": "2026-08-21",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BIRD-2026-08-20",
+      "market": "US",
+      "paymentDate": "2026-08-20",
+      "recordDate": "2026-06-25",
+      "source": "Nasdaq Calendar",
+      "symbol": "BIRD",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "ALLARITY THERAPEUTICS INCORPORATED",
       "currency": "USD",
@@ -13771,6 +13786,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.03,
+      "companyName": "Mount Logan Capital Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-31",
+      "exDate": "2026-08-21",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MLCI-2026-08-31",
+      "market": "US",
+      "paymentDate": "2026-08-31",
+      "recordDate": "2026-08-21",
+      "source": "Nasdaq Calendar",
+      "symbol": "MLCI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.05,
       "companyName": "WILMAR INTERNATIONAL LIMITED",
       "currency": "SGD",
@@ -16231,6 +16261,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.27,
+      "companyName": "WaFd, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-04",
+      "exDate": "2026-08-21",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WAFD-2026-09-04",
+      "market": "US",
+      "paymentDate": "2026-09-04",
+      "recordDate": "2026-08-21",
+      "source": "Nasdaq Calendar",
+      "symbol": "WAFD",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.1,
       "companyName": "Advanced Energy Industries, Inc. Common Stock",
       "currency": "USD",
@@ -16244,21 +16289,6 @@
       "source": "Nasdaq Calendar",
       "symbol": "AEIS",
       "type": "dividend"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-09-04",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-09-04",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
     },
     {
       "amountPerShare": 0.33,
@@ -17233,6 +17263,21 @@
       "recordDate": "2026-08-24",
       "source": "Nasdaq Calendar",
       "symbol": "MCHP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.17,
+      "companyName": "Vinci Compass Investments Ltd. Class A Common Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-09",
+      "exDate": "2026-08-25",
+      "fiscalPeriod": null,
+      "id": "us-dividend-VINP-2026-09-09",
+      "market": "US",
+      "paymentDate": "2026-09-09",
+      "recordDate": "2026-08-25",
+      "source": "Nasdaq Calendar",
+      "symbol": "VINP",
       "type": "dividend"
     },
     {
@@ -18841,21 +18886,6 @@
       "type": "macro"
     },
     {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-10-02",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-10-02",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
       "amountPerShare": 0.28,
       "companyName": "JARDINE CYCLE & CARRIAGE LTD",
       "currency": "USD",
@@ -19021,21 +19051,6 @@
       "type": "macro"
     },
     {
-      "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-11-06",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-11-06",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
       "amountPerShare": 0.125,
       "companyName": "SINGAPORE EXCHANGE LIMITED",
       "currency": "SGD",
@@ -19112,21 +19127,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "US Jobs Report (Nonfarm Payrolls)",
-      "currency": null,
-      "eventDate": "2026-12-04",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "macro-NFP-2026-12-04",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "BLS",
-      "symbol": "NFP",
-      "type": "macro"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "FOMC Rate Decision",
       "currency": null,
       "eventDate": "2026-12-09",
@@ -19171,5 +19171,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-13T07:08:17.462421+00:00"
+  "updated_at": "2026-08-13T12:41:10.555732+00:00"
 }
