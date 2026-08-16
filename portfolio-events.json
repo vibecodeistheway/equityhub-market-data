@@ -11281,6 +11281,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": null,
+      "companyName": "EVOLUTION PETROLEUM CORPORATION INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-EPM-2026-09-15",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "EPM",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "ESPEY MFG. & ELECTRONICS CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-ESP-2026-09-15",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "ESP",
+      "type": "earnings"
+    },
+    {
       "amountPerShare": 0.09,
       "companyName": "Horizon Technology Finance Corporation Common Stock",
       "currency": "USD",
@@ -12646,5 +12676,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-15T18:11:30.100997+00:00"
+  "updated_at": "2026-08-16T00:34:14.593851+00:00"
 }
