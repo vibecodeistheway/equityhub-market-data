@@ -5507,6 +5507,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Prudential USD",
+      "currency": "SGD",
+      "eventDate": "2026-08-27",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-K6S-2026-08-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "K6S.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "AUTODESK INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-08-27",
@@ -9286,6 +9301,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.08,
+      "companyName": "Bio-Techne Corp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-04",
+      "exDate": "2026-08-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TECH-2026-09-04",
+      "market": "US",
+      "paymentDate": "2026-09-04",
+      "recordDate": "2026-08-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "TECH",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US Jobs Report (Nonfarm Payrolls)",
       "currency": null,
@@ -11776,6 +11806,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.083,
+      "companyName": "Pegasystems Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-16",
+      "exDate": "2026-08-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PEGA-2026-09-16",
+      "market": "US",
+      "paymentDate": "2026-09-16",
+      "recordDate": "2026-08-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "PEGA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 5.16,
       "companyName": "Equinix, Inc. Common Stock REIT",
       "currency": "USD",
@@ -13081,5 +13126,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-17T06:29:29.136468+00:00"
+  "updated_at": "2026-08-17T12:18:37.086709+00:00"
 }
