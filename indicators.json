@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T12:19:35+00:00",
+  "updated_at": "2026-08-19T18:15:48+00:00",
   "shiller_pe": 42.06,
   "us_gdp_trillions": 31.87,
   "inflation_yoy": 3.36,
@@ -2810,8 +2810,8 @@
     }
   ],
   "fear_greed": {
-    "score": 53.5714285714286,
-    "rating": "neutral",
+    "score": 57.6571428571429,
+    "rating": "greed",
     "previous_close": 54.4,
     "previous_1_week": 62.9428571428571,
     "previous_1_month": 37.2285714285714,
