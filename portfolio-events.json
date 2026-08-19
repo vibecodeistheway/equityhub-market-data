@@ -2476,7 +2476,7 @@
       "type": "earnings"
     },
     {
-      "amountPerShare": 2.7001,
+      "amountPerShare": 2.6999,
       "companyName": "Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN",
       "currency": "USD",
       "eventDate": "2026-08-25",
@@ -2491,7 +2491,7 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 1.8496,
+      "amountPerShare": 1.8495,
       "companyName": "Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",
       "currency": "USD",
       "eventDate": "2026-08-25",
@@ -4456,6 +4456,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.15,
+      "companyName": "ArrowMark Financial Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-08-31",
+      "exDate": "2026-08-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BANX-2026-08-31",
+      "market": "US",
+      "paymentDate": "2026-08-31",
+      "recordDate": "2026-08-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "BANX",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.048166,
+      "companyName": "Grupo Financiero Galicia S.A. American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-08-31",
+      "exDate": "2026-08-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GGAL-2026-08-31",
+      "market": "US",
+      "paymentDate": "2026-08-31",
+      "recordDate": "2026-08-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "GGAL",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0516,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -6256,6 +6286,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.24,
+      "companyName": "Jefferson Capital, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-03",
+      "exDate": "2026-08-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-JCAP-2026-09-03",
+      "market": "US",
+      "paymentDate": "2026-09-03",
+      "recordDate": "2026-08-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "JCAP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.25,
       "companyName": "MKS Inc. Common Stock",
       "currency": "USD",
@@ -7321,6 +7366,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.38,
+      "companyName": "Cathay General Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-08",
+      "exDate": "2026-08-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CATY-2026-09-08",
+      "market": "US",
+      "paymentDate": "2026-09-08",
+      "recordDate": "2026-08-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "CATY",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.08,
       "companyName": "FIRST RESOURCES LIMITED",
       "currency": "SGD",
@@ -8356,6 +8416,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.17,
+      "companyName": "First National Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-11",
+      "exDate": "2026-08-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FXNC-2026-09-11",
+      "market": "US",
+      "paymentDate": "2026-09-11",
+      "recordDate": "2026-08-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "FXNC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
@@ -8566,6 +8641,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.05,
+      "companyName": "Adeia Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-14",
+      "exDate": "2026-08-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ADEA-2026-09-14",
+      "market": "US",
+      "paymentDate": "2026-09-14",
+      "recordDate": "2026-08-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "ADEA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.57,
       "companyName": "CRA International, Inc. Common Stock",
       "currency": "USD",
@@ -8578,6 +8668,21 @@
       "recordDate": "2026-08-25",
       "source": "Nasdaq Calendar",
       "symbol": "CRAI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.37,
+      "companyName": "Columbia Banking System, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-14",
+      "exDate": "2026-08-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-COLB-2026-09-14",
+      "market": "US",
+      "paymentDate": "2026-09-14",
+      "recordDate": "2026-08-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "COLB",
       "type": "dividend"
     },
     {
@@ -9001,6 +9106,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5,
+      "companyName": "FG Nexus Inc. 8.00% Cumulative Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FGNXP-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "FGNXP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.26,
       "companyName": "First Financial Bancorp. Common Stock",
       "currency": "USD",
@@ -9058,6 +9178,21 @@
       "recordDate": "2026-09-01",
       "source": "Nasdaq Calendar",
       "symbol": "GCMG",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.06,
+      "companyName": "HireQuest, Inc. Common Stock (DE)",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HQI-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "HQI",
       "type": "dividend"
     },
     {
@@ -9193,6 +9328,21 @@
       "recordDate": "2026-09-01",
       "source": "Nasdaq Calendar",
       "symbol": "PTEN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.17,
+      "companyName": "Rocky Brands, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RCKY-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "RCKY",
       "type": "dividend"
     },
     {
@@ -9853,6 +10003,21 @@
       "recordDate": "2026-08-27",
       "source": "Nasdaq Calendar",
       "symbol": "EXPE",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.17,
+      "companyName": "Kamada Ltd. Ordinary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-17",
+      "exDate": "2026-08-27",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KMDA-2026-09-17",
+      "market": "US",
+      "paymentDate": "2026-09-17",
+      "recordDate": "2026-08-27",
+      "source": "Nasdaq Calendar",
+      "symbol": "KMDA",
       "type": "dividend"
     },
     {
@@ -11176,5 +11341,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-19T06:23:08.218745+00:00"
+  "updated_at": "2026-08-19T12:20:27.211635+00:00"
 }
