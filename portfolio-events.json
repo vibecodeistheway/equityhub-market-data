@@ -8506,6 +8506,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.3,
+      "companyName": "SS&C Technologies Holdings, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SSNC-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "SSNC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.2,
       "companyName": "Texas Capital Bancshares, Inc. Common Stock",
       "currency": "USD",
@@ -10486,5 +10501,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-20T06:23:34.402166+00:00"
+  "updated_at": "2026-08-20T12:21:57.812903+00:00"
 }
