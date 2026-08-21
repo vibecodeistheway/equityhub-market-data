@@ -2851,6 +2851,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.225,
+      "companyName": "First Trust Senior Loan Fund",
+      "currency": "USD",
+      "eventDate": "2026-08-31",
+      "exDate": "2026-08-21",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FTSL-2026-08-31",
+      "market": "US",
+      "paymentDate": "2026-08-31",
+      "recordDate": "2026-08-21",
+      "source": "Nasdaq Calendar",
+      "symbol": "FTSL",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.03,
       "companyName": "Mount Logan Capital Inc. Common Stock",
       "currency": "USD",
@@ -3148,6 +3163,21 @@
       "recordDate": "2026-08-21",
       "source": "Nasdaq Calendar",
       "symbol": "CBC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0516,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
       "type": "dividend"
     },
     {
@@ -3553,6 +3583,21 @@
       "recordDate": "2026-08-24",
       "source": "Nasdaq Calendar",
       "symbol": "GLNG",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0516,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-02",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-09-02",
+      "market": "US",
+      "paymentDate": "2026-09-02",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
       "type": "dividend"
     },
     {
@@ -4471,6 +4516,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.0516,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-03",
+      "exDate": "2026-09-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-09-03",
+      "market": "US",
+      "paymentDate": "2026-09-03",
+      "recordDate": "2026-09-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "ABM INDUSTRIES INCORPORATED",
       "currency": "USD",
@@ -4813,6 +4873,21 @@
       "recordDate": "2026-08-24",
       "source": "Nasdaq Calendar",
       "symbol": "TECH",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0516,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-04",
+      "exDate": "2026-09-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-09-04",
+      "market": "US",
+      "paymentDate": "2026-09-04",
+      "recordDate": "2026-09-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
       "type": "dividend"
     },
     {
@@ -5518,6 +5593,21 @@
       "recordDate": "2026-08-28",
       "source": "Nasdaq Calendar",
       "symbol": "CATY",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0516,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-08",
+      "exDate": "2026-09-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-09-08",
+      "market": "US",
+      "paymentDate": "2026-09-08",
+      "recordDate": "2026-09-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
       "type": "dividend"
     },
     {
@@ -8251,6 +8341,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.1,
+      "companyName": "CBL International Limited Class B Ordinary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-18",
+      "exDate": "2026-08-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BANL-2026-09-18",
+      "market": "US",
+      "paymentDate": "2026-09-18",
+      "recordDate": "2026-08-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "BANL",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.085,
       "companyName": "CuriosityStream Inc. Class A Common Stock",
       "currency": "USD",
@@ -9301,6 +9406,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.38,
+      "companyName": "WesBanco, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-01",
+      "exDate": "2026-09-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WSBC-2026-10-01",
+      "market": "US",
+      "paymentDate": "2026-10-01",
+      "recordDate": "2026-09-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "WSBC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.4609,
+      "companyName": "WesBanco, Inc. Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+      "currency": "USD",
+      "eventDate": "2026-10-01",
+      "exDate": "2026-09-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WSBCO-2026-10-01",
+      "market": "US",
+      "paymentDate": "2026-10-01",
+      "recordDate": "2026-09-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "WSBCO",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.63,
       "companyName": "C.H. Robinson Worldwide, Inc. Common Stock",
       "currency": "USD",
@@ -9479,6 +9614,21 @@
       "source": "BLS",
       "symbol": "CPI",
       "type": "macro"
+    },
+    {
+      "amountPerShare": 0.24,
+      "companyName": "Universal Electronics Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-15",
+      "exDate": "2026-08-24",
+      "fiscalPeriod": null,
+      "id": "us-dividend-UEIC-2026-10-15",
+      "market": "US",
+      "paymentDate": "2026-10-15",
+      "recordDate": "2026-08-24",
+      "source": "Nasdaq Calendar",
+      "symbol": "UEIC",
+      "type": "dividend"
     },
     {
       "amountPerShare": 0.1875,
@@ -9781,5 +9931,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-21T06:24:31.723566+00:00"
+  "updated_at": "2026-08-21T12:22:06.236954+00:00"
 }
