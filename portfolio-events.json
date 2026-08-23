@@ -3662,7 +3662,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "REZOLVE AI LTD",
+      "companyName": "REZOLVE AI PUBLIC LIMITED COMPANY",
       "currency": "USD",
       "eventDate": "2026-09-01",
       "exDate": null,
@@ -10561,5 +10561,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-23T06:20:44.230817+00:00"
+  "updated_at": "2026-08-23T12:16:02.283165+00:00"
 }
