@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-23T00:34:12+00:00",
+  "updated_at": "2026-08-23T06:19:47+00:00",
   "shiller_pe": 41.96,
   "us_gdp_trillions": 31.87,
-  "inflation_yoy": 3.53,
+  "inflation_yoy": 3.36,
   "shiller_pe_history": [
     {
       "d": "2001-09-01",
@@ -4705,7 +4705,6 @@
     }
   ],
   "errors": [
-    "inflation_yoy (BLS): BLS API status: REQUEST_NOT_PROCESSED",
     "truflation: 'NoneType' object is not subscriptable"
   ]
 }
