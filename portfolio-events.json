@@ -3721,6 +3721,51 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.25,
+      "companyName": "Mechanics Bancorp Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MCHB-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-29",
+      "source": "Nasdaq Calendar",
+      "symbol": "MCHB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.5,
+      "companyName": "NewtekOne, Inc. 8.00% Fixed Rate Senior Notes due 2028",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-NEWTI-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "NEWTI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.53125,
+      "companyName": "NewtekOne, Inc. 8.50% Fixed Rate Senior Notes due 2029",
+      "currency": "USD",
+      "eventDate": "2026-09-01",
+      "exDate": "2026-08-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-NEWTG-2026-09-01",
+      "market": "US",
+      "paymentDate": "2026-09-01",
+      "recordDate": "2026-08-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "NEWTG",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0516,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -5956,6 +6001,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.05,
+      "companyName": "LSI Industries Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-08",
+      "exDate": "2026-08-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LYTS-2026-09-08",
+      "market": "US",
+      "paymentDate": "2026-09-08",
+      "recordDate": "2026-08-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "LYTS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0516,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -7636,6 +7696,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 1.1,
+      "companyName": "Analog Devices, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ADI-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "ADI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.476563,
       "companyName": "Atlanticus Holdings Corporation 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",
       "currency": "USD",
@@ -7771,6 +7846,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.22,
+      "companyName": "LCNB Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LCNB-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "LCNB",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.5625,
       "companyName": "Liberty Latin America Ltd. 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
       "currency": "USD",
@@ -7783,6 +7873,21 @@
       "recordDate": "2026-09-01",
       "source": "Nasdaq Calendar",
       "symbol": "LILAP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.05,
+      "companyName": "Lifevantage Corporation Common Stock (Delaware)",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LFVN-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "LFVN",
       "type": "dividend"
     },
     {
@@ -7828,6 +7933,21 @@
       "recordDate": "2026-09-01",
       "source": "Nasdaq Calendar",
       "symbol": "MCRI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.17,
+      "companyName": "MVB Financial Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MVBF-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "MVBF",
       "type": "dividend"
     },
     {
@@ -8386,6 +8506,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.14,
+      "companyName": "Shore Bancshares Inc Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-16",
+      "exDate": "2026-09-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SHBI-2026-09-16",
+      "market": "US",
+      "paymentDate": "2026-09-16",
+      "recordDate": "2026-09-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "SHBI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.07,
       "companyName": "WillScot Holdings Corporation Class A Common Stock",
       "currency": "USD",
@@ -8641,6 +8776,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.15,
+      "companyName": "Richmond Mutual Bancorporation, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-17",
+      "exDate": "2026-09-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RMBI-2026-09-17",
+      "market": "US",
+      "paymentDate": "2026-09-17",
+      "recordDate": "2026-09-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "RMBI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.17,
+      "companyName": "Unity Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-17",
+      "exDate": "2026-09-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-UNTY-2026-09-17",
+      "market": "US",
+      "paymentDate": "2026-09-17",
+      "recordDate": "2026-09-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "UNTY",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "MONEYHERO LIMITED",
       "currency": "USD",
@@ -8686,6 +8851,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.48,
+      "companyName": "NetEase, Inc. American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-18",
+      "exDate": "2026-09-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-NTES-2026-09-18",
+      "market": "US",
+      "paymentDate": "2026-09-18",
+      "recordDate": "2026-09-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "NTES",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.085,
       "companyName": "CuriosityStream Inc. Class A Common Stock",
       "currency": "USD",
@@ -8728,6 +8908,21 @@
       "recordDate": "2026-09-04",
       "source": "Nasdaq Calendar",
       "symbol": "FRME",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.03,
+      "companyName": "Interface, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-18",
+      "exDate": "2026-09-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TILE-2026-09-18",
+      "market": "US",
+      "paymentDate": "2026-09-18",
+      "recordDate": "2026-09-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "TILE",
       "type": "dividend"
     },
     {
@@ -9781,6 +9976,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.095378,
+      "companyName": "Marine Petroleum Trust Units of Beneficial Interest",
+      "currency": "USD",
+      "eventDate": "2026-09-28",
+      "exDate": "2026-08-31",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MARPS-2026-09-28",
+      "market": "US",
+      "paymentDate": "2026-09-28",
+      "recordDate": "2026-08-31",
+      "source": "Nasdaq Calendar",
+      "symbol": "MARPS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.01,
       "companyName": "OUE LIMITED",
       "currency": "SGD",
@@ -10666,5 +10876,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-24T06:33:24.332697+00:00"
+  "updated_at": "2026-08-24T12:22:13.805965+00:00"
 }
