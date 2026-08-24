@@ -9301,6 +9301,111 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": null,
+      "companyName": "CINTAS CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-09-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-CTAS-2026-09-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "CTAS",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "H. B. FULLER COMPANY",
+      "currency": "USD",
+      "eventDate": "2026-09-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-FUL-2026-09-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "FUL",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "KB HOME",
+      "currency": "USD",
+      "eventDate": "2026-09-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-KBH-2026-09-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "KBH",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "STITCH FIX INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-09-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-SFIX-2026-09-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "SFIX",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "THOR INDUSTRIES INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-09-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-THO-2026-09-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "THO",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "URANIUM ENERGY CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-09-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-UEC-2026-09-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "UEC",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "WORTHINGTON STEEL INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-09-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-WS-2026-09-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "WS",
+      "type": "earnings"
+    },
+    {
       "amountPerShare": 0.29,
       "companyName": "Fox Corporation Class A Common Stock",
       "currency": "USD",
@@ -10561,5 +10666,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-23T18:12:52.789433+00:00"
+  "updated_at": "2026-08-24T00:34:14.084938+00:00"
 }
