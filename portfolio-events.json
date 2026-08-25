@@ -6481,6 +6481,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.25,
+      "companyName": "Star Equity Holdings, Inc. 10% Series A Cumulative Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-10",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STRRP-2026-09-10",
+      "market": "US",
+      "paymentDate": "2026-09-10",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "STRRP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "INNSUITES HOSPITALITY TRUST",
       "currency": "USD",
@@ -7381,6 +7396,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5083,
+      "companyName": "MGE Energy, Inc",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MGEE-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "MGEE",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.9375,
       "companyName": "Microchip Technology Incorporated Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock",
       "currency": "USD",
@@ -7681,6 +7711,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.21,
+      "companyName": "Peoples Bancorp of North Carolina, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PEBK-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "PEBK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.42,
       "companyName": "Exelon Corporation Common Stock",
       "currency": "USD",
@@ -7723,6 +7768,21 @@
       "recordDate": "2026-09-05",
       "source": "Nasdaq Calendar",
       "symbol": "ONB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.18,
+      "companyName": "Orange County Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OBT-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "OBT",
       "type": "dividend"
     },
     {
@@ -8461,6 +8521,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.2,
+      "companyName": "United Fire Group, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-18",
+      "exDate": "2026-09-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-UFCS-2026-09-18",
+      "market": "US",
+      "paymentDate": "2026-09-18",
+      "recordDate": "2026-09-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "UFCS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 39.6,
       "companyName": "BANK CENTRAL ASIA ID SDR 1TO2",
       "currency": "IDR",
@@ -8911,6 +8986,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.08352,
+      "companyName": "Amkor Technology, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-22",
+      "exDate": "2026-09-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-AMKR-2026-09-22",
+      "market": "US",
+      "paymentDate": "2026-09-22",
+      "recordDate": "2026-09-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "AMKR",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.275,
       "companyName": "Commerce Bancshares, Inc. Common Stock",
       "currency": "USD",
@@ -9133,6 +9223,21 @@
       "recordDate": "2026-09-02",
       "source": "Nasdaq Calendar",
       "symbol": "PAHC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.61,
+      "companyName": "Jack Henry & Associates, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-23",
+      "exDate": "2026-09-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-JKHY-2026-09-23",
+      "market": "US",
+      "paymentDate": "2026-09-23",
+      "recordDate": "2026-09-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "JKHY",
       "type": "dividend"
     },
     {
@@ -10636,5 +10741,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-08-25T06:24:00.765639+00:00"
+  "updated_at": "2026-08-25T12:22:49.331273+00:00"
 }
