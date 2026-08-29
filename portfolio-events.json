@@ -1,6 +1,21 @@
 {
   "events": [
     {
+      "amountPerShare": 2.1490002,
+      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-08-29",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KSPI-2026-08-29",
+      "market": "US",
+      "paymentDate": "2026-08-29",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "KSPI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.06,
       "companyName": "OLAM GROUP LIMITED",
       "currency": "SGD",
@@ -9196,5 +9211,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-08-29T11:53:12.484697+00:00"
+  "updated_at": "2026-08-29T15:51:48.840793+00:00"
 }
