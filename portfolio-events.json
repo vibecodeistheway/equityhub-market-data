@@ -1,21 +1,6 @@
 {
   "events": [
     {
-      "amountPerShare": 2.1490002,
-      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
-      "currency": "USD",
-      "eventDate": "2026-08-29",
-      "exDate": "2026-09-10",
-      "fiscalPeriod": null,
-      "id": "us-dividend-KSPI-2026-08-29",
-      "market": "US",
-      "paymentDate": "2026-08-29",
-      "recordDate": "2026-09-10",
-      "source": "Nasdaq Calendar",
-      "symbol": "KSPI",
-      "type": "dividend"
-    },
-    {
       "amountPerShare": 0.06,
       "companyName": "OLAM GROUP LIMITED",
       "currency": "SGD",
@@ -8056,6 +8041,96 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": null,
+      "companyName": "THE INTERGROUP CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-09-29",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-INTG-2026-09-29",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "INTG",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "IPERIONX LIMITED",
+      "currency": "USD",
+      "eventDate": "2026-09-29",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-IPX-2026-09-29",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "IPX",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "LAMB WESTON HOLDINGS INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-09-29",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-LW-2026-09-29",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "LW",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "NIKE INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-09-29",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-NKE-2026-09-29",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "NKE",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "PAYCHEX INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-09-29",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-PAYX-2026-09-29",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "PAYX",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "TRILOGY METALS INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-09-29",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-TMQ-2026-09-29",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "TMQ",
+      "type": "earnings"
+    },
+    {
       "amountPerShare": 0.359375,
       "companyName": "Brookfield Property Partners L.P. 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3",
       "currency": "USD",
@@ -9211,5 +9286,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-08-29T20:05:30.089369+00:00"
+  "updated_at": "2026-08-30T02:03:59.238854+00:00"
 }
