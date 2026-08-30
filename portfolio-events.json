@@ -91,6 +91,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 2.1490002,
+      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-08-30",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KSPI-2026-08-30",
+      "market": "US",
+      "paymentDate": "2026-08-30",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "KSPI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.012,
       "companyName": "CHOO CHIANG HOLDINGS LTD.",
       "currency": "SGD",
@@ -9286,5 +9301,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-08-30T02:03:59.238854+00:00"
+  "updated_at": "2026-08-30T10:50:32.429629+00:00"
 }
