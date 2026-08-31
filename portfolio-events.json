@@ -1,111 +1,6 @@
 {
   "events": [
     {
-      "amountPerShare": 0.06,
-      "companyName": "OLAM GROUP LIMITED",
-      "currency": "SGD",
-      "eventDate": "2026-08-30",
-      "exDate": "2026-08-20",
-      "fiscalPeriod": null,
-      "id": "sgx-2209879",
-      "market": "SG",
-      "paymentDate": "2026-08-30",
-      "recordDate": "2026-08-23",
-      "source": "SGX Corporate Actions",
-      "symbol": "VC2.SI",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.01,
-      "companyName": "OLAM GROUP LIMITED",
-      "currency": "SGD",
-      "eventDate": "2026-08-30",
-      "exDate": "2026-08-20",
-      "fiscalPeriod": null,
-      "id": "sgx-2209878",
-      "market": "SG",
-      "paymentDate": "2026-08-30",
-      "recordDate": "2026-08-23",
-      "source": "SGX Corporate Actions",
-      "symbol": "VC2.SI",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.0391,
-      "companyName": "COMFORTDELGRO CORPORATION LTD",
-      "currency": "SGD",
-      "eventDate": "2026-08-30",
-      "exDate": "2026-08-20",
-      "fiscalPeriod": null,
-      "id": "sgx-2209839",
-      "market": "SG",
-      "paymentDate": "2026-08-30",
-      "recordDate": "2026-08-23",
-      "source": "SGX Corporate Actions",
-      "symbol": "C52.SI",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.002,
-      "companyName": "YKGI LIMITED",
-      "currency": "SGD",
-      "eventDate": "2026-08-30",
-      "exDate": "2026-08-18",
-      "fiscalPeriod": null,
-      "id": "sgx-2209966",
-      "market": "SG",
-      "paymentDate": "2026-08-30",
-      "recordDate": "2026-08-19",
-      "source": "SGX Corporate Actions",
-      "symbol": "YK9.SI",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.0907,
-      "companyName": "UNITED OVERSEAS INSURANCE LTD",
-      "currency": "SGD",
-      "eventDate": "2026-08-30",
-      "exDate": "2026-08-17",
-      "fiscalPeriod": null,
-      "id": "sgx-2211110",
-      "market": "SG",
-      "paymentDate": "2026-08-30",
-      "recordDate": "2026-08-18",
-      "source": "SGX Corporate Actions",
-      "symbol": "1M91.SI",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.001,
-      "companyName": "THE ASSEMBLY PLACE",
-      "currency": "SGD",
-      "eventDate": "2026-08-30",
-      "exDate": "2026-08-16",
-      "fiscalPeriod": null,
-      "id": "sgx-2210144",
-      "market": "SG",
-      "paymentDate": "2026-08-30",
-      "recordDate": "2026-08-17",
-      "source": "SGX Corporate Actions",
-      "symbol": "41RX.SI",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 2.1490002,
-      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
-      "currency": "USD",
-      "eventDate": "2026-08-30",
-      "exDate": "2026-09-10",
-      "fiscalPeriod": null,
-      "id": "us-dividend-KSPI-2026-08-30",
-      "market": "US",
-      "paymentDate": "2026-08-30",
-      "recordDate": "2026-09-10",
-      "source": "Nasdaq Calendar",
-      "symbol": "KSPI",
-      "type": "dividend"
-    },
-    {
       "amountPerShare": 0.012,
       "companyName": "CHOO CHIANG HOLDINGS LTD.",
       "currency": "SGD",
@@ -5506,6 +5401,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.0516,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-15",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-09-15",
+      "market": "US",
+      "paymentDate": "2026-09-15",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.8019,
       "companyName": "CP FOODS TH SDR 1TO2",
       "currency": "THB",
@@ -7846,6 +7756,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.0075,
+      "companyName": "U.S. Global Investors, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-28",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GROW-2026-09-28",
+      "market": "US",
+      "paymentDate": "2026-09-28",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "GROW",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.041,
       "companyName": "HELENS INTL HOLDINGS CO LTD",
       "currency": "CNY",
@@ -8221,6 +8146,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.33,
+      "companyName": "Golub Capital BDC, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-29",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GBDC-2026-09-29",
+      "market": "US",
+      "paymentDate": "2026-09-29",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "GBDC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 1.782,
       "companyName": "KASIKORN BANK TH SDR 1TO1",
       "currency": "THB",
@@ -8234,6 +8174,21 @@
       "source": "SGX Corporate Actions",
       "symbol": "6JBL.SI",
       "type": "dividend"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "MICRON TECHNOLOGY INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-MU-2026-09-30",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "MU",
+      "type": "earnings"
     },
     {
       "amountPerShare": 0.215,
@@ -8548,6 +8503,21 @@
       "recordDate": "2026-09-11",
       "source": "Nasdaq Calendar",
       "symbol": "UBSI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.22,
+      "companyName": "First Financial Bankshares, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-01",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FFIN-2026-10-01",
+      "market": "US",
+      "paymentDate": "2026-10-01",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "FFIN",
       "type": "dividend"
     },
     {
@@ -9212,6 +9182,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "HG Metal",
+      "currency": "SGD",
+      "eventDate": "2026-11-29",
+      "exDate": null,
+      "fiscalPeriod": "FY",
+      "id": "sg-earnings-BTG-2026-11-29",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "BTG.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "US Jobs Report (Nonfarm Payrolls)",
       "currency": null,
       "eventDate": "2026-12-04",
@@ -9301,5 +9286,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-08-30T20:11:30.039315+00:00"
+  "updated_at": "2026-08-31T02:00:03.637135+00:00"
 }
