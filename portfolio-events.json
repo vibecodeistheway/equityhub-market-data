@@ -661,6 +661,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 2.1490002,
+      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-02",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KSPI-2026-09-02",
+      "market": "US",
+      "paymentDate": "2026-09-02",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "KSPI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0009,
       "companyName": "SERIAL SYSTEM LTD",
       "currency": "SGD",
@@ -4096,6 +4111,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.18,
+      "companyName": "Gladstone Capital Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-16",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GLAD-2026-09-16",
+      "market": "US",
+      "paymentDate": "2026-09-16",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "GLAD",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0516,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -7096,6 +7126,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.08,
+      "companyName": "RCI Hospitality Holdings, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RICK-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "RICK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.26,
       "companyName": "Red Rock Resorts, Inc. Class A Common Stock",
       "currency": "USD",
@@ -7123,6 +7168,66 @@
       "recordDate": "2026-09-15",
       "source": "Nasdaq Calendar",
       "symbol": "SBCF",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 2.5,
+      "companyName": "Strategy Inc 10.00% Series A Perpetual Stride Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STRD-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "STRD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 2.5,
+      "companyName": "Strategy Inc 10.00% Series A Perpetual Strife Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STRF-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "STRF",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 2.0,
+      "companyName": "Strategy Inc 8.00% Series A Perpetual Strike Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STRK-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "STRK",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.5,
+      "companyName": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STRC-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "STRC",
       "type": "dividend"
     },
     {
@@ -8791,5 +8896,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-02T10:05:21.031949+00:00"
+  "updated_at": "2026-09-02T15:28:45.332752+00:00"
 }
