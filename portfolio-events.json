@@ -6586,6 +6586,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.0725,
+      "companyName": "Global Self Storage, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-16",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SELF-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-16",
+      "source": "Nasdaq Calendar",
+      "symbol": "SELF",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.17,
       "companyName": "Herzfeld Credit Income Fund, Inc. Common Stock",
       "currency": "USD",
@@ -8161,5 +8176,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-03T01:48:40.286876+00:00"
+  "updated_at": "2026-09-03T10:15:38.936470+00:00"
 }
