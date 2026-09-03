@@ -946,6 +946,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 2.1490002,
+      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-03",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KSPI-2026-09-03",
+      "market": "US",
+      "paymentDate": "2026-09-03",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "KSPI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "BIOMERICA INC",
       "currency": "USD",
@@ -1634,6 +1649,21 @@
       "source": "SGX Corporate Actions",
       "symbol": "F03.SI",
       "type": "dividend"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Del Monte Pac",
+      "currency": "SGD",
+      "eventDate": "2026-09-09",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-D03-2026-09-09",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "D03.SI",
+      "type": "earnings"
     },
     {
       "amountPerShare": null,
@@ -4141,6 +4171,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.10417,
+      "companyName": "Thornburg Income Builder Opportunities Trust Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-21",
+      "exDate": "2026-09-11",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TBLD-2026-09-21",
+      "market": "US",
+      "paymentDate": "2026-09-21",
+      "recordDate": "2026-09-11",
+      "source": "Nasdaq Calendar",
+      "symbol": "TBLD",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "AAR CORPORATION",
       "currency": "USD",
@@ -5188,6 +5233,21 @@
       "recordDate": "2026-09-11",
       "source": "Nasdaq Calendar",
       "symbol": "FCAP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.82,
+      "companyName": "Gaming and Leisure Properties, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-25",
+      "exDate": "2026-09-11",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GLPI-2026-09-25",
+      "market": "US",
+      "paymentDate": "2026-09-25",
+      "recordDate": "2026-09-11",
+      "source": "Nasdaq Calendar",
+      "symbol": "GLPI",
       "type": "dividend"
     },
     {
@@ -7186,6 +7246,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.738,
+      "companyName": "Nuveen NASDAQ 100 Dynamic Overwrite Fund Shares of Beneficial Interest",
+      "currency": "USD",
+      "eventDate": "2026-10-01",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-QQQX-2026-10-01",
+      "market": "US",
+      "paymentDate": "2026-10-01",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "QQQX",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.05,
       "companyName": "Paramount Skydance Corporation Class B Common Stock",
       "currency": "USD",
@@ -7198,6 +7273,21 @@
       "recordDate": "2026-09-15",
       "source": "Nasdaq Calendar",
       "symbol": "PSKY",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.115,
+      "companyName": "Phillips Edison & Company, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-01",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PECO-2026-10-01",
+      "market": "US",
+      "paymentDate": "2026-10-01",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "PECO",
       "type": "dividend"
     },
     {
@@ -8176,5 +8266,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-03T10:15:38.936470+00:00"
+  "updated_at": "2026-09-03T15:23:01.527291+00:00"
 }
