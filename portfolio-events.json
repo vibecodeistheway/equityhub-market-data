@@ -2,7 +2,7 @@
   "events": [
     {
       "amountPerShare": null,
-      "companyName": "BIOMERICA INC",
+      "companyName": "BIOMERICA INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-09-04",
       "exDate": null,
@@ -194,6 +194,21 @@
       "source": "Alpha Vantage",
       "symbol": "VIRC",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 2.1490002,
+      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-04",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KSPI-2026-09-04",
+      "market": "US",
+      "paymentDate": "2026-09-04",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "KSPI",
+      "type": "dividend"
     },
     {
       "amountPerShare": null,
@@ -3046,6 +3061,111 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.1,
+      "companyName": "Calamos Convertible and High Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-21",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHY-2026-09-21",
+      "market": "US",
+      "paymentDate": "2026-09-21",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHY",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.095,
+      "companyName": "Calamos Convertible Opportunities and Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-21",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHI-2026-09-21",
+      "market": "US",
+      "paymentDate": "2026-09-21",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.195,
+      "companyName": "Calamos Dynamic Convertible & Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-21",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CCD-2026-09-21",
+      "market": "US",
+      "paymentDate": "2026-09-21",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CCD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.06,
+      "companyName": "Calamos Global Dynamic Income Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-21",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHW-2026-09-21",
+      "market": "US",
+      "paymentDate": "2026-09-21",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHW",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.09,
+      "companyName": "Calamos Global Total Return Fund Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-21",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CGO-2026-09-21",
+      "market": "US",
+      "paymentDate": "2026-09-21",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CGO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.14,
+      "companyName": "Calamos Long/Short Equity & Dynamic Income Trust Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-21",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CPZ-2026-09-21",
+      "market": "US",
+      "paymentDate": "2026-09-21",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CPZ",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.135,
+      "companyName": "Calamos Strategic Total Return Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-21",
+      "exDate": "2026-09-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CSQ-2026-09-21",
+      "market": "US",
+      "paymentDate": "2026-09-21",
+      "recordDate": "2026-09-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "CSQ",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0516,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -4066,6 +4186,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.51,
+      "companyName": "Citizens Financial Services, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-25",
+      "exDate": "2026-09-11",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CZFS-2026-09-25",
+      "market": "US",
+      "paymentDate": "2026-09-25",
+      "recordDate": "2026-09-11",
+      "source": "Nasdaq Calendar",
+      "symbol": "CZFS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.32,
       "companyName": "First Capital, Inc. Common Stock",
       "currency": "USD",
@@ -4723,6 +4858,21 @@
       "recordDate": "2026-09-15",
       "source": "Nasdaq Calendar",
       "symbol": "GILD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.1503,
+      "companyName": "Sprott Focus Trust, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-29",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FUND-2026-09-29",
+      "market": "US",
+      "paymentDate": "2026-09-29",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "FUND",
       "type": "dividend"
     },
     {
@@ -5503,6 +5653,21 @@
       "recordDate": "2026-09-16",
       "source": "Nasdaq Calendar",
       "symbol": "SELF",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.02533,
+      "companyName": "Global Water Resources, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-16",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GWRS-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-16",
+      "source": "Nasdaq Calendar",
+      "symbol": "GWRS",
       "type": "dividend"
     },
     {
@@ -7201,5 +7366,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-04T10:04:53.277382+00:00"
+  "updated_at": "2026-09-04T15:18:45.207561+00:00"
 }
