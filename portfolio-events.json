@@ -1,21 +1,6 @@
 {
   "events": [
     {
-      "amountPerShare": 2.1490002,
-      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
-      "currency": "USD",
-      "eventDate": "2026-09-05",
-      "exDate": "2026-09-10",
-      "fiscalPeriod": null,
-      "id": "us-dividend-KSPI-2026-09-05",
-      "market": "US",
-      "paymentDate": "2026-09-05",
-      "recordDate": "2026-09-10",
-      "source": "Nasdaq Calendar",
-      "symbol": "KSPI",
-      "type": "dividend"
-    },
-    {
       "amountPerShare": 0.006,
       "companyName": "NANOFILM TECHNOLOGIES INTL LTD",
       "currency": "SGD",
@@ -6946,6 +6931,81 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": null,
+      "companyName": "ART'S-WAY MANUFACTURING COMPANY INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-10-06",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-ARTW-2026-10-06",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "ARTW",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "AXIL BRANDS INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-10-06",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-AXIL-2026-10-06",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "AXIL",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "PENGUIN SOLUTIONS INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-10-06",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-PENG-2026-10-06",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "PENG",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "SARATOGA INVESTMENT CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-10-06",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-SAR-2026-10-06",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "SAR",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "VILLAGE SUPER MARKET INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-10-06",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-VLGEA-2026-10-06",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "VLGEA",
+      "type": "earnings"
+    },
+    {
       "amountPerShare": 0.8,
       "companyName": "J & J Snack Foods Corp. Common Stock",
       "currency": "USD",
@@ -7756,5 +7816,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-05T19:39:21.679177+00:00"
+  "updated_at": "2026-09-06T01:37:20.722779+00:00"
 }

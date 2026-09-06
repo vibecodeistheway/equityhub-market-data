@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T19:38:34+00:00",
+  "updated_at": "2026-09-06T01:36:40+00:00",
   "shiller_pe": 41.41,
   "us_gdp_trillions": 32.49,
   "inflation_yoy": 3.36,
@@ -4397,7 +4397,7 @@
       "v": 75298.0
     }
   ],
-  "us_approval_rating": 37.7,
+  "us_approval_rating": 36.8,
   "us_approval_history": [
     {
       "d": "2025-02-02",
@@ -4714,6 +4714,10 @@
     {
       "d": "2026-08-30",
       "v": 37.7
+    },
+    {
+      "d": "2026-09-06",
+      "v": 36.8
     }
   ],
   "errors": [
