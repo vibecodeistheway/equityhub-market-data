@@ -16,6 +16,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 2.1490002,
+      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-06",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KSPI-2026-09-06",
+      "market": "US",
+      "paymentDate": "2026-09-06",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "KSPI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0018,
       "companyName": "FAR EAST GROUP LIMITED",
       "currency": "SGD",
@@ -7816,5 +7831,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-06T14:31:22.802331+00:00"
+  "updated_at": "2026-09-06T19:41:44.645040+00:00"
 }
