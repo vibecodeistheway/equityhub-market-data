@@ -151,6 +151,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 2.1490002,
+      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-07",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KSPI-2026-09-07",
+      "market": "US",
+      "paymentDate": "2026-09-07",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "KSPI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.03,
       "companyName": "HONG LEONG ASIA LTD.",
       "currency": "SGD",
@@ -5221,6 +5236,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.0625,
+      "companyName": "Epsilon Energy Ltd. Common Share",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-EPSN-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "EPSN",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.484375,
       "companyName": "Great Elm Capital Corp. 7.75% Notes Due 2030",
       "currency": "USD",
@@ -5293,6 +5323,21 @@
       "recordDate": "2026-09-15",
       "source": "Nasdaq Calendar",
       "symbol": "GEGGL",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.115,
+      "companyName": "Hooker Furnishings Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HOFT-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "HOFT",
       "type": "dividend"
     },
     {
@@ -6601,6 +6646,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.13,
+      "companyName": "Smith & Wesson Brands, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-01",
+      "exDate": "2026-09-17",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SWBI-2026-10-01",
+      "market": "US",
+      "paymentDate": "2026-10-01",
+      "recordDate": "2026-09-17",
+      "source": "Nasdaq Calendar",
+      "symbol": "SWBI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.33,
       "companyName": "Stock Yards Bancorp, Inc. Common Stock",
       "currency": "USD",
@@ -6688,6 +6748,21 @@
       "recordDate": "2026-09-15",
       "source": "Nasdaq Calendar",
       "symbol": "FISI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.13,
+      "companyName": "Concrete Pumping Holdings, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-02",
+      "exDate": "2026-09-18",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BBCP-2026-10-02",
+      "market": "US",
+      "paymentDate": "2026-10-02",
+      "recordDate": "2026-09-18",
+      "source": "Nasdaq Calendar",
+      "symbol": "BBCP",
       "type": "dividend"
     },
     {
@@ -7486,6 +7561,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.025,
+      "companyName": "Virco Manufacturing Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-09",
+      "exDate": "2026-09-18",
+      "fiscalPeriod": null,
+      "id": "us-dividend-VIRC-2026-10-09",
+      "market": "US",
+      "paymentDate": "2026-10-09",
+      "recordDate": "2026-09-18",
+      "source": "Nasdaq Calendar",
+      "symbol": "VIRC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "SS SPDR DJIA ETF TRUST",
       "currency": "SGD",
@@ -7543,6 +7633,21 @@
       "recordDate": "2026-08-20",
       "source": "SGX Corporate Actions",
       "symbol": "1H11.SI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.15,
+      "companyName": "Academy Sports and Outdoors, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": "2026-09-16",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ASO-2026-10-14",
+      "market": "US",
+      "paymentDate": "2026-10-14",
+      "recordDate": "2026-09-16",
+      "source": "Nasdaq Calendar",
+      "symbol": "ASO",
       "type": "dividend"
     },
     {
@@ -8161,5 +8266,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-07T01:35:50.471477+00:00"
+  "updated_at": "2026-09-07T10:54:23.044158+00:00"
 }
