@@ -481,6 +481,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 2.1490002,
+      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-08",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KSPI-2026-09-08",
+      "market": "US",
+      "paymentDate": "2026-09-08",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "KSPI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.08,
       "companyName": "FIRST RESOURCES LIMITED",
       "currency": "SGD",
@@ -8371,5 +8386,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-08T10:12:07.236333+00:00"
+  "updated_at": "2026-09-08T15:31:42.872006+00:00"
 }
