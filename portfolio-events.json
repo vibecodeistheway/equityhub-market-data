@@ -661,6 +661,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 2.1490002,
+      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-09",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KSPI-2026-09-09",
+      "market": "US",
+      "paymentDate": "2026-09-09",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "KSPI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.016,
       "companyName": "CNMC GOLDMINE HOLDINGS LIMITED",
       "currency": "SGD",
@@ -5791,6 +5806,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.127604,
+      "companyName": "Popular, Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
+      "currency": "USD",
+      "eventDate": "2026-10-01",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BPOPM-2026-10-01",
+      "market": "US",
+      "paymentDate": "2026-10-01",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "BPOPM",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.215,
       "companyName": "Simmons First National Corporation Class A Common Stock",
       "currency": "USD",
@@ -7816,5 +7846,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-09T10:15:52.567977+00:00"
+  "updated_at": "2026-09-09T15:27:07.409177+00:00"
 }
