@@ -721,6 +721,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 2.1490002,
+      "companyName": "Joint Stock Company Kaspi.kz American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-10",
+      "exDate": "2026-09-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KSPI-2026-09-10",
+      "market": "US",
+      "paymentDate": "2026-09-10",
+      "recordDate": "2026-09-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "KSPI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "HOOKER FURNISHINGS CORPORATION",
       "currency": "USD",
@@ -2221,6 +2236,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 1.682136,
+      "companyName": "Logitech International S.A. Ordinary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-23",
+      "exDate": "2026-09-22",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LOGI-2026-09-23",
+      "market": "US",
+      "paymentDate": "2026-09-23",
+      "recordDate": "2026-09-22",
+      "source": "Nasdaq Calendar",
+      "symbol": "LOGI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0516,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -2818,6 +2848,21 @@
       "recordDate": "2026-09-11",
       "source": "Nasdaq Calendar",
       "symbol": "TCBK",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.12,
+      "companyName": "Finward Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-25",
+      "exDate": "2026-09-18",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FNWD-2026-09-25",
+      "market": "US",
+      "paymentDate": "2026-09-25",
+      "recordDate": "2026-09-18",
+      "source": "Nasdaq Calendar",
+      "symbol": "FNWD",
       "type": "dividend"
     },
     {
@@ -6931,5 +6976,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-10T10:10:16.915671+00:00"
+  "updated_at": "2026-09-10T15:22:17.264367+00:00"
 }
