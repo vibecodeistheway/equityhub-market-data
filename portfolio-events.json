@@ -1921,6 +1921,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.39,
+      "companyName": "QNB Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-25",
+      "exDate": "2026-09-11",
+      "fiscalPeriod": null,
+      "id": "us-dividend-QNBC-2026-09-25",
+      "market": "US",
+      "paymentDate": "2026-09-25",
+      "recordDate": "2026-09-11",
+      "source": "Nasdaq Calendar",
+      "symbol": "QNBC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.31,
       "companyName": "SLR Investment Corp. Common Stock",
       "currency": "USD",
@@ -2204,6 +2219,21 @@
       "source": "Alpha Vantage",
       "symbol": "PBM",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.44343,
+      "companyName": "Ryanair Holdings plc American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-28",
+      "exDate": "2026-09-11",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RYAAY-2026-09-28",
+      "market": "US",
+      "paymentDate": "2026-09-28",
+      "recordDate": "2026-08-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "RYAAY",
+      "type": "dividend"
     },
     {
       "amountPerShare": 0.0075,
@@ -3538,6 +3568,21 @@
       "recordDate": "2026-09-16",
       "source": "Nasdaq Calendar",
       "symbol": "OLED",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.35,
+      "companyName": "Global Indemnity Group, LLC Class A Common Stock ",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-18",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GBLI-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-18",
+      "source": "Nasdaq Calendar",
+      "symbol": "GBLI",
       "type": "dividend"
     },
     {
@@ -6091,5 +6136,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-11T01:47:48.600292+00:00"
+  "updated_at": "2026-09-11T10:07:28.631034+00:00"
 }
