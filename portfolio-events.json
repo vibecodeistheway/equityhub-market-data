@@ -3721,6 +3721,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.125,
+      "companyName": "Hub Group, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-21",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HUBG-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-21",
+      "source": "Nasdaq Calendar",
+      "symbol": "HUBG",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 1.65,
       "companyName": "Lamar Advertising Company Class A Common Stock",
       "currency": "USD",
@@ -6136,5 +6151,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-11T10:07:28.631034+00:00"
+  "updated_at": "2026-09-11T15:24:25.459137+00:00"
 }
