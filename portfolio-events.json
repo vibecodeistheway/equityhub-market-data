@@ -1,36 +1,6 @@
 {
   "events": [
     {
-      "amountPerShare": 0.43702,
-      "companyName": "SS SPDR DJIA ETF TRUST",
-      "currency": "USD",
-      "eventDate": "2026-09-13",
-      "exDate": "2026-08-19",
-      "fiscalPeriod": null,
-      "id": "sgx-2224775",
-      "market": "SG",
-      "paymentDate": "2026-09-13",
-      "recordDate": "2026-08-20",
-      "source": "SGX Corporate Actions",
-      "symbol": "D07.SI",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.01,
-      "companyName": "CHINA EVERBRIGHT WATER LIMITED",
-      "currency": "SGD",
-      "eventDate": "2026-09-13",
-      "exDate": "2026-08-26",
-      "fiscalPeriod": null,
-      "id": "sgx-2224205",
-      "market": "SG",
-      "paymentDate": "2026-09-13",
-      "recordDate": "2026-08-27",
-      "source": "SGX Corporate Actions",
-      "symbol": "2G89.SI",
-      "type": "dividend"
-    },
-    {
       "amountPerShare": 0.00638,
       "companyName": "TYE SOON LTD",
       "currency": "SGD",
@@ -2926,6 +2896,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.0516,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-29",
+      "exDate": "2026-09-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-09-29",
+      "market": "US",
+      "paymentDate": "2026-09-29",
+      "recordDate": "2026-09-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 2.0,
       "companyName": "KASIKORN BANK TH SDR 1TO1",
       "currency": "THB",
@@ -4048,6 +4033,21 @@
       "recordDate": "2026-09-21",
       "source": "Nasdaq Calendar",
       "symbol": "LAMR",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.28,
+      "companyName": "Isabella Bank Corporation Common stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ISBA-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "ISBA",
       "type": "dividend"
     },
     {
@@ -6061,6 +6061,156 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": null,
+      "companyName": "ASML HOLDING NAAMLOZE VENNOOTSCHAP",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-ASML-2026-10-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "ASML",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "AZZ INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-AZZ-2026-10-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "AZZ",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "BANK OF AMERICA CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-BAC-2026-10-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "BAC",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "BASSETT FURNITURE INDUSTRIES INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-BSET-2026-10-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "BSET",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "EDUCATIONAL DEVELOPMENT CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-EDUC-2026-10-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "EDUC",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "FASTENAL COMPANY",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-FAST-2026-10-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "FAST",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "MORGAN STANLEY",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-MS-2026-10-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "MS",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "NEXT TECHNOLOGY HOLDING INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-NXTT-2026-10-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "NXTT",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "RICHARDSON ELECTRONICS LIMITED",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-RELL-2026-10-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "RELL",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "RESOURCES CONNECTION INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-RGP-2026-10-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "RGP",
+      "type": "earnings"
+    },
+    {
       "amountPerShare": 0.15,
       "companyName": "Academy Sports and Outdoors, Inc. Common Stock",
       "currency": "USD",
@@ -6088,6 +6238,21 @@
       "recordDate": "2026-09-23",
       "source": "Nasdaq Calendar",
       "symbol": "LRCX",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.51,
+      "companyName": "KANZHUN LIMITED American Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": "2026-09-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BZ-2026-10-14",
+      "market": "US",
+      "paymentDate": "2026-10-14",
+      "recordDate": "2026-09-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "BZ",
       "type": "dividend"
     },
     {
@@ -6208,6 +6373,21 @@
       "recordDate": "2026-09-15",
       "source": "Nasdaq Calendar",
       "symbol": "XEL",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.035,
+      "companyName": "Prospect Capital Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-21",
+      "exDate": "2026-09-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PSEC-2026-10-21",
+      "market": "US",
+      "paymentDate": "2026-10-21",
+      "recordDate": "2026-09-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "PSEC",
       "type": "dividend"
     },
     {
@@ -6676,5 +6856,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-13T19:57:02.773285+00:00"
+  "updated_at": "2026-09-14T02:03:07.273923+00:00"
 }
