@@ -2521,6 +2521,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.525,
+      "companyName": "Meta Platforms, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-28",
+      "exDate": "2026-09-21",
+      "fiscalPeriod": null,
+      "id": "us-dividend-META-2026-09-28",
+      "market": "US",
+      "paymentDate": "2026-09-28",
+      "recordDate": "2026-09-21",
+      "source": "Nasdaq Calendar",
+      "symbol": "META",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0516,
       "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
       "currency": "USD",
@@ -3088,6 +3103,21 @@
       "recordDate": "2026-09-15",
       "source": "Nasdaq Calendar",
       "symbol": "COFS",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.12,
+      "companyName": "Commercial Bancgroup, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-09-30",
+      "exDate": "2026-09-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CBK-2026-09-30",
+      "market": "US",
+      "paymentDate": "2026-09-30",
+      "recordDate": "2026-09-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "CBK",
       "type": "dividend"
     },
     {
@@ -6346,6 +6376,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.25,
+      "companyName": "Saga Communications, Inc. Class A Common Stock (FL)",
+      "currency": "USD",
+      "eventDate": "2026-10-16",
+      "exDate": "2026-09-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SGA-2026-10-16",
+      "market": "US",
+      "paymentDate": "2026-10-16",
+      "recordDate": "2026-09-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "SGA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.56674,
       "companyName": "PING AN INSURANCE HK SDR 2TO1",
       "currency": "HKD",
@@ -6403,6 +6448,21 @@
       "recordDate": "2026-10-12",
       "source": "SGX Corporate Actions",
       "symbol": "P9D.SI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.117,
+      "companyName": "Public Policy Holding Company, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-23",
+      "exDate": "2026-09-25",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PPHC-2026-10-23",
+      "market": "US",
+      "paymentDate": "2026-10-23",
+      "recordDate": "2026-09-25",
+      "source": "Nasdaq Calendar",
+      "symbol": "PPHC",
       "type": "dividend"
     },
     {
@@ -6856,5 +6916,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-14T02:03:07.273923+00:00"
+  "updated_at": "2026-09-14T11:07:05.693602+00:00"
 }
