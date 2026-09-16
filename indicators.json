@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-16T15:40:37+00:00",
+  "updated_at": "2026-09-16T20:32:46+00:00",
   "shiller_pe": 40.71,
   "us_gdp_trillions": 32.49,
-  "inflation_yoy": 3.4,
+  "inflation_yoy": 3.36,
   "shiller_pe_history": [
     {
       "d": "2001-11-01",
@@ -2810,7 +2810,7 @@
     }
   ],
   "fear_greed": {
-    "score": 29.1142857142857,
+    "score": 26.4857142857143,
     "rating": "fear",
     "previous_close": 28.6571428571429,
     "previous_1_week": 38.2,
@@ -4733,6 +4733,7 @@
     }
   ],
   "errors": [
+    "inflation_yoy (BLS): The read operation timed out",
     "truflation: 'NoneType' object is not subscriptable"
   ]
 }
