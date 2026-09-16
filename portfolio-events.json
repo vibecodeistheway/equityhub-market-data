@@ -361,6 +361,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.15792,
+      "companyName": "Ericsson American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-16",
+      "exDate": "2026-09-29",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ERIC-2026-09-16",
+      "market": "US",
+      "paymentDate": "2026-09-16",
+      "recordDate": "2026-09-29",
+      "source": "Nasdaq Calendar",
+      "symbol": "ERIC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "FOMC Rate Decision",
       "currency": null,
@@ -5837,7 +5852,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CapLand China T",
+      "companyName": "CapitaLand China Trust",
       "currency": "SGD",
       "eventDate": "2026-10-23",
       "exDate": null,
@@ -5846,7 +5861,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "AU8U.SI",
       "type": "earnings"
     },
@@ -5867,7 +5882,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CapLand Ascott T",
+      "companyName": "CapitaLand Ascott Trust",
       "currency": "SGD",
       "eventDate": "2026-10-27",
       "exDate": null,
@@ -5876,7 +5891,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "HMN.SI",
       "type": "earnings"
     },
@@ -5927,7 +5942,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CapLand India T",
+      "companyName": "CapitaLand India Trust",
       "currency": "SGD",
       "eventDate": "2026-10-28",
       "exDate": null,
@@ -5936,7 +5951,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "CY6U.SI",
       "type": "earnings"
     },
@@ -6017,7 +6032,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CapLand Ascendas REIT",
+      "companyName": "CapitaLand Ascendas REIT",
       "currency": "SGD",
       "eventDate": "2026-10-29",
       "exDate": null,
@@ -6026,13 +6041,13 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "A17U.SI",
       "type": "earnings"
     },
     {
       "amountPerShare": null,
-      "companyName": "CapLand IntCom T",
+      "companyName": "CICT: CapitaLand Integrated Commercial Trust",
       "currency": "SGD",
       "eventDate": "2026-10-29",
       "exDate": null,
@@ -6041,7 +6056,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "C38U.SI",
       "type": "earnings"
     },
@@ -6137,7 +6152,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CapitaLandInvest",
+      "companyName": "CapitaLand Investment Limited",
       "currency": "SGD",
       "eventDate": "2026-11-04",
       "exDate": null,
@@ -6146,7 +6161,7 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "9CI.SI",
       "type": "earnings"
     },
@@ -6436,5 +6451,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-16T02:02:58.009445+00:00"
+  "updated_at": "2026-09-16T10:24:45.703328+00:00"
 }
