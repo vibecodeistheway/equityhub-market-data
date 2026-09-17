@@ -271,6 +271,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.15792,
+      "companyName": "Ericsson American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-17",
+      "exDate": "2026-09-29",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ERIC-2026-09-17",
+      "market": "US",
+      "paymentDate": "2026-09-17",
+      "recordDate": "2026-09-29",
+      "source": "Nasdaq Calendar",
+      "symbol": "ERIC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "TRIO-TECH INTERNATIONAL",
       "currency": "USD",
@@ -2971,6 +2986,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.02,
+      "companyName": "Heartland Express, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-07",
+      "exDate": "2026-09-25",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HTLD-2026-10-07",
+      "market": "US",
+      "paymentDate": "2026-10-07",
+      "recordDate": "2026-09-25",
+      "source": "Nasdaq Calendar",
+      "symbol": "HTLD",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.05,
       "companyName": "SHANGRI-LA ASIA LIMITED",
       "currency": "HKD",
@@ -3494,6 +3524,21 @@
       "source": "Alpha Vantage",
       "symbol": "RMCF",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.25,
+      "companyName": "Flexsteel Industries, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-12",
+      "exDate": "2026-09-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FLXS-2026-10-12",
+      "market": "US",
+      "paymentDate": "2026-10-12",
+      "recordDate": "2026-09-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "FLXS",
+      "type": "dividend"
     },
     {
       "amountPerShare": null,
@@ -4576,6 +4621,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.32025,
+      "companyName": "Fulton Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+      "currency": "USD",
+      "eventDate": "2026-10-15",
+      "exDate": "2026-09-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FULTP-2026-10-15",
+      "market": "US",
+      "paymentDate": "2026-10-15",
+      "recordDate": "2026-09-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "FULTP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.2,
+      "companyName": "Host Hotels & Resorts, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-15",
+      "exDate": "2026-09-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HST-2026-10-15",
+      "market": "US",
+      "paymentDate": "2026-10-15",
+      "recordDate": "2026-09-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "HST",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.79,
       "companyName": "Lincoln Electric Holdings, Inc. Common Shares",
       "currency": "USD",
@@ -4618,6 +4693,21 @@
       "recordDate": "2026-09-30",
       "source": "Nasdaq Calendar",
       "symbol": "STRC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3,
+      "companyName": "Sunrise Realty Trust, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-15",
+      "exDate": "2026-09-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SUNS-2026-10-15",
+      "market": "US",
+      "paymentDate": "2026-10-15",
+      "recordDate": "2026-09-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "SUNS",
       "type": "dividend"
     },
     {
@@ -4828,6 +4918,21 @@
       "recordDate": "2026-10-01",
       "source": "Nasdaq Calendar",
       "symbol": "AGNCO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.19,
+      "companyName": "Fulton Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-15",
+      "exDate": "2026-10-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FULT-2026-10-15",
+      "market": "US",
+      "paymentDate": "2026-10-15",
+      "recordDate": "2026-10-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "FULT",
       "type": "dividend"
     },
     {
@@ -5296,6 +5401,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5325,
+      "companyName": "Lineage, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-21",
+      "exDate": "2026-09-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LINE-2026-10-21",
+      "market": "US",
+      "paymentDate": "2026-10-21",
+      "recordDate": "2026-09-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "LINE",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.035,
       "companyName": "CIVMEC LIMITED",
       "currency": "AUD",
@@ -5383,6 +5503,21 @@
       "recordDate": "2026-09-25",
       "source": "Nasdaq Calendar",
       "symbol": "PPHC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.24,
+      "companyName": "First Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-23",
+      "exDate": "2026-09-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FBNC-2026-10-23",
+      "market": "US",
+      "paymentDate": "2026-10-23",
+      "recordDate": "2026-09-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "FBNC",
       "type": "dividend"
     },
     {
@@ -6001,5 +6136,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-17T02:06:36.079238+00:00"
+  "updated_at": "2026-09-17T10:34:24.007267+00:00"
 }
