@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-16T20:32:46+00:00",
-  "shiller_pe": 40.71,
+  "updated_at": "2026-09-17T02:05:49+00:00",
+  "shiller_pe": 40.52,
   "us_gdp_trillions": 32.49,
-  "inflation_yoy": 3.36,
+  "inflation_yoy": 3.4,
   "shiller_pe_history": [
     {
       "d": "2001-11-01",
@@ -1201,8 +1201,8 @@
       "v": 40.9
     },
     {
-      "d": "2026-09-15",
-      "v": 40.71
+      "d": "2026-09-16",
+      "v": 40.52
     }
   ],
   "inflation_history": [
@@ -4733,7 +4733,6 @@
     }
   ],
   "errors": [
-    "inflation_yoy (BLS): The read operation timed out",
     "truflation: 'NoneType' object is not subscriptable"
   ]
 }
