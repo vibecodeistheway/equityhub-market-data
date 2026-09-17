@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T10:33:28+00:00",
+  "updated_at": "2026-09-17T15:46:21+00:00",
   "shiller_pe": 40.52,
   "us_gdp_trillions": 32.49,
   "inflation_yoy": 3.4,
@@ -2810,7 +2810,7 @@
     }
   ],
   "fear_greed": {
-    "score": 26.1142857142857,
+    "score": 29.4285714285714,
     "rating": "fear",
     "previous_close": 26.4857142857143,
     "previous_1_week": 32.2,
@@ -4733,6 +4733,6 @@
     }
   ],
   "errors": [
-    "truflation: 'NoneType' object is not subscriptable"
+    "truflation: "
   ]
 }

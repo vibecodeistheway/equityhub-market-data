@@ -5702,6 +5702,36 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "ULTRAGREEN AI USD",
+      "currency": "SGD",
+      "eventDate": "2026-10-29",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-ULG-2026-10-29",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "ULG.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "ULTRAGREEN AI SGD",
+      "currency": "SGD",
+      "eventDate": "2026-10-29",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-UGS-2026-10-29",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "UGS.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "US Core PCE Release",
       "currency": null,
       "eventDate": "2026-10-29",
@@ -6136,5 +6166,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-17T10:34:24.007267+00:00"
+  "updated_at": "2026-09-17T15:47:18.600415+00:00"
 }
