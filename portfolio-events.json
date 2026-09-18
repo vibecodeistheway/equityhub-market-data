@@ -16,6 +16,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.15792,
+      "companyName": "Ericsson American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-18",
+      "exDate": "2026-09-29",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ERIC-2026-09-18",
+      "market": "US",
+      "paymentDate": "2026-09-18",
+      "recordDate": "2026-09-29",
+      "source": "Nasdaq Calendar",
+      "symbol": "ERIC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 50.0,
       "companyName": "BANK CENTRAL ASIA ID SDR 1TO2",
       "currency": "IDR",
@@ -1936,6 +1951,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.07944,
+      "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-01",
+      "exDate": "2026-09-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHAD-2026-10-01",
+      "market": "US",
+      "paymentDate": "2026-10-01",
+      "recordDate": "2026-09-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHAD",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.13,
       "companyName": "Concrete Pumping Holdings, Inc. Common Stock",
       "currency": "USD",
@@ -1963,6 +1993,21 @@
       "recordDate": "2026-09-18",
       "source": "Nasdaq Calendar",
       "symbol": "HCKT",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.00516,
+      "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-02",
+      "exDate": "2026-10-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHAD-2026-10-02",
+      "market": "US",
+      "paymentDate": "2026-10-02",
+      "recordDate": "2026-10-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHAD",
       "type": "dividend"
     },
     {
@@ -2338,6 +2383,21 @@
       "recordDate": "2026-09-21",
       "source": "Nasdaq Calendar",
       "symbol": "WHF",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.00516,
+      "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-05",
+      "exDate": "2026-10-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHAD-2026-10-05",
+      "market": "US",
+      "paymentDate": "2026-10-05",
+      "recordDate": "2026-10-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHAD",
       "type": "dividend"
     },
     {
@@ -3058,6 +3118,21 @@
       "recordDate": "2026-09-25",
       "source": "Nasdaq Calendar",
       "symbol": "USEA",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.23,
+      "companyName": "Keurig Dr Pepper Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-09",
+      "exDate": "2026-09-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KDP-2026-10-09",
+      "market": "US",
+      "paymentDate": "2026-10-09",
+      "recordDate": "2026-09-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "KDP",
       "type": "dividend"
     },
     {
@@ -5836,5 +5911,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-18T01:53:58.233669+00:00"
+  "updated_at": "2026-09-18T10:10:28.958826+00:00"
 }
