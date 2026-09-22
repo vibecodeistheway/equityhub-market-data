@@ -271,6 +271,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.15792,
+      "companyName": "Ericsson American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-22",
+      "exDate": "2026-09-29",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ERIC-2026-09-22",
+      "market": "US",
+      "paymentDate": "2026-09-22",
+      "recordDate": "2026-09-29",
+      "source": "Nasdaq Calendar",
+      "symbol": "ERIC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.025,
       "companyName": "TAN CHONG INT'L LTD",
       "currency": "HKD",
@@ -1126,7 +1141,7 @@
       "type": "earnings"
     },
     {
-      "amountPerShare": 1.7002,
+      "amountPerShare": 1.7001,
       "companyName": "Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN",
       "currency": "USD",
       "eventDate": "2026-09-25",
@@ -1141,7 +1156,7 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 2.4852,
+      "amountPerShare": 2.4851,
       "companyName": "Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",
       "currency": "USD",
       "eventDate": "2026-09-25",
@@ -1156,7 +1171,7 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 1.899,
+      "amountPerShare": 1.8989,
       "companyName": "Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",
       "currency": "USD",
       "eventDate": "2026-09-25",
@@ -2309,6 +2324,21 @@
       "source": "Alpha Vantage",
       "symbol": "PPCB",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.04786,
+      "companyName": "Grupo Financiero Galicia S.A. American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-10-05",
+      "exDate": "2026-09-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GGAL-2026-10-05",
+      "market": "US",
+      "paymentDate": "2026-10-05",
+      "recordDate": "2026-09-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "GGAL",
+      "type": "dividend"
     },
     {
       "amountPerShare": 0.00516,
@@ -3823,6 +3853,21 @@
       "recordDate": "2026-09-30",
       "source": "Nasdaq Calendar",
       "symbol": "MDLZ",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.34,
+      "companyName": "Omega Flex, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-14",
+      "exDate": "2026-09-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OFLX-2026-10-14",
+      "market": "US",
+      "paymentDate": "2026-10-14",
+      "recordDate": "2026-09-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "OFLX",
       "type": "dividend"
     },
     {
@@ -9991,6 +10036,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5,
+      "companyName": "Morningstar, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MORN-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "MORN",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.065,
       "companyName": "The Ensign Group, Inc. Common Stock",
       "currency": "USD",
@@ -10381,5 +10441,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-22T02:09:36.866660+00:00"
+  "updated_at": "2026-09-22T10:28:41.387362+00:00"
 }
