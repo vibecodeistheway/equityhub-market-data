@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T20:45:51+00:00",
-  "shiller_pe": 41.59,
+  "updated_at": "2026-09-24T01:55:23+00:00",
+  "shiller_pe": 41.28,
   "us_gdp_trillions": 32.49,
   "inflation_yoy": 3.4,
   "shiller_pe_history": [
@@ -1201,8 +1201,8 @@
       "v": 40.9
     },
     {
-      "d": "2026-09-22",
-      "v": 41.59
+      "d": "2026-09-23",
+      "v": 41.28
     }
   ],
   "inflation_history": [
