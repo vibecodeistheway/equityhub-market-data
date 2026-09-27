@@ -1,6 +1,21 @@
 {
   "events": [
     {
+      "amountPerShare": 0.15792,
+      "companyName": "Ericsson American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-27",
+      "exDate": "2026-09-29",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ERIC-2026-09-27",
+      "market": "US",
+      "paymentDate": "2026-09-27",
+      "recordDate": "2026-09-29",
+      "source": "Nasdaq Calendar",
+      "symbol": "ERIC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.15,
       "companyName": "ZIJIN GOLD HK SDR 10TO1",
       "currency": "HKD",
@@ -14176,5 +14191,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-27T15:55:28.531390+00:00"
+  "updated_at": "2026-09-27T20:32:41.790909+00:00"
 }
