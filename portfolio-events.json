@@ -331,6 +331,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.15792,
+      "companyName": "Ericsson American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-09-28",
+      "exDate": "2026-09-29",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ERIC-2026-09-28",
+      "market": "US",
+      "paymentDate": "2026-09-28",
+      "recordDate": "2026-09-29",
+      "source": "Nasdaq Calendar",
+      "symbol": "ERIC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.041,
       "companyName": "HELENS INTL HOLDINGS CO LTD",
       "currency": "CNY",
@@ -689,6 +704,21 @@
       "source": "Alpha Vantage",
       "symbol": "ZENA",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.156604,
+      "companyName": "F/m US Treasury 3 Month Bill Fund",
+      "currency": "USD",
+      "eventDate": "2026-09-29",
+      "exDate": "2026-09-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TBIL-2026-09-29",
+      "market": "US",
+      "paymentDate": "2026-09-29",
+      "recordDate": "2026-09-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "TBIL",
+      "type": "dividend"
     },
     {
       "amountPerShare": 0.0516,
@@ -4081,6 +4111,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5546875,
+      "companyName": "LifeMD, Inc. 8.875% Series A Cumulative Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-15",
+      "exDate": "2026-10-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LFMDP-2026-10-15",
+      "market": "US",
+      "paymentDate": "2026-10-15",
+      "recordDate": "2026-10-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "LFMDP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.11,
       "companyName": "Manhattan Bridge Capital, Inc",
       "currency": "USD",
@@ -4483,6 +4528,21 @@
       "recordDate": "2026-10-02",
       "source": "Nasdaq Calendar",
       "symbol": "RGLD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.38,
+      "companyName": "First Bancorp, Inc  (ME) Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-16",
+      "exDate": "2026-10-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FNLC-2026-10-16",
+      "market": "US",
+      "paymentDate": "2026-10-16",
+      "recordDate": "2026-10-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "FNLC",
       "type": "dividend"
     },
     {
@@ -9646,6 +9706,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.33,
+      "companyName": "Johnson Outdoors Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-23",
+      "exDate": "2026-10-09",
+      "fiscalPeriod": null,
+      "id": "us-dividend-JOUT-2026-10-23",
+      "market": "US",
+      "paymentDate": "2026-10-23",
+      "recordDate": "2026-10-09",
+      "source": "Nasdaq Calendar",
+      "symbol": "JOUT",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.37,
       "companyName": "Science Applications International Corporation Common Stock",
       "currency": "USD",
@@ -10768,6 +10843,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "HMN.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Mapletree Ind Tr",
+      "currency": "SGD",
+      "eventDate": "2026-10-27",
+      "exDate": null,
+      "fiscalPeriod": "2Q",
+      "id": "sg-earnings-ME8U-2026-10-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "ME8U.SI",
       "type": "earnings"
     },
     {
@@ -15796,6 +15886,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.25,
+      "companyName": "NorthEast Community Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-13",
+      "exDate": "2026-10-09",
+      "fiscalPeriod": null,
+      "id": "us-dividend-NECB-2026-11-13",
+      "market": "US",
+      "paymentDate": "2026-11-13",
+      "recordDate": "2026-10-09",
+      "source": "Nasdaq Calendar",
+      "symbol": "NECB",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.03,
       "companyName": "MICRO-MECHANICS (HOLDINGS) LTD",
       "currency": "SGD",
@@ -15991,5 +16096,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-28T02:17:17.046144+00:00"
+  "updated_at": "2026-09-28T12:12:48.165614+00:00"
 }
