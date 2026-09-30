@@ -3316,6 +3316,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.165,
+      "companyName": "Ingles Markets, Incorporated Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-15",
+      "exDate": "2026-10-08",
+      "fiscalPeriod": null,
+      "id": "us-dividend-IMKTA-2026-10-15",
+      "market": "US",
+      "paymentDate": "2026-10-15",
+      "recordDate": "2026-10-08",
+      "source": "Nasdaq Calendar",
+      "symbol": "IMKTA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.11,
       "companyName": "Manhattan Bridge Capital, Inc",
       "currency": "USD",
@@ -20956,5 +20971,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-09-30T02:43:55.083062+00:00"
+  "updated_at": "2026-09-30T11:29:32.353452+00:00"
 }
