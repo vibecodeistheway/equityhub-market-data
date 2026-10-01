@@ -496,6 +496,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.18,
+      "companyName": "PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund",
+      "currency": "USD",
+      "eventDate": "2026-10-05",
+      "exDate": "2026-10-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PMBS-2026-10-05",
+      "market": "US",
+      "paymentDate": "2026-10-05",
+      "recordDate": "2026-10-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "PMBS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.00516,
       "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
       "currency": "USD",
@@ -20386,5 +20401,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-10-01T02:49:05.603888+00:00"
+  "updated_at": "2026-10-01T11:57:58.775538+00:00"
 }
