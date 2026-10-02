@@ -466,7 +466,7 @@
       "type": "earnings"
     },
     {
-      "amountPerShare": 1.9,
+      "amountPerShare": 2.07,
       "companyName": "Gentherm Inc Common Stock",
       "currency": "USD",
       "eventDate": "2026-10-07",
@@ -3898,6 +3898,21 @@
       "recordDate": "2026-10-06",
       "source": "Nasdaq Calendar",
       "symbol": "SHOE",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.09,
+      "companyName": "CF Bankshares Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-20",
+      "exDate": "2026-10-09",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CFBK-2026-10-20",
+      "market": "US",
+      "paymentDate": "2026-10-20",
+      "recordDate": "2026-10-12",
+      "source": "Nasdaq Calendar",
+      "symbol": "CFBK",
       "type": "dividend"
     },
     {
@@ -18076,6 +18091,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.15,
+      "companyName": "Micron Technology, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-29",
+      "exDate": "2026-10-14",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MU-2026-10-29",
+      "market": "US",
+      "paymentDate": "2026-10-29",
+      "recordDate": "2026-10-14",
+      "source": "Nasdaq Calendar",
+      "symbol": "MU",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.1,
       "companyName": "VSE Corporation Common Stock",
       "currency": "USD",
@@ -19081,6 +19111,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.42,
+      "companyName": "Camden National Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CAC-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "CAC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.1934,
       "companyName": "Capital Southwest Corporation Common Stock",
       "currency": "USD",
@@ -19093,6 +19138,21 @@
       "recordDate": "2026-10-15",
       "source": "Nasdaq Calendar",
       "symbol": "CSWC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 1.0,
+      "companyName": "City Holding Company Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHCO-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHCO",
       "type": "dividend"
     },
     {
@@ -19168,6 +19228,21 @@
       "recordDate": "2026-10-15",
       "source": "Nasdaq Calendar",
       "symbol": "REGCP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.02533,
+      "companyName": "Global Water Resources, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-16",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GWRS-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-16",
+      "source": "Nasdaq Calendar",
+      "symbol": "GWRS",
       "type": "dividend"
     },
     {
@@ -19276,6 +19351,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.5,
+      "companyName": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-31",
+      "exDate": "2026-10-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STRC-2026-10-31",
+      "market": "US",
+      "paymentDate": "2026-10-31",
+      "recordDate": "2026-10-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "STRC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.26,
       "companyName": "Community Bancorp. Common Stock",
       "currency": "USD",
@@ -19288,6 +19378,21 @@
       "recordDate": "2026-10-15",
       "source": "Nasdaq Calendar",
       "symbol": "CMTV",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3515625,
+      "companyName": "Diversified Healthcare Trust 5.625% Senior Notes due 2042",
+      "currency": "USD",
+      "eventDate": "2026-11-01",
+      "exDate": "2026-10-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-DHCNI-2026-11-01",
+      "market": "US",
+      "paymentDate": "2026-11-01",
+      "recordDate": "2026-10-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "DHCNI",
       "type": "dividend"
     },
     {
@@ -19921,5 +20026,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-10-02T02:52:19.888051+00:00"
+  "updated_at": "2026-10-02T11:29:47.551178+00:00"
 }
