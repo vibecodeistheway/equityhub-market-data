@@ -8522,6 +8522,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Aztech Gbl",
+      "currency": "SGD",
+      "eventDate": "2026-10-27",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-8AZ-2026-10-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "8AZ.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "AMERICAN ASSETS TRUST INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-10-27",
@@ -13573,6 +13588,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "A17U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "CDL HTrust",
+      "currency": "SGD",
+      "eventDate": "2026-10-29",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-J85-2026-10-29",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "J85.SI",
       "type": "earnings"
     },
     {
@@ -21883,6 +21913,21 @@
       "recordDate": "2026-10-15",
       "source": "Nasdaq Calendar",
       "symbol": "NWFL",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.127604,
+      "companyName": "Popular, Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities",
+      "currency": "USD",
+      "eventDate": "2026-11-02",
+      "exDate": "2026-10-15",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BPOPM-2026-11-02",
+      "market": "US",
+      "paymentDate": "2026-11-02",
+      "recordDate": "2026-10-15",
+      "source": "Nasdaq Calendar",
+      "symbol": "BPOPM",
       "type": "dividend"
     },
     {
@@ -44731,5 +44776,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-10-06T03:36:16.620555+00:00"
+  "updated_at": "2026-10-06T12:20:45.737958+00:00"
 }
