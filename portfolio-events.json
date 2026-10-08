@@ -1,81 +1,6 @@
 {
   "events": [
     {
-      "amountPerShare": null,
-      "companyName": "APPLIED DIGITAL CORPORATION",
-      "currency": "USD",
-      "eventDate": "2026-10-07",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-APLD-2026-10-07",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "APLD",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "LEVI STRAUSS & COMPANY",
-      "currency": "USD",
-      "eventDate": "2026-10-07",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-LEVI-2026-10-07",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "LEVI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "RICHARDSON ELECTRONICS LIMITED",
-      "currency": "USD",
-      "eventDate": "2026-10-07",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-RELL-2026-10-07",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "RELL",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "RESOURCES CONNECTION INCORPORATED",
-      "currency": "USD",
-      "eventDate": "2026-10-07",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-RGP-2026-10-07",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "RGP",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "TAYLOR DEVICES INCORPORATED",
-      "currency": "USD",
-      "eventDate": "2026-10-07",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-TAYD-2026-10-07",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "TAYD",
-      "type": "earnings"
-    },
-    {
       "amountPerShare": 0.05,
       "companyName": "SHANGRI-LA ASIA LIMITED",
       "currency": "HKD",
@@ -239,36 +164,6 @@
       "source": "Alpha Vantage",
       "symbol": "TLRY",
       "type": "earnings"
-    },
-    {
-      "amountPerShare": 0.00516,
-      "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
-      "currency": "USD",
-      "eventDate": "2026-10-08",
-      "exDate": "2026-10-07",
-      "fiscalPeriod": null,
-      "id": "us-dividend-CHAD-2026-10-08",
-      "market": "US",
-      "paymentDate": "2026-10-08",
-      "recordDate": "2026-10-07",
-      "source": "Nasdaq Calendar",
-      "symbol": "CHAD",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.0516,
-      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
-      "currency": "USD",
-      "eventDate": "2026-10-08",
-      "exDate": "2026-10-07",
-      "fiscalPeriod": null,
-      "id": "us-dividend-SATA-2026-10-08",
-      "market": "US",
-      "paymentDate": "2026-10-08",
-      "recordDate": "2026-10-07",
-      "source": "Nasdaq Calendar",
-      "symbol": "SATA",
-      "type": "dividend"
     },
     {
       "amountPerShare": null,
@@ -4111,21 +4006,6 @@
       "type": "earnings"
     },
     {
-      "amountPerShare": 0.12,
-      "companyName": "Gentex Corporation Common Stock",
-      "currency": "USD",
-      "eventDate": "2026-10-21",
-      "exDate": "2026-10-07",
-      "fiscalPeriod": null,
-      "id": "us-dividend-GNTX-2026-10-21",
-      "market": "US",
-      "paymentDate": "2026-10-21",
-      "recordDate": "2026-10-07",
-      "source": "Nasdaq Calendar",
-      "symbol": "GNTX",
-      "type": "dividend"
-    },
-    {
       "amountPerShare": 0.1,
       "companyName": "Calamos Convertible and High Income Fund Common Stock",
       "currency": "USD",
@@ -4277,21 +4157,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Suntec REIT",
-      "currency": "SGD",
-      "eventDate": "2026-10-22",
-      "exDate": null,
-      "fiscalPeriod": "3Q",
-      "id": "sg-earnings-T82U-2026-10-22",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "T82U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Frasers Centrepoint Trust",
       "currency": "SGD",
       "eventDate": "2026-10-22",
@@ -4303,6 +4168,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "J69U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Suntec REIT",
+      "currency": "SGD",
+      "eventDate": "2026-10-22",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-T82U-2026-10-22",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "T82U.SI",
       "type": "earnings"
     },
     {
@@ -7111,6 +6991,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.00516,
+      "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-23",
+      "exDate": "2026-10-22",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHAD-2026-10-23",
+      "market": "US",
+      "paymentDate": "2026-10-23",
+      "recordDate": "2026-10-22",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHAD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0516,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-23",
+      "exDate": "2026-10-22",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-10-23",
+      "market": "US",
+      "paymentDate": "2026-10-23",
+      "recordDate": "2026-10-22",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "iFAST Corporation Ltd",
       "currency": "SGD",
@@ -8237,21 +8147,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Keppel Infrastructure Trust",
-      "currency": "SGD",
-      "eventDate": "2026-10-27",
-      "exDate": null,
-      "fiscalPeriod": "3Q",
-      "id": "sg-earnings-A7RU-2026-10-27",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "A7RU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Mapletree Industrial Trust",
       "currency": "SGD",
       "eventDate": "2026-10-27",
@@ -8282,21 +8177,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Keppel DC REIT",
-      "currency": "SGD",
-      "eventDate": "2026-10-27",
-      "exDate": null,
-      "fiscalPeriod": "3Q",
-      "id": "sg-earnings-AJBU-2026-10-27",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "AJBU.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Digital Core REIT",
       "currency": "SGD",
       "eventDate": "2026-10-27",
@@ -8323,6 +8203,36 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "8AZ.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Keppel Infrastructure Trust",
+      "currency": "SGD",
+      "eventDate": "2026-10-27",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-A7RU-2026-10-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "A7RU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Keppel DC REIT",
+      "currency": "SGD",
+      "eventDate": "2026-10-27",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-AJBU-2026-10-27",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "AJBU.SI",
       "type": "earnings"
     },
     {
@@ -11192,17 +11102,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "KORE US REIT",
+      "companyName": "Mapletree Logistics Trust",
       "currency": "SGD",
       "eventDate": "2026-10-28",
       "exDate": null,
-      "fiscalPeriod": "3Q",
-      "id": "sg-earnings-CMOU-2026-10-28",
+      "fiscalPeriod": "2Q",
+      "id": "sg-earnings-M44U-2026-10-28",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "CMOU.SI",
+      "symbol": "M44U.SI",
       "type": "earnings"
     },
     {
@@ -11222,22 +11132,7 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Mapletree Log Tr",
-      "currency": "SGD",
-      "eventDate": "2026-10-28",
-      "exDate": null,
-      "fiscalPeriod": "2Q",
-      "id": "sg-earnings-M44U-2026-10-28",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "InvestingNote",
-      "symbol": "M44U.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "Wilmar Intl",
+      "companyName": "Wilmar International Limited",
       "currency": "SGD",
       "eventDate": "2026-10-28",
       "exDate": null,
@@ -11246,8 +11141,23 @@
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
-      "source": "InvestingNote",
+      "source": "Beansprout",
       "symbol": "F34.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "KORE US REIT",
+      "currency": "SGD",
+      "eventDate": "2026-10-28",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-CMOU-2026-10-28",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "CMOU.SI",
       "type": "earnings"
     },
     {
@@ -13231,21 +13141,6 @@
       "type": "earnings"
     },
     {
-      "amountPerShare": 0.33,
-      "companyName": "Comcast Corporation Class A Common Stock",
-      "currency": "USD",
-      "eventDate": "2026-10-28",
-      "exDate": "2026-10-07",
-      "fiscalPeriod": null,
-      "id": "us-dividend-CMCSA-2026-10-28",
-      "market": "US",
-      "paymentDate": "2026-10-28",
-      "recordDate": "2026-10-07",
-      "source": "Nasdaq Calendar",
-      "symbol": "CMCSA",
-      "type": "dividend"
-    },
-    {
       "amountPerShare": 0.52,
       "companyName": "NetApp, Inc. Common Stock",
       "currency": "USD",
@@ -13367,17 +13262,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "Keppel REIT",
+      "companyName": "ULTRAGREEN.AI LIMITED",
       "currency": "SGD",
       "eventDate": "2026-10-29",
       "exDate": null,
       "fiscalPeriod": "3Q",
-      "id": "sg-earnings-K71U-2026-10-29",
+      "id": "sg-earnings-ULG-2026-10-29",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "K71U.SI",
+      "symbol": "ULG.SI",
       "type": "earnings"
     },
     {
@@ -13397,32 +13292,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "ULTRAGREEN.AI LIMITED",
+      "companyName": "Keppel REIT",
       "currency": "SGD",
       "eventDate": "2026-10-29",
       "exDate": null,
       "fiscalPeriod": "3Q",
-      "id": "sg-earnings-ULG-2026-10-29",
+      "id": "sg-earnings-K71U-2026-10-29",
       "market": "SG",
       "paymentDate": null,
       "recordDate": null,
       "source": "Beansprout",
-      "symbol": "ULG.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "CICT: CapitaLand Integrated Commercial Trust",
-      "currency": "SGD",
-      "eventDate": "2026-10-29",
-      "exDate": null,
-      "fiscalPeriod": "3Q",
-      "id": "sg-earnings-C38U-2026-10-29",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "C38U.SI",
+      "symbol": "K71U.SI",
       "type": "earnings"
     },
     {
@@ -13438,6 +13318,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "A17U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "CICT: CapitaLand Integrated Commercial Trust",
+      "currency": "SGD",
+      "eventDate": "2026-10-29",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-C38U-2026-10-29",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "C38U.SI",
       "type": "earnings"
     },
     {
@@ -44087,21 +43982,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "SingPost: Singapore Post Limited",
-      "currency": "SGD",
-      "eventDate": "2026-11-06",
-      "exDate": null,
-      "fiscalPeriod": "1H",
-      "id": "sg-earnings-S08-2026-11-06",
-      "market": "SG",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Beansprout",
-      "symbol": "S08.SI",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "Frasers Logistics & Commercial Trust",
       "currency": "SGD",
       "eventDate": "2026-11-06",
@@ -44128,6 +44008,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "TQ5.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "SingPost: Singapore Post Limited",
+      "currency": "SGD",
+      "eventDate": "2026-11-06",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-S08-2026-11-06",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Beansprout",
+      "symbol": "S08.SI",
       "type": "earnings"
     },
     {
@@ -46276,6 +46171,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.25,
+      "companyName": "APA Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-23",
+      "exDate": "2026-10-22",
+      "fiscalPeriod": null,
+      "id": "us-dividend-APA-2026-11-23",
+      "market": "US",
+      "paymentDate": "2026-11-23",
+      "recordDate": "2026-10-22",
+      "source": "Nasdaq Calendar",
+      "symbol": "APA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US Core PCE Release",
       "currency": null,
@@ -46471,5 +46381,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-10-07T22:22:55.544484+00:00"
+  "updated_at": "2026-10-08T03:18:48.940858+00:00"
 }
