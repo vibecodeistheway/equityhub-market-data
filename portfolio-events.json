@@ -4187,6 +4187,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Alpha Integrated REIT",
+      "currency": "SGD",
+      "eventDate": "2026-10-22",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-M1GU-2026-10-22",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "M1GU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "AMERICAN AIRLINES GROUP INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-10-22",
@@ -6988,6 +7003,21 @@
       "recordDate": "2026-10-09",
       "source": "Nasdaq Calendar",
       "symbol": "SAIC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0675,
+      "companyName": "Medalist Diversified, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-23",
+      "exDate": "2026-10-16",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MDRR-2026-10-23",
+      "market": "US",
+      "paymentDate": "2026-10-23",
+      "recordDate": "2026-10-16",
+      "source": "Nasdaq Calendar",
+      "symbol": "MDRR",
       "type": "dividend"
     },
     {
@@ -11158,6 +11188,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "CMOU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Landmark REIT",
+      "currency": "SGD",
+      "eventDate": "2026-10-28",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-D5IU-2026-10-28",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "D5IU.SI",
       "type": "earnings"
     },
     {
@@ -46381,5 +46426,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-10-08T03:18:48.940858+00:00"
+  "updated_at": "2026-10-08T12:23:12.201229+00:00"
 }
