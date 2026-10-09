@@ -19036,6 +19036,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.0175255,
+      "companyName": "VersaBank Common Shares",
+      "currency": "USD",
+      "eventDate": "2026-10-31",
+      "exDate": "2026-10-09",
+      "fiscalPeriod": null,
+      "id": "us-dividend-VBNK-2026-10-31",
+      "market": "US",
+      "paymentDate": "2026-10-31",
+      "recordDate": "2026-10-09",
+      "source": "Nasdaq Calendar",
+      "symbol": "VBNK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.5,
       "companyName": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
       "currency": "USD",
@@ -26473,6 +26488,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "9CI.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Acro HTrust USD",
+      "currency": "SGD",
+      "eventDate": "2026-11-04",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-XZL-2026-11-04",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "XZL.SI",
       "type": "earnings"
     },
     {
@@ -45856,6 +45886,81 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.01,
+      "companyName": "Diversified Healthcare Trust Common Shares of Beneficial Interest",
+      "currency": "USD",
+      "eventDate": "2026-11-12",
+      "exDate": "2026-10-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-DHC-2026-11-12",
+      "market": "US",
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "DHC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.1,
+      "companyName": "Industrial Logistics Properties Trust Common Shares of Beneficial Interest",
+      "currency": "USD",
+      "eventDate": "2026-11-12",
+      "exDate": "2026-10-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ILPT-2026-11-12",
+      "market": "US",
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "ILPT",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.05,
+      "companyName": "Service Properties Trust Common Shares of Beneficial Interest",
+      "currency": "USD",
+      "eventDate": "2026-11-12",
+      "exDate": "2026-10-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SVC-2026-11-12",
+      "market": "US",
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "SVC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.28,
+      "companyName": "Seven Hills Realty Trust Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-12",
+      "exDate": "2026-10-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SEVN-2026-11-12",
+      "market": "US",
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "SEVN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.45,
+      "companyName": "The RMR Group Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-12",
+      "exDate": "2026-10-19",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RMR-2026-11-12",
+      "market": "US",
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-19",
+      "source": "Nasdaq Calendar",
+      "symbol": "RMR",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.25,
       "companyName": "NorthEast Community Bancorp, Inc. Common Stock",
       "currency": "USD",
@@ -46276,5 +46381,5 @@
       "type": "dividend"
     }
   ],
-  "updated_at": "2026-10-09T03:24:42.122486+00:00"
+  "updated_at": "2026-10-09T12:13:35.331443+00:00"
 }
