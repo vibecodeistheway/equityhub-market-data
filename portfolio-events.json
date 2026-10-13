@@ -6557,6 +6557,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Micro-Mechanics",
+      "currency": "SGD",
+      "eventDate": "2026-10-26",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-5DD-2026-10-26",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "5DD.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "AGILYSYS INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-10-26",
@@ -50057,6 +50072,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "SIA",
+      "currency": "SGD",
+      "eventDate": "2026-11-11",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-C6L-2026-11-11",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "C6L.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ATA CREATIVITY GLOBAL",
       "currency": "USD",
       "eventDate": "2026-11-11",
@@ -60301,5 +60331,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-13T04:14:45.972476+00:00"
+  "updated_at": "2026-10-13T13:05:05.638461+00:00"
 }
