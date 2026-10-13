@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T23:53:08+00:00",
+  "updated_at": "2026-10-13T04:13:31+00:00",
   "shiller_pe": 41.85,
   "us_gdp_trillions": 32.49,
   "inflation_yoy": 3.4,
@@ -2810,12 +2810,12 @@
     }
   ],
   "fear_greed": {
-    "score": 45.7428571428571,
+    "score": 45.4,
     "rating": "neutral",
-    "previous_close": 45.0,
-    "previous_1_week": 43.7142857142857,
+    "previous_close": 45.7428571428571,
+    "previous_1_week": 46.8,
     "previous_1_month": 32.6857142857143,
-    "previous_1_year": 30.14285714285714
+    "previous_1_year": 29.74285714285714
   },
   "taiwan_exports_yoy": 60.87,
   "taiwan_ict_exports_yoy": 72.63,
