@@ -7321,7 +7321,7 @@
       "type": "earnings"
     },
     {
-      "amountPerShare": 3.1386,
+      "amountPerShare": 3.1384,
       "companyName": "Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN",
       "currency": "USD",
       "eventDate": "2026-10-26",
@@ -7336,7 +7336,7 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 1.9854,
+      "amountPerShare": 1.9853,
       "companyName": "Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",
       "currency": "USD",
       "eventDate": "2026-10-26",
@@ -7351,7 +7351,7 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 1.701,
+      "amountPerShare": 1.7009,
       "companyName": "Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",
       "currency": "USD",
       "eventDate": "2026-10-26",
@@ -45361,6 +45361,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.25,
+      "companyName": "Coca-Cola Consolidated, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-06",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-COKE-2026-11-06",
+      "market": "US",
+      "paymentDate": "2026-11-06",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "COKE",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.17,
       "companyName": "Herzfeld Credit Income Fund, Inc. Common Stock",
       "currency": "USD",
@@ -63616,5 +63631,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-14T02:27:25.165134+00:00"
+  "updated_at": "2026-10-14T10:46:33.750286+00:00"
 }
