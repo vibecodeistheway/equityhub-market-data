@@ -12992,6 +12992,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "Info-Tech",
+      "currency": "SGD",
+      "eventDate": "2026-10-29",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-ITS-2026-10-29",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "ITS.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ULTRAGREEN AI SGD",
       "currency": "SGD",
       "eventDate": "2026-10-29",
@@ -26608,6 +26623,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "9CI.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "ManulifeReit USD",
+      "currency": "SGD",
+      "eventDate": "2026-11-04",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-BTOU-2026-11-04",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "BTOU.SI",
       "type": "earnings"
     },
     {
@@ -43288,6 +43318,21 @@
       "recordDate": null,
       "source": "InvestingNote",
       "symbol": "BWQU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "AvePoint",
+      "currency": "SGD",
+      "eventDate": "2026-11-06",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-AVP-2026-11-06",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "AVP.SI",
       "type": "earnings"
     },
     {
@@ -63421,5 +63466,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-15T10:29:22.405510+00:00"
+  "updated_at": "2026-10-15T15:53:50.685395+00:00"
 }
