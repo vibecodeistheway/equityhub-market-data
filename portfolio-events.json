@@ -19036,6 +19036,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.15,
+      "companyName": "ArrowMark Financial Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BANX-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "BANX",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.26,
+      "companyName": "First Busey Corporation Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BUSE-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "BUSE",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.00516,
       "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
       "currency": "USD",
@@ -43171,6 +43201,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.52,
+      "companyName": "Lakeland Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-05",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LKFN-2026-11-05",
+      "market": "US",
+      "paymentDate": "2026-11-05",
+      "recordDate": "2026-10-25",
+      "source": "Nasdaq Calendar",
+      "symbol": "LKFN",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "Frasers Property Limited",
       "currency": "SGD",
@@ -62671,6 +62716,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.77,
+      "companyName": "Kaiser Aluminum Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-13",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-KALU-2026-11-13",
+      "market": "US",
+      "paymentDate": "2026-11-13",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "KALU",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "SS SPDR DJIA ETF TRUST",
       "currency": "SGD",
@@ -62833,6 +62893,21 @@
       "recordDate": "2026-10-22",
       "source": "Nasdaq Calendar",
       "symbol": "APA",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.26,
+      "companyName": "Fastenal Company Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": "2026-10-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FAST-2026-11-25",
+      "market": "US",
+      "paymentDate": "2026-11-25",
+      "recordDate": "2026-10-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "FAST",
       "type": "dividend"
     },
     {
@@ -63346,5 +63421,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-15T02:08:26.592644+00:00"
+  "updated_at": "2026-10-15T10:29:22.405510+00:00"
 }
