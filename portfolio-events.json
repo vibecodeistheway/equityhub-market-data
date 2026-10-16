@@ -18421,6 +18421,126 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.15,
+      "companyName": "Gladstone Capital Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GLAD-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "GLAD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.125,
+      "companyName": "Gladstone Commercial Corporation 6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GOODO-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "GOODO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.138021,
+      "companyName": "Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GOODN-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "GOODN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.1,
+      "companyName": "Gladstone Commercial Corporation Real Estate Investment Trust",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GOOD-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "GOOD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.08,
+      "companyName": "Gladstone Investment Corporation Business Development Company",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GAIN-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "GAIN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.125,
+      "companyName": "Gladstone Land Corporation 6.00% Series B Cumulative Redeemable Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LANDO-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "LANDO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.125,
+      "companyName": "Gladstone Land Corporation 6.00% Series C Cumulative Redeemable Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LANDP-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "LANDP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0467,
+      "companyName": "Gladstone Land Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LAND-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "LAND",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.00516,
       "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
       "currency": "USD",
@@ -20971,7 +21091,7 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 0.00516,
+      "amountPerShare": 0.00614,
       "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
       "currency": "USD",
       "eventDate": "2026-11-02",
@@ -62236,6 +62356,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.1,
+      "companyName": "Entegris, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-18",
+      "exDate": "2026-10-28",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ENTG-2026-11-18",
+      "market": "US",
+      "paymentDate": "2026-11-18",
+      "recordDate": "2026-10-28",
+      "source": "Nasdaq Calendar",
+      "symbol": "ENTG",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.035,
       "companyName": "Prospect Capital Corporation Common Stock",
       "currency": "USD",
@@ -62308,6 +62443,21 @@
       "recordDate": "2026-10-22",
       "source": "Nasdaq Calendar",
       "symbol": "APA",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 1.19,
+      "companyName": "Paychex, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": "2026-10-26",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PAYX-2026-11-25",
+      "market": "US",
+      "paymentDate": "2026-11-25",
+      "recordDate": "2026-10-26",
+      "source": "Nasdaq Calendar",
+      "symbol": "PAYX",
       "type": "dividend"
     },
     {
@@ -62896,5 +63046,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-16T01:58:45.293673+00:00"
+  "updated_at": "2026-10-16T10:17:20.559132+00:00"
 }
