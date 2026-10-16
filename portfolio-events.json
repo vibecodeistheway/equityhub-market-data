@@ -12542,6 +12542,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "StarhillGbl Reit",
+      "currency": "SGD",
+      "eventDate": "2026-10-29",
+      "exDate": null,
+      "fiscalPeriod": "1Q",
+      "id": "sg-earnings-P40U-2026-10-29",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "P40U.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "Info-Tech",
       "currency": "SGD",
       "eventDate": "2026-10-29",
@@ -25978,6 +25993,21 @@
       "recordDate": null,
       "source": "Beansprout",
       "symbol": "9CI.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "UOB",
+      "currency": "SGD",
+      "eventDate": "2026-11-04",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-U11-2026-11-04",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "U11.SI",
       "type": "earnings"
     },
     {
@@ -49022,6 +49052,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "NTT DC REIT USD",
+      "currency": "SGD",
+      "eventDate": "2026-11-11",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-NTDU-2026-11-11",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "NTDU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ATA CREATIVITY GLOBAL",
       "currency": "USD",
       "eventDate": "2026-11-11",
@@ -58547,6 +58592,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "UtdHampshReitUSD",
+      "currency": "SGD",
+      "eventDate": "2026-11-13",
+      "exDate": null,
+      "fiscalPeriod": "3Q",
+      "id": "sg-earnings-ODBU-2026-11-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "ODBU.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ATLANTIC AMERICAN CORPORATION",
       "currency": "USD",
       "eventDate": "2026-11-13",
@@ -63046,5 +63106,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-16T10:17:20.559132+00:00"
+  "updated_at": "2026-10-16T15:42:13.350930+00:00"
 }
