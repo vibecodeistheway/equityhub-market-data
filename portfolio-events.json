@@ -25966,6 +25966,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.03,
+      "companyName": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-03",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STRC-2026-11-03",
+      "market": "US",
+      "paymentDate": "2026-11-03",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "STRC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "CapitaLand Investment Limited",
       "currency": "SGD",
@@ -33943,6 +33958,21 @@
       "recordDate": "2026-10-20",
       "source": "Nasdaq Calendar",
       "symbol": "APOG",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 2.107668,
+      "companyName": "ASML Holding N.V. New York Registry Shares",
+      "currency": "USD",
+      "eventDate": "2026-11-04",
+      "exDate": "2026-10-27",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ASML-2026-11-04",
+      "market": "US",
+      "paymentDate": "2026-11-04",
+      "recordDate": "2026-10-27",
+      "source": "Nasdaq Calendar",
+      "symbol": "ASML",
       "type": "dividend"
     },
     {
@@ -48676,6 +48706,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 1.52,
+      "companyName": "Texas Instruments Incorporated Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-10",
+      "exDate": "2026-10-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TXN-2026-11-10",
+      "market": "US",
+      "paymentDate": "2026-11-10",
+      "recordDate": "2026-10-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "TXN",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US CPI Release",
       "currency": null,
@@ -58081,6 +58126,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.07,
+      "companyName": "NB Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-12",
+      "exDate": "2026-10-29",
+      "fiscalPeriod": null,
+      "id": "us-dividend-NBBK-2026-11-12",
+      "market": "US",
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-29",
+      "source": "Nasdaq Calendar",
+      "symbol": "NBBK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "United Hampshire US REIT",
       "currency": "SGD",
@@ -65101,5 +65161,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-19T02:09:51.261224+00:00"
+  "updated_at": "2026-10-19T11:26:36.014638+00:00"
 }
