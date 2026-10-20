@@ -20821,6 +20821,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.0571,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-02",
+      "exDate": "2026-10-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-11-02",
+      "market": "US",
+      "paymentDate": "2026-11-02",
+      "recordDate": "2026-10-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "SIA Engineering Company Limited",
       "currency": "SGD",
@@ -25456,6 +25471,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.00614,
+      "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-03",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHAD-2026-11-03",
+      "market": "US",
+      "paymentDate": "2026-11-03",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHAD",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.03,
       "companyName": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
       "currency": "USD",
@@ -25468,6 +25498,21 @@
       "recordDate": "2026-11-02",
       "source": "Nasdaq Calendar",
       "symbol": "STRC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0571,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-03",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-11-03",
+      "market": "US",
+      "paymentDate": "2026-11-03",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
       "type": "dividend"
     },
     {
@@ -33478,6 +33523,36 @@
       "recordDate": "2026-10-27",
       "source": "Nasdaq Calendar",
       "symbol": "ASML",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.00614,
+      "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-04",
+      "exDate": "2026-11-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHAD-2026-11-04",
+      "market": "US",
+      "paymentDate": "2026-11-04",
+      "recordDate": "2026-11-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHAD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0571,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-04",
+      "exDate": "2026-11-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-11-04",
+      "market": "US",
+      "paymentDate": "2026-11-04",
+      "recordDate": "2026-11-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
       "type": "dividend"
     },
     {
@@ -46996,6 +47071,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.25,
+      "companyName": "Five Star Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-09",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FSBC-2026-11-09",
+      "market": "US",
+      "paymentDate": "2026-11-09",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "FSBC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.005,
       "companyName": "CHUAN HUP HOLDINGS LIMITED",
       "currency": "SGD",
@@ -48194,6 +48284,21 @@
       "source": "Alpha Vantage",
       "symbol": "ZENA",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.35,
+      "companyName": "Value Line, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-10",
+      "exDate": "2026-10-26",
+      "fiscalPeriod": null,
+      "id": "us-dividend-VALU-2026-11-10",
+      "market": "US",
+      "paymentDate": "2026-11-10",
+      "recordDate": "2026-10-26",
+      "source": "Nasdaq Calendar",
+      "symbol": "VALU",
+      "type": "dividend"
     },
     {
       "amountPerShare": 0.12,
@@ -57586,6 +57691,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.63,
+      "companyName": "Hingham Institution for Savings Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-12",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HIFS-2026-11-12",
+      "market": "US",
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "HIFS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "Frasers Property Limited",
       "currency": "SGD",
@@ -61231,6 +61351,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 1.47,
+      "companyName": "Costco Wholesale Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-13",
+      "exDate": "2026-10-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-COST-2026-11-13",
+      "market": "US",
+      "paymentDate": "2026-11-13",
+      "recordDate": "2026-10-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "COST",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0425,
       "companyName": "Lifetime Brands, Inc. Common Stock",
       "currency": "USD",
@@ -62026,6 +62161,51 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.07,
+      "companyName": "FVCBankcorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-16",
+      "exDate": "2026-10-26",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FVCB-2026-11-16",
+      "market": "US",
+      "paymentDate": "2026-11-16",
+      "recordDate": "2026-10-26",
+      "source": "Nasdaq Calendar",
+      "symbol": "FVCB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.535,
+      "companyName": "Alliant Energy Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-16",
+      "exDate": "2026-10-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LNT-2026-11-16",
+      "market": "US",
+      "paymentDate": "2026-11-16",
+      "recordDate": "2026-10-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "LNT",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.4688,
+      "companyName": "First Merchants Corporation Depository Shares",
+      "currency": "USD",
+      "eventDate": "2026-11-16",
+      "exDate": "2026-10-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FRMEP-2026-11-16",
+      "market": "US",
+      "paymentDate": "2026-11-16",
+      "recordDate": "2026-10-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "FRMEP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.28906,
       "companyName": "Bank OZK 4.625% Series A Non-Cumulative Perpetual Preferred Stock",
       "currency": "USD",
@@ -62038,6 +62218,36 @@
       "recordDate": "2026-11-02",
       "source": "Nasdaq Calendar",
       "symbol": "OZKAP",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.1925,
+      "companyName": "Donegal Group, Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-16",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-DGICA-2026-11-16",
+      "market": "US",
+      "paymentDate": "2026-11-16",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "DGICA",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.175,
+      "companyName": "Donegal Group, Inc. Class B Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-16",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-DGICB-2026-11-16",
+      "market": "US",
+      "paymentDate": "2026-11-16",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "DGICB",
       "type": "dividend"
     },
     {
@@ -65401,5 +65611,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-20T02:25:02.754240+00:00"
+  "updated_at": "2026-10-20T10:33:06.581774+00:00"
 }
