@@ -17311,6 +17311,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.225,
+      "companyName": "First Trust Senior Loan Fund",
+      "currency": "USD",
+      "eventDate": "2026-10-30",
+      "exDate": "2026-10-21",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FTSL-2026-10-30",
+      "market": "US",
+      "paymentDate": "2026-10-30",
+      "recordDate": "2026-10-21",
+      "source": "Nasdaq Calendar",
+      "symbol": "FTSL",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.15,
       "companyName": "ArrowMark Financial Corp. Common Stock",
       "currency": "USD",
@@ -42961,6 +42976,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.29,
+      "companyName": "West Coast Community Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-06",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WCCB-2026-11-06",
+      "market": "US",
+      "paymentDate": "2026-11-06",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "WCCB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 8.13,
+      "companyName": "Indivior Pharmaceuticals, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-06",
+      "exDate": "2026-11-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-INDV-2026-11-06",
+      "market": "US",
+      "paymentDate": "2026-11-06",
+      "recordDate": "2026-10-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "INDV",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "US Jobs Report (Nonfarm Payrolls)",
       "currency": null,
@@ -56836,6 +56881,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.16,
+      "companyName": "RBB Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-12",
+      "exDate": "2026-10-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RBB-2026-11-12",
+      "market": "US",
+      "paymentDate": "2026-11-12",
+      "recordDate": "2026-10-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "RBB",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.63,
       "companyName": "Hingham Institution for Savings Common Stock",
       "currency": "USD",
@@ -60556,6 +60616,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.32,
+      "companyName": "Home Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-13",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HBCP-2026-11-13",
+      "market": "US",
+      "paymentDate": "2026-11-13",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "HBCP",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.11404,
       "companyName": "SS SPDR DJIA ETF TRUST",
       "currency": "USD",
@@ -61393,6 +61468,21 @@
       "recordDate": "2026-11-02",
       "source": "Nasdaq Calendar",
       "symbol": "DGICB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.42,
+      "companyName": "Peoples Bancorp Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-16",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PEBO-2026-11-16",
+      "market": "US",
+      "paymentDate": "2026-11-16",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "PEBO",
       "type": "dividend"
     },
     {
@@ -64951,5 +65041,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-21T02:18:32.014949+00:00"
+  "updated_at": "2026-10-21T10:46:09.492624+00:00"
 }
