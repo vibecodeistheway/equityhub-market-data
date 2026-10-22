@@ -45106,6 +45106,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.08,
+      "companyName": "Old Second Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-09",
+      "exDate": "2026-10-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OSBC-2026-11-09",
+      "market": "US",
+      "paymentDate": "2026-11-09",
+      "recordDate": "2026-10-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "OSBC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.25,
       "companyName": "Five Star Bancorp Common Stock",
       "currency": "USD",
@@ -46426,6 +46441,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.25,
+      "companyName": "Ohio Valley Banc Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-10",
+      "exDate": "2026-10-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OVBC-2026-11-10",
+      "market": "US",
+      "paymentDate": "2026-11-10",
+      "recordDate": "2026-10-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "OVBC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 1.52,
       "companyName": "Texas Instruments Incorporated Common Stock",
       "currency": "USD",
@@ -46438,6 +46468,21 @@
       "recordDate": "2026-10-30",
       "source": "Nasdaq Calendar",
       "symbol": "TXN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3,
+      "companyName": "Orrstown Financial Services, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-10",
+      "exDate": "2026-11-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ORRF-2026-11-10",
+      "market": "US",
+      "paymentDate": "2026-11-10",
+      "recordDate": "2026-11-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "ORRF",
       "type": "dividend"
     },
     {
@@ -62881,6 +62926,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.575,
+      "companyName": "Silicon Motion Technology Corporation American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-11-19",
+      "exDate": "2026-11-05",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SIMO-2026-11-19",
+      "market": "US",
+      "paymentDate": "2026-11-19",
+      "recordDate": "2026-11-05",
+      "source": "Nasdaq Calendar",
+      "symbol": "SIMO",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "AZENTA INCORPORATED",
       "currency": "USD",
@@ -63796,5 +63856,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-22T02:13:07.624568+00:00"
+  "updated_at": "2026-10-22T10:47:03.450698+00:00"
 }
