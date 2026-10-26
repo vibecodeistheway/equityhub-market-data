@@ -42226,6 +42226,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.27,
+      "companyName": "Sierra Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-09",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BSRR-2026-11-09",
+      "market": "US",
+      "paymentDate": "2026-11-09",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "BSRR",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.00614,
       "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
       "currency": "USD",
@@ -47969,6 +47984,21 @@
       "source": "Alpha Vantage",
       "symbol": "YTRA",
       "type": "earnings"
+    },
+    {
+      "amountPerShare": 0.09,
+      "companyName": "Lake Shore Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-11",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LSBK-2026-11-11",
+      "market": "US",
+      "paymentDate": "2026-11-11",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "LSBK",
+      "type": "dividend"
     },
     {
       "amountPerShare": 0.0011,
@@ -56476,6 +56506,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.48,
+      "companyName": "Westamerica Bancorporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-13",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WABC-2026-11-13",
+      "market": "US",
+      "paymentDate": "2026-11-13",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "WABC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.28,
       "companyName": "Independent Bank Corporation Common Stock",
       "currency": "USD",
@@ -57361,6 +57406,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.03,
+      "companyName": "AmeriServ Financial Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-16",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ASRV-2026-11-16",
+      "market": "US",
+      "paymentDate": "2026-11-16",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "ASRV",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.28906,
       "companyName": "Bank OZK 4.625% Series A Non-Cumulative Perpetual Preferred Stock",
       "currency": "USD",
@@ -57433,6 +57493,21 @@
       "recordDate": "2026-11-02",
       "source": "Nasdaq Calendar",
       "symbol": "PEBO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.19,
+      "companyName": "South Plains Financial, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-16",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SPFI-2026-11-16",
+      "market": "US",
+      "paymentDate": "2026-11-16",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "SPFI",
       "type": "dividend"
     },
     {
@@ -58168,6 +58243,21 @@
       "recordDate": "2026-11-02",
       "source": "Nasdaq Calendar",
       "symbol": "EWBC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.18,
+      "companyName": "Civista Bancshares, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-17",
+      "exDate": "2026-11-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CIVB-2026-11-17",
+      "market": "US",
+      "paymentDate": "2026-11-17",
+      "recordDate": "2026-11-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "CIVB",
       "type": "dividend"
     },
     {
@@ -60181,6 +60271,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.17,
+      "companyName": "Amalgamated Financial Corp. Common Stock (DE)",
+      "currency": "USD",
+      "eventDate": "2026-11-19",
+      "exDate": "2026-11-03",
+      "fiscalPeriod": null,
+      "id": "us-dividend-AMAL-2026-11-19",
+      "market": "US",
+      "paymentDate": "2026-11-19",
+      "recordDate": "2026-11-03",
+      "source": "Nasdaq Calendar",
+      "symbol": "AMAL",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.14,
       "companyName": "OP Bancorp Common Stock",
       "currency": "USD",
@@ -60208,6 +60313,21 @@
       "recordDate": "2026-11-05",
       "source": "Nasdaq Calendar",
       "symbol": "SIMO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.55,
+      "companyName": "Wintrust Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-19",
+      "exDate": "2026-11-05",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WTFC-2026-11-19",
+      "market": "US",
+      "paymentDate": "2026-11-19",
+      "recordDate": "2026-11-05",
+      "source": "Nasdaq Calendar",
+      "symbol": "WTFC",
       "type": "dividend"
     },
     {
@@ -60478,6 +60598,36 @@
       "recordDate": "2026-11-06",
       "source": "Nasdaq Calendar",
       "symbol": "JBHT",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.1,
+      "companyName": "Primis Financial Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-20",
+      "exDate": "2026-11-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FRST-2026-11-20",
+      "market": "US",
+      "paymentDate": "2026-11-20",
+      "recordDate": "2026-11-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "FRST",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.2,
+      "companyName": "WSFS Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-20",
+      "exDate": "2026-11-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WSFS-2026-11-20",
+      "market": "US",
+      "paymentDate": "2026-11-20",
+      "recordDate": "2026-11-06",
+      "source": "Nasdaq Calendar",
+      "symbol": "WSFS",
       "type": "dividend"
     },
     {
@@ -62626,5 +62776,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-10-26T02:05:38.362615+00:00"
+  "updated_at": "2026-10-26T11:44:43.028704+00:00"
 }
