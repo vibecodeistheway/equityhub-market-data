@@ -13966,6 +13966,36 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.48,
+      "companyName": "PIMCO Inflation PLUS Active Exchange-Traded Fund",
+      "currency": "USD",
+      "eventDate": "2026-11-04",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PCPI-2026-11-04",
+      "market": "US",
+      "paymentDate": "2026-11-04",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "PCPI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.185,
+      "companyName": "PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund",
+      "currency": "USD",
+      "eventDate": "2026-11-04",
+      "exDate": "2026-11-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PMBS-2026-11-04",
+      "market": "US",
+      "paymentDate": "2026-11-04",
+      "recordDate": "2026-11-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "PMBS",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.00614,
       "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
       "currency": "USD",
@@ -40112,6 +40142,51 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "KSH",
+      "currency": "SGD",
+      "eventDate": "2026-11-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-ER0-2026-11-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "ER0.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Singtel",
+      "currency": "SGD",
+      "eventDate": "2026-11-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-Z74-2026-11-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "Z74.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "Singtel 10",
+      "currency": "SGD",
+      "eventDate": "2026-11-13",
+      "exDate": null,
+      "fiscalPeriod": "1H",
+      "id": "sg-earnings-Z77-2026-11-13",
+      "market": "SG",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "InvestingNote",
+      "symbol": "Z77.SI",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ATLANTIC AMERICAN CORPORATION",
       "currency": "USD",
       "eventDate": "2026-11-13",
@@ -47566,6 +47641,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.14,
+      "companyName": "Medallion Financial Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-19",
+      "exDate": "2026-11-09",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MFIN-2026-11-19",
+      "market": "US",
+      "paymentDate": "2026-11-19",
+      "recordDate": "2026-11-09",
+      "source": "Nasdaq Calendar",
+      "symbol": "MFIN",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "BJ'S WHOLESALE CLUB HOLDINGS INCORPORATED",
       "currency": "USD",
@@ -47866,6 +47956,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.14,
+      "companyName": "Hope Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-20",
+      "exDate": "2026-11-06",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HOPE-2026-11-20",
+      "market": "US",
+      "paymentDate": "2026-11-20",
+      "recordDate": "2026-11-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "HOPE",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.45,
       "companyName": "J.B. Hunt Transport Services, Inc. Common Stock",
       "currency": "USD",
@@ -47927,6 +48032,21 @@
     },
     {
       "amountPerShare": 0.2,
+      "companyName": "Bankwell Financial Group, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-20",
+      "exDate": "2026-11-09",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BWFG-2026-11-20",
+      "market": "US",
+      "paymentDate": "2026-11-20",
+      "recordDate": "2026-11-09",
+      "source": "Nasdaq Calendar",
+      "symbol": "BWFG",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.2,
       "companyName": "OceanFirst Financial Corp. Common Stock",
       "currency": "USD",
       "eventDate": "2026-11-20",
@@ -47968,6 +48088,21 @@
       "recordDate": "2026-11-10",
       "source": "Nasdaq Calendar",
       "symbol": "GABC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.22,
+      "companyName": "PCB Bancorp Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-20",
+      "exDate": "2026-11-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PCB-2026-11-20",
+      "market": "US",
+      "paymentDate": "2026-11-20",
+      "recordDate": "2026-11-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "PCB",
       "type": "dividend"
     },
     {
@@ -48508,6 +48643,36 @@
       "recordDate": "2026-11-09",
       "source": "Nasdaq Calendar",
       "symbol": "TPG",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3,
+      "companyName": "Arrow Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-23",
+      "exDate": "2026-11-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-AROW-2026-11-23",
+      "market": "US",
+      "paymentDate": "2026-11-23",
+      "recordDate": "2026-11-11",
+      "source": "Nasdaq Calendar",
+      "symbol": "AROW",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.5,
+      "companyName": "FTAI Aviation Ltd. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-23",
+      "exDate": "2026-11-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FTAI-2026-11-23",
+      "market": "US",
+      "paymentDate": "2026-11-23",
+      "recordDate": "2026-11-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "FTAI",
       "type": "dividend"
     },
     {
@@ -49531,6 +49696,36 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.28,
+      "companyName": "Hanmi Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": "2026-11-09",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HAFC-2026-11-25",
+      "market": "US",
+      "paymentDate": "2026-11-25",
+      "recordDate": "2026-11-09",
+      "source": "Nasdaq Calendar",
+      "symbol": "HAFC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.05,
+      "companyName": "Columbia Financial, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": "2026-11-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CLBK-2026-11-25",
+      "market": "US",
+      "paymentDate": "2026-11-25",
+      "recordDate": "2026-11-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "CLBK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.2,
       "companyName": "Hawkins, Inc. Common Stock",
       "currency": "USD",
@@ -49543,6 +49738,21 @@
       "recordDate": "2026-11-11",
       "source": "Nasdaq Calendar",
       "symbol": "HWKN",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.15,
+      "companyName": "Hennessy Advisors, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": "2026-11-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HNNA-2026-11-25",
+      "market": "US",
+      "paymentDate": "2026-11-25",
+      "recordDate": "2026-11-10",
+      "source": "Nasdaq Calendar",
+      "symbol": "HNNA",
       "type": "dividend"
     },
     {
@@ -49588,6 +49798,21 @@
       "recordDate": "2026-11-11",
       "source": "Nasdaq Calendar",
       "symbol": "POOL",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.4,
+      "companyName": "Princeton Bancorp, Inc. Common Stock (PA)",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": "2026-11-10",
+      "fiscalPeriod": null,
+      "id": "us-dividend-BPRN-2026-11-25",
+      "market": "US",
+      "paymentDate": "2026-11-25",
+      "recordDate": "2026-11-11",
+      "source": "Nasdaq Calendar",
+      "symbol": "BPRN",
       "type": "dividend"
     },
     {
@@ -49648,6 +49873,51 @@
       "recordDate": "2026-11-12",
       "source": "Nasdaq Calendar",
       "symbol": "DRS",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3125,
+      "companyName": "Smithfield Foods, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": "2026-11-12",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SFD-2026-11-25",
+      "market": "US",
+      "paymentDate": "2026-11-25",
+      "recordDate": "2026-11-12",
+      "source": "Nasdaq Calendar",
+      "symbol": "SFD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.33,
+      "companyName": "Cognizant Technology Solutions Corporation Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": "2026-11-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CTSH-2026-11-25",
+      "market": "US",
+      "paymentDate": "2026-11-25",
+      "recordDate": "2026-11-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "CTSH",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.15,
+      "companyName": "Willis Lease Finance Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": "2026-11-16",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WLFC-2026-11-25",
+      "market": "US",
+      "paymentDate": "2026-11-25",
+      "recordDate": "2026-11-16",
+      "source": "Nasdaq Calendar",
+      "symbol": "WLFC",
       "type": "dividend"
     },
     {
@@ -49876,6 +50146,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.05,
+      "companyName": "Peapack-Gladstone Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-27",
+      "exDate": "2026-11-12",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PGC-2026-11-27",
+      "market": "US",
+      "paymentDate": "2026-11-27",
+      "recordDate": "2026-11-12",
+      "source": "Nasdaq Calendar",
+      "symbol": "PGC",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.38,
       "companyName": "S&T Bancorp, Inc. Common Stock",
       "currency": "USD",
@@ -49888,6 +50173,21 @@
       "recordDate": "2026-11-12",
       "source": "Nasdaq Calendar",
       "symbol": "STBA",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.31,
+      "companyName": "Timberland Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-27",
+      "exDate": "2026-11-12",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TSBK-2026-11-27",
+      "market": "US",
+      "paymentDate": "2026-11-27",
+      "recordDate": "2026-11-12",
+      "source": "Nasdaq Calendar",
+      "symbol": "TSBK",
       "type": "dividend"
     },
     {
@@ -49951,18 +50251,18 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 0.12,
-      "companyName": "MGP Ingredients, Inc.",
+      "amountPerShare": 0.2,
+      "companyName": "iRadimed Corporation Common Stock",
       "currency": "USD",
       "eventDate": "2026-11-27",
       "exDate": "2026-11-13",
       "fiscalPeriod": null,
-      "id": "us-dividend-MGPI-2026-11-27",
+      "id": "us-dividend-IRMD-2026-11-27",
       "market": "US",
       "paymentDate": "2026-11-27",
       "recordDate": "2026-11-13",
       "source": "Nasdaq Calendar",
-      "symbol": "MGPI",
+      "symbol": "IRMD",
       "type": "dividend"
     },
     {
@@ -50068,6 +50368,21 @@
       "recordDate": "2026-11-02",
       "source": "Nasdaq Calendar",
       "symbol": "NVEC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.34,
+      "companyName": "First Business Financial Services, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-30",
+      "exDate": "2026-11-12",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FBIZ-2026-11-30",
+      "market": "US",
+      "paymentDate": "2026-11-30",
+      "recordDate": "2026-11-12",
+      "source": "Nasdaq Calendar",
+      "symbol": "FBIZ",
       "type": "dividend"
     },
     {
@@ -50278,6 +50593,21 @@
       "recordDate": "2026-11-16",
       "source": "Nasdaq Calendar",
       "symbol": "OXSQ",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.23,
+      "companyName": "Reynolds Consumer Products Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-30",
+      "exDate": "2026-11-16",
+      "fiscalPeriod": null,
+      "id": "us-dividend-REYN-2026-11-30",
+      "market": "US",
+      "paymentDate": "2026-11-30",
+      "recordDate": "2026-11-16",
+      "source": "Nasdaq Calendar",
+      "symbol": "REYN",
       "type": "dividend"
     },
     {
@@ -50668,6 +50998,21 @@
       "recordDate": "2026-11-15",
       "source": "Nasdaq Calendar",
       "symbol": "DHCNL",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.2,
+      "companyName": "Esquire Financial Holdings, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-01",
+      "exDate": "2026-11-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-ESQ-2026-12-01",
+      "market": "US",
+      "paymentDate": "2026-12-01",
+      "recordDate": "2026-11-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "ESQ",
       "type": "dividend"
     },
     {
@@ -51241,6 +51586,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.4,
+      "companyName": "Honeywell Aerospace Inc. Common Stock ",
+      "currency": "USD",
+      "eventDate": "2026-12-04",
+      "exDate": "2026-11-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-HONA-2026-12-04",
+      "market": "US",
+      "paymentDate": "2026-12-04",
+      "recordDate": "2026-11-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "HONA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.7,
       "companyName": "Honeywell International Inc. Common Stock",
       "currency": "USD",
@@ -51253,6 +51613,21 @@
       "recordDate": "2026-11-13",
       "source": "Nasdaq Calendar",
       "symbol": "HON",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.13,
+      "companyName": "OneSpan Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-04",
+      "exDate": "2026-11-13",
+      "fiscalPeriod": null,
+      "id": "us-dividend-OSPN-2026-12-04",
+      "market": "US",
+      "paymentDate": "2026-12-04",
+      "recordDate": "2026-11-13",
+      "source": "Nasdaq Calendar",
+      "symbol": "OSPN",
       "type": "dividend"
     },
     {
@@ -52096,5 +52471,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-11-02T03:02:26.372644+00:00"
+  "updated_at": "2026-11-02T14:01:00.228162+00:00"
 }
