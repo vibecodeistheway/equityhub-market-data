@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T13:31:27+00:00",
-  "shiller_pe": 40.09,
+  "updated_at": "2026-11-13T22:57:50+00:00",
+  "shiller_pe": 39.95,
   "us_gdp_trillions": 33.01,
   "inflation_yoy": 3.74,
   "shiller_pe_history": [
@@ -1201,8 +1201,8 @@
       "v": 39.82
     },
     {
-      "d": "2026-11-12",
-      "v": 40.09
+      "d": "2026-11-13",
+      "v": 39.95
     }
   ],
   "inflation_history": [
@@ -2810,7 +2810,7 @@
     }
   ],
   "fear_greed": {
-    "score": 38.8285714285714,
+    "score": 38.6,
     "rating": "fear",
     "previous_close": 39.8285714285714,
     "previous_1_week": 24.3531746031746,
@@ -4769,7 +4769,7 @@
     }
   ],
   "errors": [
-    "inflation_yoy (BLS): HTTP Error 503: Service Unavailable",
+    "inflation_yoy (BLS): could not convert string to float: '-'",
     "truflation: "
   ]
 }
