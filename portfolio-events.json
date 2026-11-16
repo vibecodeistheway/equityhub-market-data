@@ -7966,6 +7966,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 13.9,
+      "companyName": "Rallybio Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-11-30",
+      "exDate": "2026-11-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RLYB-2026-11-30",
+      "market": "US",
+      "paymentDate": "2026-11-30",
+      "recordDate": "2026-11-05",
+      "source": "Nasdaq Calendar",
+      "symbol": "RLYB",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 1.57,
       "companyName": "Slide Insurance Holdings, Inc. Common Stock",
       "currency": "USD",
@@ -8353,21 +8368,6 @@
       "recordDate": "2026-11-16",
       "source": "Nasdaq Calendar",
       "symbol": "SIGI",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.67,
-      "companyName": "NorthWestern Energy Group, Inc. Common Stock",
-      "currency": "USD",
-      "eventDate": "2026-12-01",
-      "exDate": "2026-11-17",
-      "fiscalPeriod": null,
-      "id": "us-dividend-NWE-2026-12-01",
-      "market": "US",
-      "paymentDate": "2026-12-01",
-      "recordDate": "2026-11-17",
-      "source": "Nasdaq Calendar",
-      "symbol": "NWE",
       "type": "dividend"
     },
     {
@@ -9958,6 +9958,21 @@
       "recordDate": "2026-11-23",
       "source": "Nasdaq Calendar",
       "symbol": "BCIC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 1.95,
+      "companyName": "Chagee Holdings Limited American Depositary Shares",
+      "currency": "USD",
+      "eventDate": "2026-12-04",
+      "exDate": "2026-11-23",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHA-2026-12-04",
+      "market": "US",
+      "paymentDate": "2026-12-04",
+      "recordDate": "2026-11-23",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHA",
       "type": "dividend"
     },
     {
@@ -13636,5 +13651,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-11-16T03:31:04.268022+00:00"
+  "updated_at": "2026-11-16T14:08:54.600861+00:00"
 }
