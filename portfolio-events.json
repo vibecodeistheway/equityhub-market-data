@@ -377,21 +377,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "NEUPHORIA THERAPEUTICS INCORPORATED",
-      "currency": "USD",
-      "eventDate": "2026-11-20",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-NEUP-2026-11-20",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "NEUP",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "NORDICUS PARTNERS CORPORATION",
       "currency": "USD",
       "eventDate": "2026-11-20",
@@ -433,21 +418,6 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "PVL",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "QUANTUM X LABS INCORPORATED",
-      "currency": "USD",
-      "eventDate": "2026-11-20",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-QXL-2026-11-20",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "QXL",
       "type": "earnings"
     },
     {
@@ -827,21 +797,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "BLUE BIRD CORPORATION",
-      "currency": "USD",
-      "eventDate": "2026-11-23",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-BLBD-2026-11-23",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "BLBD",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "BIOLINERX LIMITED",
       "currency": "USD",
       "eventDate": "2026-11-23",
@@ -962,6 +917,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "EON RESOURCES INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-11-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-EONR-2026-11-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "EONR",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "EPSILON ENERGY LIMITED",
       "currency": "USD",
       "eventDate": "2026-11-23",
@@ -1052,6 +1022,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "HOMESTOLIFE LIMITED",
+      "currency": "USD",
+      "eventDate": "2026-11-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-HTLM-2026-11-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "HTLM",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "HIGH TEMPLAR TECH LIMITED",
       "currency": "USD",
       "eventDate": "2026-11-23",
@@ -1063,6 +1048,21 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "HTT",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "IP STRATEGY HOLDINGS INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-11-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-IPST-2026-11-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "IPST",
       "type": "earnings"
     },
     {
@@ -1168,6 +1168,21 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "SYM",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "TRIP.COM GROUP LIMITED",
+      "currency": "USD",
+      "eventDate": "2026-11-23",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-TCOM-2026-11-23",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "TCOM",
       "type": "earnings"
     },
     {
@@ -1997,21 +2012,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "PETCO HEALTH AND WELLNESS COMPANY INCORPORATED",
-      "currency": "USD",
-      "eventDate": "2026-11-24",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-WOOF-2026-11-24",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "WOOF",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "YIREN DIGITAL LIMITED",
       "currency": "USD",
       "eventDate": "2026-11-24",
@@ -2147,6 +2147,36 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "ATA CREATIVITY GLOBAL",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-AACG-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "AACG",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "AMERICAN EXCEPTIONALISM ACQUISITION CORPORATION A",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-AEXA-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "AEXA",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "ALARUM TECHNOLOGIES LIMITED",
       "currency": "USD",
       "eventDate": "2026-11-25",
@@ -2192,6 +2222,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "BIORESTORATIVE THERAPIES INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-BRTX-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "BRTX",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "KANZHUN LIMITED",
       "currency": "USD",
       "eventDate": "2026-11-25",
@@ -2203,6 +2248,36 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "BZ",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "CHINA AUTOMOTIVE SYSTEMS INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-CAAS-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "CAAS",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "CENNTRO INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-CENN-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "CENN",
       "type": "earnings"
     },
     {
@@ -2312,6 +2387,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "BITFUFU INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-FUFU-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "FUFU",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "GDS HOLDINGS LIMITED",
       "currency": "USD",
       "eventDate": "2026-11-25",
@@ -2323,6 +2413,21 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "GDS",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "GLOBAL INTERACTIVE TECHNOLOGIES INCORPORATED COMMON STOCK",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-GITS-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "GITS",
       "type": "earnings"
     },
     {
@@ -2417,6 +2522,36 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "LIGHTINTHEBOX HOLDING COMPANY LIMITED",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-LITB-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "LITB",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "LOCAL BOUNTI CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-LOCL-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "LOCL",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "NANO-X IMAGING LIMITED",
       "currency": "USD",
       "eventDate": "2026-11-25",
@@ -2428,6 +2563,36 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "NNOX",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "NEWCLEO PUBLIC LIMITED COMPANY",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-NWCL-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "NWCL",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "OMS ENERGY TECHNOLOGIES INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-OMSE-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "OMSE",
       "type": "earnings"
     },
     {
@@ -2473,6 +2638,66 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "SJ",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "SURGEPAYS INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-SURG-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "SURG",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "SCWORX CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-WORX-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "WORX",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "YATSEN HOLDING LIMITED",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-YSG-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "YSG",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "ZEROSTACK CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-11-25",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-ZSTK-2026-11-25",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "ZSTK",
       "type": "earnings"
     },
     {
@@ -2792,17 +3017,17 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "VISION MARINE TECHNOLOGIES INC",
+      "companyName": "X FINANCIAL",
       "currency": "USD",
       "eventDate": "2026-11-27",
       "exDate": null,
       "fiscalPeriod": null,
-      "id": "us-earnings-VMAR-2026-11-27",
+      "id": "us-earnings-XYF-2026-11-27",
       "market": "US",
       "paymentDate": null,
       "recordDate": null,
       "source": "Alpha Vantage",
-      "symbol": "VMAR",
+      "symbol": "XYF",
       "type": "earnings"
     },
     {
@@ -3031,6 +3256,21 @@
       "type": "earnings"
     },
     {
+      "amountPerShare": 0.225,
+      "companyName": "First Trust Senior Loan Fund",
+      "currency": "USD",
+      "eventDate": "2026-11-30",
+      "exDate": "2026-11-20",
+      "fiscalPeriod": null,
+      "id": "us-dividend-FTSL-2026-11-30",
+      "market": "US",
+      "paymentDate": "2026-11-30",
+      "recordDate": "2026-11-20",
+      "source": "Nasdaq Calendar",
+      "symbol": "FTSL",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0812,
       "companyName": "Powerlaw Corp. Common Stock",
       "currency": "USD",
@@ -3046,18 +3286,18 @@
       "type": "dividend"
     },
     {
-      "amountPerShare": 13.9,
-      "companyName": "Rallybio Corporation Common Stock",
+      "amountPerShare": 0.15,
+      "companyName": "ArrowMark Financial Corp. Common Stock",
       "currency": "USD",
       "eventDate": "2026-11-30",
       "exDate": "2026-11-23",
       "fiscalPeriod": null,
-      "id": "us-dividend-RLYB-2026-11-30",
+      "id": "us-dividend-BANX-2026-11-30",
       "market": "US",
       "paymentDate": "2026-11-30",
-      "recordDate": "2026-11-05",
+      "recordDate": "2026-11-23",
       "source": "Nasdaq Calendar",
-      "symbol": "RLYB",
+      "symbol": "BANX",
       "type": "dividend"
     },
     {
@@ -3238,6 +3478,21 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "CRDO",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "CERENCE INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-12-01",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-CRNC-2026-12-01",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "CRNC",
       "type": "earnings"
     },
     {
@@ -3617,6 +3872,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "BLUE BIRD CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-12-02",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-BLBD-2026-12-02",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "BLBD",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "BANK OF MONTREAL",
       "currency": "USD",
       "eventDate": "2026-12-02",
@@ -3643,6 +3913,21 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "BNS",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "CRACKER BARREL OLD COUNTRY STORE INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-12-02",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-CBRL-2026-12-02",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "CBRL",
       "type": "earnings"
     },
     {
@@ -3913,6 +4198,21 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "SNOW",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "SO-YOUNG INTERNATIONAL INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-12-02",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-SY-2026-12-02",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "SY",
       "type": "earnings"
     },
     {
@@ -5462,6 +5762,36 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "BARNES & NOBLE EDUCATION INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-12-08",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-BNED-2026-12-08",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "BNED",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "BRADY CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-12-08",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-BRC-2026-12-08",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "BRC",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "BRAZE INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-12-08",
@@ -5507,21 +5837,6 @@
     },
     {
       "amountPerShare": null,
-      "companyName": "CRACKER BARREL OLD COUNTRY STORE INCORPORATED",
-      "currency": "USD",
-      "eventDate": "2026-12-08",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-CBRL-2026-12-08",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "CBRL",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
       "companyName": "COGNYTE SOFTWARE LIMITED",
       "currency": "USD",
       "eventDate": "2026-12-08",
@@ -5548,21 +5863,6 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "CNM",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "THE CAMPBELL'S COMPANY",
-      "currency": "USD",
-      "eventDate": "2026-12-08",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-CPB-2026-12-08",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "CPB",
       "type": "earnings"
     },
     {
@@ -5822,6 +6122,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "PETCO HEALTH AND WELLNESS COMPANY INCORPORATED",
+      "currency": "USD",
+      "eventDate": "2026-12-08",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-WOOF-2026-12-08",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "WOOF",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "17 EDUCATION & TECHNOLOGY GROUP INCORPORATED",
       "currency": "USD",
       "eventDate": "2026-12-08",
@@ -5983,6 +6298,21 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "CHWY",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
+      "companyName": "THE CAMPBELL'S COMPANY",
+      "currency": "USD",
+      "eventDate": "2026-12-09",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-CPB-2026-12-09",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "CPB",
       "type": "earnings"
     },
     {
@@ -7066,6 +7396,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 1.0,
+      "companyName": "Star Bulk Carriers Corp. Common Shares",
+      "currency": "USD",
+      "eventDate": "2026-12-11",
+      "exDate": "2026-12-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SBLK-2026-12-11",
+      "market": "US",
+      "paymentDate": "2026-12-11",
+      "recordDate": "2026-12-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "SBLK",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.072,
       "companyName": "Tetra Tech, Inc. Common Stock",
       "currency": "USD",
@@ -7243,6 +7588,21 @@
       "recordDate": "2026-11-27",
       "source": "Nasdaq Calendar",
       "symbol": "COLB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.26,
+      "companyName": "Matthews International Corporation Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-14",
+      "exDate": "2026-11-30",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MATW-2026-12-14",
+      "market": "US",
+      "paymentDate": "2026-12-14",
+      "recordDate": "2026-11-30",
+      "source": "Nasdaq Calendar",
+      "symbol": "MATW",
       "type": "dividend"
     },
     {
@@ -7816,6 +8176,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.23,
+      "companyName": "LCNB Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-15",
+      "exDate": "2026-12-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-LCNB-2026-12-15",
+      "market": "US",
+      "paymentDate": "2026-12-15",
+      "recordDate": "2026-12-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "LCNB",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.05,
       "companyName": "Lifevantage Corporation Common Stock (Delaware)",
       "currency": "USD",
@@ -7873,6 +8248,21 @@
       "recordDate": "2026-12-01",
       "source": "Nasdaq Calendar",
       "symbol": "MCRI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.17,
+      "companyName": "MVB Financial Corp. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-15",
+      "exDate": "2026-12-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-MVBF-2026-12-15",
+      "market": "US",
+      "paymentDate": "2026-12-15",
+      "recordDate": "2026-12-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "MVBF",
       "type": "dividend"
     },
     {
@@ -7993,6 +8383,21 @@
       "recordDate": "2026-12-01",
       "source": "Nasdaq Calendar",
       "symbol": "SBGI",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3,
+      "companyName": "SS&C Technologies Holdings, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-15",
+      "exDate": "2026-12-01",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SSNC-2026-12-15",
+      "market": "US",
+      "paymentDate": "2026-12-15",
+      "recordDate": "2026-12-01",
+      "source": "Nasdaq Calendar",
+      "symbol": "SSNC",
       "type": "dividend"
     },
     {
@@ -8488,6 +8893,21 @@
       "recordDate": "2026-12-02",
       "source": "Nasdaq Calendar",
       "symbol": "ODFL",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.3175,
+      "companyName": "TFS Financial Corporation Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-16",
+      "exDate": "2026-12-02",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TFSL-2026-12-16",
+      "market": "US",
+      "paymentDate": "2026-12-16",
+      "recordDate": "2026-12-02",
+      "source": "Nasdaq Calendar",
+      "symbol": "TFSL",
       "type": "dividend"
     },
     {
@@ -9346,6 +9766,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.17,
+      "companyName": "Unity Bancorp, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-18",
+      "exDate": "2026-12-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-UNTY-2026-12-18",
+      "market": "US",
+      "paymentDate": "2026-12-18",
+      "recordDate": "2026-12-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "UNTY",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.0198,
       "companyName": "HSBC HK SDR 5TO1",
       "currency": "USD",
@@ -9601,6 +10036,51 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.39,
+      "companyName": "WesBanco, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2027-01-01",
+      "exDate": "2026-12-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WSBC-2027-01-01",
+      "market": "US",
+      "paymentDate": "2027-01-01",
+      "recordDate": "2026-12-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "WSBC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.4609,
+      "companyName": "WesBanco, Inc. Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+      "currency": "USD",
+      "eventDate": "2027-01-01",
+      "exDate": "2026-12-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-WSBCO-2027-01-01",
+      "market": "US",
+      "paymentDate": "2027-01-01",
+      "recordDate": "2026-12-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "WSBCO",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.4,
+      "companyName": "TrustCo Bank Corp NY Common Stock",
+      "currency": "USD",
+      "eventDate": "2027-01-04",
+      "exDate": "2026-12-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-TRST-2027-01-04",
+      "market": "US",
+      "paymentDate": "2027-01-04",
+      "recordDate": "2026-12-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "TRST",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.64,
       "companyName": "C.H. Robinson Worldwide, Inc. Common Stock",
       "currency": "USD",
@@ -9688,6 +10168,21 @@
       "recordDate": "2026-12-02",
       "source": "Nasdaq Calendar",
       "symbol": "LRCX",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 1.48,
+      "companyName": "PepsiCo, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2027-01-06",
+      "exDate": "2026-12-04",
+      "fiscalPeriod": null,
+      "id": "us-dividend-PEP-2027-01-06",
+      "market": "US",
+      "paymentDate": "2027-01-06",
+      "recordDate": "2026-12-04",
+      "source": "Nasdaq Calendar",
+      "symbol": "PEP",
       "type": "dividend"
     },
     {
@@ -10186,5 +10681,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-11-20T05:35:00.065433+00:00"
+  "updated_at": "2026-11-20T14:30:29.104743+00:00"
 }
