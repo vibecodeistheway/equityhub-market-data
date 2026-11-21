@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T13:48:53+00:00",
+  "updated_at": "2026-11-21T22:30:56+00:00",
   "shiller_pe": 36.44,
   "us_gdp_trillions": 33.01,
   "inflation_yoy": 3.74,
@@ -4777,7 +4777,7 @@
     }
   ],
   "errors": [
-    "inflation_yoy (BLS): could not convert string to float: '-'",
+    "inflation_yoy (BLS): The read operation timed out",
     "truflation: "
   ]
 }
