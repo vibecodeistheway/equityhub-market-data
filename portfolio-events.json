@@ -6902,6 +6902,21 @@
     },
     {
       "amountPerShare": null,
+      "companyName": "ORACLE CORPORATION",
+      "currency": "USD",
+      "eventDate": "2026-12-14",
+      "exDate": null,
+      "fiscalPeriod": null,
+      "id": "us-earnings-ORCL-2026-12-14",
+      "market": "US",
+      "paymentDate": null,
+      "recordDate": null,
+      "source": "Alpha Vantage",
+      "symbol": "ORCL",
+      "type": "earnings"
+    },
+    {
+      "amountPerShare": null,
       "companyName": "STAR GROUP, L.P.",
       "currency": "USD",
       "eventDate": "2026-12-14",
@@ -8053,21 +8068,6 @@
       "recordDate": null,
       "source": "Alpha Vantage",
       "symbol": "EPAC",
-      "type": "earnings"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "GENERAL MILLS INCORPORATED",
-      "currency": "USD",
-      "eventDate": "2026-12-16",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-GIS-2026-12-16",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "GIS",
       "type": "earnings"
     },
     {
@@ -10336,5 +10336,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-11-22T03:48:29.321822+00:00"
+  "updated_at": "2026-11-22T13:42:54.498661+00:00"
 }
