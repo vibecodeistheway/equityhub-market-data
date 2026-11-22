@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:30:56+00:00",
+  "updated_at": "2026-11-22T03:47:48+00:00",
   "shiller_pe": 36.44,
   "us_gdp_trillions": 33.01,
   "inflation_yoy": 3.74,
@@ -4433,7 +4433,7 @@
       "v": 96760.2
     }
   ],
-  "us_approval_rating": 36.1,
+  "us_approval_rating": 35.0,
   "us_approval_history": [
     {
       "d": "2025-02-02",
@@ -4774,10 +4774,14 @@
     {
       "d": "2026-11-15",
       "v": 36.1
+    },
+    {
+      "d": "2026-11-22",
+      "v": 35.0
     }
   ],
   "errors": [
-    "inflation_yoy (BLS): The read operation timed out",
+    "inflation_yoy (BLS): could not convert string to float: '-'",
     "truflation: "
   ]
 }
