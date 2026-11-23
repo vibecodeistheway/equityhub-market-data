@@ -1,51 +1,6 @@
 {
   "events": [
     {
-      "amountPerShare": 0.1175,
-      "companyName": "SINGAPORE EXCHANGE LIMITED",
-      "currency": "SGD",
-      "eventDate": "2026-11-22",
-      "exDate": "2026-11-12",
-      "fiscalPeriod": null,
-      "id": "sgx-2289164",
-      "market": "SG",
-      "paymentDate": "2026-11-22",
-      "recordDate": "2026-11-15",
-      "source": "SGX Corporate Actions",
-      "symbol": "1J26.SI",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": 0.25,
-      "companyName": "PHILLIP SGD MONEY MARKET ETF",
-      "currency": "SGD",
-      "eventDate": "2026-11-22",
-      "exDate": "2026-11-01",
-      "fiscalPeriod": null,
-      "id": "sgx-2289021",
-      "market": "SG",
-      "paymentDate": "2026-11-22",
-      "recordDate": "2026-11-02",
-      "source": "SGX Corporate Actions",
-      "symbol": "3YWI.SI",
-      "type": "dividend"
-    },
-    {
-      "amountPerShare": null,
-      "companyName": "ZEPP HEALTH CORPORATION",
-      "currency": "USD",
-      "eventDate": "2026-11-22",
-      "exDate": null,
-      "fiscalPeriod": null,
-      "id": "us-earnings-ZEPP-2026-11-22",
-      "market": "US",
-      "paymentDate": null,
-      "recordDate": null,
-      "source": "Alpha Vantage",
-      "symbol": "ZEPP",
-      "type": "earnings"
-    },
-    {
       "amountPerShare": 0.81,
       "companyName": "DBS GROUP HOLDINGS LTD",
       "currency": "SGD",
@@ -5641,6 +5596,66 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.0053,
+      "companyName": "DeFi Development Corp. Variable Rate Series C Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-08",
+      "exDate": "2026-12-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-CHAD-2026-12-08",
+      "market": "US",
+      "paymentDate": "2026-12-08",
+      "recordDate": "2026-12-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "CHAD",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.03,
+      "companyName": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-08",
+      "exDate": "2026-12-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-STRC-2026-12-08",
+      "market": "US",
+      "paymentDate": "2026-12-08",
+      "recordDate": "2026-12-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "STRC",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0569,
+      "companyName": "Strive, Inc. 15% Series A Perpetual SATS Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-08",
+      "exDate": "2026-12-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATS-2026-12-08",
+      "market": "US",
+      "paymentDate": "2026-12-08",
+      "recordDate": "2026-12-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATS",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.0502,
+      "companyName": "Strive, Inc. Variable Rate Series A Perpetual Preferred Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-08",
+      "exDate": "2026-12-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-SATA-2026-12-08",
+      "market": "US",
+      "paymentDate": "2026-12-08",
+      "recordDate": "2026-12-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "SATA",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": 0.02,
       "companyName": "JB FOODS LIMITED",
       "currency": "SGD",
@@ -7048,6 +7063,36 @@
       "recordDate": "2026-12-04",
       "source": "Nasdaq Calendar",
       "symbol": "CASS",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.22,
+      "companyName": "Alphabet Inc. Class A Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-14",
+      "exDate": "2026-12-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GOOGL-2026-12-14",
+      "market": "US",
+      "paymentDate": "2026-12-14",
+      "recordDate": "2026-12-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "GOOGL",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.22,
+      "companyName": "Alphabet Inc. Class C Capital Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-14",
+      "exDate": "2026-12-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-GOOG-2026-12-14",
+      "market": "US",
+      "paymentDate": "2026-12-14",
+      "recordDate": "2026-12-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "GOOG",
       "type": "dividend"
     },
     {
@@ -8851,6 +8896,21 @@
       "type": "dividend"
     },
     {
+      "amountPerShare": 0.25,
+      "companyName": "Red River Bancshares, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-17",
+      "exDate": "2026-12-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-RRBI-2026-12-17",
+      "market": "US",
+      "paymentDate": "2026-12-17",
+      "recordDate": "2026-12-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "RRBI",
+      "type": "dividend"
+    },
+    {
       "amountPerShare": null,
       "companyName": "FLANIGAN'S ENTERPRISES INCORPORATED",
       "currency": "USD",
@@ -9373,6 +9433,21 @@
       "recordDate": "2026-11-30",
       "source": "Nasdaq Calendar",
       "symbol": "KFFB",
+      "type": "dividend"
+    },
+    {
+      "amountPerShare": 0.15,
+      "companyName": "Eastern Bankshares, Inc. Common Stock",
+      "currency": "USD",
+      "eventDate": "2026-12-21",
+      "exDate": "2026-12-07",
+      "fiscalPeriod": null,
+      "id": "us-dividend-EBC-2026-12-21",
+      "market": "US",
+      "paymentDate": "2026-12-21",
+      "recordDate": "2026-12-07",
+      "source": "Nasdaq Calendar",
+      "symbol": "EBC",
       "type": "dividend"
     },
     {
@@ -10336,5 +10411,5 @@
       "type": "macro"
     }
   ],
-  "updated_at": "2026-11-22T22:55:08.976761+00:00"
+  "updated_at": "2026-11-23T04:26:03.512350+00:00"
 }
