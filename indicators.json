@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-25T01:41:16+00:00",
+  "updated_at": "2026-11-25T16:19:51+00:00",
   "fear_greed": {
-    "score": 17.4212454212454,
+    "score": 8.87088607594937,
     "rating": "extreme fear",
-    "previous_close": 16.9658627087199,
-    "previous_1_week": 25.9505791505792,
+    "previous_close": 17.4212454212454,
+    "previous_1_week": 29.8857142857143,
     "previous_1_month": 16.685714285714287,
-    "previous_1_year": 13.685714285714285
+    "previous_1_year": 15.028571428571428
   },
   "taiwan_exports_yoy": 58.92,
   "taiwan_ict_exports_yoy": 68.06,
@@ -1624,7 +1624,7 @@
       "v": 96760.2
     }
   ],
-  "us_approval_rating": 35.0,
+  "us_approval_rating": 34.6,
   "us_approval_history": [
     {
       "d": "2025-02-02",
@@ -1960,15 +1960,15 @@
     },
     {
       "d": "2026-11-08",
-      "v": 38.8
+      "v": 38.4
     },
     {
       "d": "2026-11-15",
-      "v": 36.1
+      "v": 36.2
     },
     {
       "d": "2026-11-22",
-      "v": 35.0
+      "v": 34.6
     }
   ],
   "errors": [
