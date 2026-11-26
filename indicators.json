@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-26T01:14:35+00:00",
+  "updated_at": "2026-11-26T15:55:02+00:00",
   "fear_greed": {
-    "score": 15.2253164556962,
+    "score": 14.9967450271248,
     "rating": "extreme fear",
-    "previous_close": 17.4212454212454,
-    "previous_1_week": 29.8857142857143,
-    "previous_1_month": 16.685714285714287,
-    "previous_1_year": 15.028571428571428
+    "previous_close": 15.2253164556962,
+    "previous_1_week": 15.8676691729323,
+    "previous_1_month": 29.8285714285714,
+    "previous_1_year": 17.657142857142862
   },
   "taiwan_exports_yoy": 58.92,
   "taiwan_ict_exports_yoy": 68.06,
